@@ -80,7 +80,7 @@
       39,
       40
     ],
-    "visible_layers": "0005400_00000011",
+    "visible_layers": "000d410_80000011",
     "zone_display_mode": 0
   },
   "meta": {
@@ -91,14 +91,14 @@
     "files": [
       {
         "name": "DQBSC.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
-          "display": 2,
+          "display": 1,
           "maximized": true,
-          "pos_x": -1928,
+          "pos_x": -8,
           "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1186
+          "size_x": 2576,
+          "size_y": 1424
         }
       },
       {
@@ -110,7 +110,7 @@
           "pos_x": -8,
           "pos_y": -8,
           "size_x": 2576,
-          "size_y": 1416
+          "size_y": 1424
         }
       }
     ]
