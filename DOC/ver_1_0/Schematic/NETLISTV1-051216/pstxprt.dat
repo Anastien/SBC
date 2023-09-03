@@ -1,0 +1,940 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001May-13-2016 at 14:55:49 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1';
+ POST_TIME='Oct 15 2014 05:53:32';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_0_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973577@VSC8664 EVALUATION BOARD.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973577@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973577@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_0402_C0402_0.01UF/16V/X5R':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53980364@CAMARILLO-PASSIVE.CAP_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53980364@\camarillo-passive\.\cap_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53980364@\camarillo-passive\.\cap_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972627@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972627@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972627@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_0_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973832@VSC8664 EVALUATION BOARD.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973832@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973832@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972697@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972697@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972697@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972557@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972557@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972557@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_0_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972838@VSC8664 EVALUATION BOARD.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972838@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972838@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973891@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973891@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973891@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_0_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973691@VSC8664 EVALUATION BOARD.CAP_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973691@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973691@\vsc8664 evaluation board\.\cap_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974188@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974188@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974188@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974212@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974212@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974212@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974200@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974200@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974200@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973600@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973600@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973600@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972685@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972685@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972685@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_1812_C1812_1000PF, 3KV':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973714@CAMARILLO-PASSIVE.CAP_1812.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973714@\camarillo-passive\.\cap_1812.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973714@\camarillo-passive\.\cap_1812.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_0603_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54041483@CAMARILLO-PASSIVE.CAP_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54041483@\camarillo-passive\.\cap_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54041483@\camarillo-passive\.\cap_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_0805_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973879@CAMARILLO-PASSIVE.CAP_0805.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973879@\camarillo-passive\.\cap_0805.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973879@\camarillo-passive\.\cap_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C835 'CAP_1812_C1812_1000PF, 3KV':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973856@CAMARILLO-PASSIVE.CAP_1812.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973856@\camarillo-passive\.\cap_1812.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973856@\camarillo-passive\.\cap_1812.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C836 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54001606@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54001606@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54001606@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C838 'CAP_0603_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54042475@CAMARILLO-PASSIVE.CAP_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54042475@\camarillo-passive\.\cap_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54042475@\camarillo-passive\.\cap_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C840 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973464@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973464@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973464@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C845 'CAP_0805_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973948@CAMARILLO-PASSIVE.CAP_0805.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973948@\camarillo-passive\.\cap_0805.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973948@\camarillo-passive\.\cap_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C849 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974263@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974263@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974263@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C850 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973903@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973903@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973903@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C869 'CAP_0805_C0805_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973452@CAMARILLO-PASSIVE.CAP_0805.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973452@\camarillo-passive\.\cap_0805.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973452@\camarillo-passive\.\cap_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C870 'CAPACITOR NON-POL_0402_1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53985429@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53985429@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53985429@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C879 'CAP_0603_C0603_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54023964@CAMARILLO-PASSIVE.CAP_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54023964@\camarillo-passive\.\cap_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54023964@\camarillo-passive\.\cap_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C880 'CAP_0603_C0603_18PF_50V':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54023988@CAMARILLO-PASSIVE.CAP_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54023988@\camarillo-passive\.\cap_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54023988@\camarillo-passive\.\cap_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C881 'CAP_0603_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54062499@CAMARILLO-PASSIVE.CAP_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54062499@\camarillo-passive\.\cap_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54062499@\camarillo-passive\.\cap_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C882 'CAP_0201_C0201_0.1UF':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54078140@CAMARILLO-PASSIVE.CAP_0201.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54078140@\camarillo-passive\.\cap_0201.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54078140@\camarillo-passive\.\cap_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D14 'LED_1206_LED_1206_GREEN':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54036552@CAMARILLO-PASSIVE.LED_1206.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54036552@\camarillo-passive\.\led_1206.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54036552@\camarillo-passive\.\led_1206.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D17 'LED_1206_LED_1206_GREEN':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54036561@CAMARILLO-PASSIVE.LED_1206.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54036561@\camarillo-passive\.\led_1206.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54036561@\camarillo-passive\.\led_1206.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'RJHS-5384-04_RJHSE-5384_RJHSE-5':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973972@RJHS-5384-04_LIBRARY1.RJHS-5384-04.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973972@\rjhs-5384-04_library1\.\rjhs-5384-04.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973972@\rjhs-5384-04_library1\.\rjhs-5384-04.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J90 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53997044@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53997044@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53997044@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J92 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53999319@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53999319@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53999319@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J93 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53999472@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53999472@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53999472@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J94 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53999729@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53999729@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53999729@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J95 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53999742@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53999742@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53999742@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J96 'QTE-020-01-F-D-A_QTE-020-01-F-D':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54044068@AUSTIN_ORCAD_LIBRARY.QTE-020-01-F-D-A.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54044068@austin_orcad_library.\qte-020-01-f-d-a.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54044068@austin_orcad_library.\qte-020-01-f-d-a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J97 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54062790@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54062790@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54062790@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J98 'CON2_3_1X2HDR_HEADER 1X2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54062805@LC_M1_SYS_MAN_BOARD_SCH_09_05_08_01.CON2_3.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54062805@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54062805@lc_m1_sys_man_board_sch_09_05_08_01.\con2_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'COIL_1206_COIL_1206_BLM31PG121S':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54043233@CAMARILLO-PASSIVE.COIL_1206.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54043233@\camarillo-passive\.\coil_1206.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54043233@\camarillo-passive\.\coil_1206.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'COIL_1206_COIL_1206_BLM31PG121S':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54043293@CAMARILLO-PASSIVE.COIL_1206.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54043293@\camarillo-passive\.\coil_1206.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54043293@\camarillo-passive\.\coil_1206.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_0603_R0603_75':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973960@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973960@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973960@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_0603_R0603_75':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973211@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973211@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973211@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_0603_R0603_75':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972861@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972861@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972861@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R398 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972805@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972805@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972805@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_0603_R0603_75':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973053@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973053@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973053@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R400 'RES_0603_R0603_510':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54036543@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54036543@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54036543@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R412 'RES_0402_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973065@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973065@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973065@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R417 'RES_0402_R0402_2K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53980545@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53980545@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53980545@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R432 'RESISTOR_R0402_4.7K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973566@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973566@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973566@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R434 'RES_0402_R0402_2K':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53985402@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53985402@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53985402@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R470 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53977407@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53977407@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53977407@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R482 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972968@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972968@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972968@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R483 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973926@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973926@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973926@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R484 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972906@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972906@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972906@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R485 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973760@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973760@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973760@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R486 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972827@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972827@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972827@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R487 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973668@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973668@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973668@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R488 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972745@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972745@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972745@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R489 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973393@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973393@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973393@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R490 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973645@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973645@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973645@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R491 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974302@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974302@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974302@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R492 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973915@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973915@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973915@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R493 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972895@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972895@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972895@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R494 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973749@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973749@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973749@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R495 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972816@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972816@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972816@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_0603_R0603_510':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54036534@CAMARILLO-PASSIVE.RES_0603.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54036534@\camarillo-passive\.\res_0603.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54036534@\camarillo-passive\.\res_0603.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R500 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53977399@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53977399@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53977399@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R501 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972477@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972477@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972477@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R502 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973166@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973166@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973166@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R504 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974035@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974035@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974035@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R505 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972945@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972945@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972945@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R506 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54029511@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54029511@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54029511@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R507 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54029601@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54029601@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54029601@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R508 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973726@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973726@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973726@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R509 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54029253@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54029253@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54029253@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R510 'RESISTOR_0402_10K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54029261@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54029261@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54029261@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R523 'RES_0402_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54021017@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54021017@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54021017@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R524 'RES_0402_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54021043@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54021043@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54021043@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R527 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54076923@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54076923@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54076923@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R528 'RES_0402_R0402_1M':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54023948@CAMARILLO-PASSIVE.RES_0402.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54023948@\camarillo-passive\.\res_0402.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54023948@\camarillo-passive\.\res_0402.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R529 'RESISTOR_R0402_4.7K_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54042209@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54042209@discrete.\resistor.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54042209@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R62 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972569@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972569@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972569@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R63 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53974046@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53974046@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53974046@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R64 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53972884@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53972884@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53972884@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R65 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973077@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973077@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973077@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R70 'R_0_0402_39_1%':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973476@AFS SSB BOARD.R_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973476@\afs ssb board\.\r_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973476@\afs ssb board\.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW10 'PB_SWITCH_0_EVQ-PAD04M_EVQ-PAD0':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53985411@LIBRARY1.PB_SWITCH_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53985411@library1.\pb_switch_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53985411@library1.\pb_switch_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U169 'VSC8541XMV_QFN68_8X8_VSC8541XMV':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54040189@VSC8541XMV.VSC8541XMV.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54040189@vsc8541xmv.\vsc8541xmv.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54040189@vsc8541xmv.\vsc8541xmv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'H5008NL_TG111-MSCE13LF_TG111-MS':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS53973111@CAMARILLO-DISCRETE.H5008NL.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins53973111@\camarillo-discrete\.\h5008nl.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins53973111@\camarillo-discrete\.\h5008nl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'XTAL-25M_0_SMT_XTAL_5MMX3P2MM_2':;
+
+SECTION_NUMBER 1
+ '@VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1.EVAL_BOARD(SCH_1):INS54023789@VB8541_MINI_VALIDATION_BOARD_V010.XTAL-25M_0.NORMAL(CHIPS)':
+ C_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):ins54023789@vb8541_mini_validation_board_v010.\xtal-25m_0.normal\(chips)',
+ P_PATH='@\vsc8541xmv_customer_reference_schematic_05-12-2016-v1\.eval_board(sch_1):page1_ins54023789@vb8541_mini_validation_board_v010.\xtal-25m_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

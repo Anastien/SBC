@@ -1,0 +1,30 @@
+{ Using PSTWRITER 16.6.0 d001May-13-2016 at 14:55:48 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.32" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "RCVRD_CLK_QTE".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.34" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "CLKOUT_QTE".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.37" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "MDC".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.38" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "FASTLINK_FAIL".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.35" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "TXD7".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.33" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "TXD6".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.36" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "NRESET".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "J96.31" ignored for J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00). Connecting pin to net "TXD5".
+#9 WARNING(ORCAP-36006): Part Name "RJHS-5384-04_RJHSE-5384_RJHSE-5384" is renamed to "RJHS-5384-04_RJHSE-5384_RJHSE-5".
+#10 WARNING(ORCAP-36006): Part Name "QTE-020-01-F-D-A_QTE-020-01-F-D-A_QTE-020-01-F-D-A" is renamed to "QTE-020-01-F-D-A_QTE-020-01-F-D".
+#11 WARNING(ORCAP-36042): Pin "BLADE" is renamed to "BLADE#42" as visible power pin of same name already exists in Package QTE-020-01-F-D-A , J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00).
+#12 WARNING(ORCAP-36042): Pin "BLADE" is renamed to "BLADE#43" as visible power pin of same name already exists in Package QTE-020-01-F-D-A , J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00).
+#13 WARNING(ORCAP-36042): Pin "BLADE" is renamed to "BLADE#44" as visible power pin of same name already exists in Package QTE-020-01-F-D-A , J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00).
+#14 WARNING(ORCAP-36042): Pin "BLADE" is renamed to "BLADE#45" as visible power pin of same name already exists in Package QTE-020-01-F-D-A , J96: EVAL_BOARD, 01:VSC8541XMV (18.90, 3.00).
+#15 WARNING(ORCAP-36006): Part Name "COIL_1206_COIL_1206_BLM31PG121SN" is renamed to "COIL_1206_COIL_1206_BLM31PG121S".
+#16 WARNING(ORCAP-36006): Part Name "PB_SWITCH_0_EVQ-PAD04M_EVQ-PAD04M" is renamed to "PB_SWITCH_0_EVQ-PAD04M_EVQ-PAD0".
+#17 WARNING(ORCAP-36006): Part Name "H5008NL_TG111-MSCE13LF_TG111-MSCE13LF" is renamed to "H5008NL_TG111-MSCE13LF_TG111-MS".
+#18 WARNING(ORCAP-36006): Part Name "XTAL-25M_0_SMT_XTAL_5MMX3P2MM_25MHZ" is renamed to "XTAL-25M_0_SMT_XTAL_5MMX3P2MM_2".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\VINOD\JOBS\JOBS_2016\ACTEL\VSC8541XMV_CUSTOMER_REFERENCE_FILE\OUTPUTS\051316\NETLISTV1-051216/pstchip.dat
+
+Loading... D:\VINOD\JOBS\JOBS_2016\ACTEL\VSC8541XMV_CUSTOMER_REFERENCE_FILE\OUTPUTS\051316\NETLISTV1-051216/pstchip.dat
+
+Loading... D:\VINOD\JOBS\JOBS_2016\ACTEL\VSC8541XMV_CUSTOMER_REFERENCE_FILE\OUTPUTS\051316\NETLISTV1-051216/pstxprt.dat
+
+Loading... D:\VINOD\JOBS\JOBS_2016\ACTEL\VSC8541XMV_CUSTOMER_REFERENCE_FILE\OUTPUTS\051316\NETLISTV1-051216/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,215 @@
+Date and Time : 05/14/16 13:26:41
+
+--------------------------------------------------
+Checking Schematic: EVAL_BOARD
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    GND_EARTH
+    VDD1A_FILT
+    VDD25
+    VDDMDIO
+    VDDIO
+    VDDMAC
+    GND
+    VDD25A_FILT
+    DP
+    VDD1
+
+Reporting Net Names
+    N53972087
+    RXD3_0
+    RX_DV/RX_CTL_0
+    RXD6
+    REF_FILT
+    VDDMDIO
+    P0_D2N
+    TX_ER
+    TXD4
+    RXD6_0
+    RX_CLK
+    N53972065
+    N53972055
+    XTAL2
+    MDINT
+    CRS
+    RXD4
+    P0_D0P
+    N53972077
+    TXD0
+    RCVRD_CLK_QTE
+    REF_REXT
+    VDD1A_FILT
+    P0_D1P
+    NRESET
+    RXD2_0
+    RCVRD_CLK
+    LED1
+    RXD1
+    N53972075
+    TXD3
+    TXD7
+    CRS_0
+    REFCLK_SEL_0
+    VDD25
+    P0_D2P
+    RX_CLK_0
+    RXD7_0
+    RXD0
+    N53972047
+    N53972090
+    CLK_SQUELCH_IN
+    N53972340
+    LED0
+    N53972071
+    P0_D3P
+    GTX_CLK
+    MDIO
+    RX_DV/RX_CTL
+    GND
+    -------------------------------------------------------------------------------
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? GND 
+                    EVAL_BOARD, 01:VSC8541XMV  (1.70, 11.50) 
+             Alternate Name:  COMA_MODE
+             Alternate Name:  P_GND
+    -------------------------------------------------------------------------------
+
+    P0_D0N
+    DP
+    FASTLINK_FAIL
+    CLKOUT
+    RXD3
+    TX_CLK
+    N53972051
+    TXD2
+    TXD6
+    COL_0
+    REFCLK_SEL_1
+    VDD25A_FILT
+    P0_D1N
+    RX_ER_0
+    RXD1_0
+    THERMDA
+    RXD7
+    N53972079
+    N53972063
+    RXD4_0
+    XTAL1
+    RXD2
+    N54036521
+    VDDIO
+    N53972061
+    TX_CLK_0
+    TXD5
+    RXD5_0
+    RX_ER
+    VDDMAC
+    N53972068
+    N53972067
+    N54023815
+    CLKOUT_QTE
+    RXD5
+    COL
+    N53972073
+    P0_D3N
+    TXD1
+    MDC
+    N54036519
+    VDD1
+    N53972058
+    RXD0_0
+    TX_EN/TX_CTL
+    THERMDC_VSS
+    GND_EARTH
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: EVAL_BOARD
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+WARNING(ORCAP-1590): Visible unconnected Power Pins are connected to global nets J96,DP 
+                    EVAL_BOARD, 01:VSC8541XMV  (19.20, 2.70) 
+
+--------------------------------------------------
+Checking Entire Design: VSC8541XMV_CUSTOMER_REFERENCE_SCHEMATIC_05-12-2016-V1 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD25A2  VDD25A2  VDD25A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (10.80, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD25A1  VDD25A1  VDD25A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (10.70, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD25A3  VDD25A3  VDD25A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (10.90, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD1A2  VDD1A2  VDD1A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (11.20, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD1A1  VDD1A1  VDD1A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (11.10, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD1A3  VDD1A3  VDD1A_FILT
+                    EVAL_BOARD, 01:VSC8541XMV  (11.30, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDDMAC2  VDDMAC2  VDDMAC
+                    EVAL_BOARD, 01:VSC8541XMV  (12.00, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDDMAC3  VDDMAC3  VDDMAC
+                    EVAL_BOARD, 01:VSC8541XMV  (12.10, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDDMAC4  VDDMAC4  VDDMAC
+                    EVAL_BOARD, 01:VSC8541XMV  (12.20, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDDMAC1  VDDMAC1  VDDMAC
+                    EVAL_BOARD, 01:VSC8541XMV  (11.90, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? GND  GND  P_GND  COMA_MODE  
+                    EVAL_BOARD, 01:VSC8541XMV  (1.70, 11.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,P_GND  P_GND  GND
+                    EVAL_BOARD, 01:VSC8541XMV  (11.50, 13.30) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J96,BLADE  BLADE  GND
+                    EVAL_BOARD, 01:VSC8541XMV  (19.10, 6.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J96,BLADE  BLADE  GND
+                    EVAL_BOARD, 01:VSC8541XMV  (19.00, 6.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J96,BLADE  BLADE  GND
+                    EVAL_BOARD, 01:VSC8541XMV  (19.20, 6.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J96,BLADE  BLADE  GND
+                    EVAL_BOARD, 01:VSC8541XMV  (19.30, 6.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD11  VDD11  VDD1
+                    EVAL_BOARD, 01:VSC8541XMV  (11.50, 7.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U169,VDD12  VDD12  VDD1
+                    EVAL_BOARD, 01:VSC8541XMV  (11.60, 7.60) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

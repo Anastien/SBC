@@ -1,0 +1,54 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Tue May 17 17:43:12 2016
+\t (00:00:04)         Host=AUSENT0019 User=jchodges Pid=6380 CPUs=2
+\t (00:00:04) 
+\t (00:00:08) Opening existing design...
+\w (00:00:08) WARNING(SPMHDB-214): Allegro PCB Librarian XL opening an Librarian EOL {Layout} design.
+\w (00:00:08) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:08) WARNING(SPMHOD-34): Design was last saved by lower capability product (Librarian EOL {È<}). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:00:09) fillin confirm
+\d (00:00:09) Database opened: X:/mini/PCB/VSC8541XMV_Customer_Reference_Schematic/05-14-2016_final/Layout/VSC8541XMV_CUSTOMER_REF_BOARD_16-0351_PCB_0514.brd
+\i (00:00:10) trapsize 6970
+\i (00:00:10) trapsize 6745
+\i (00:00:10) trapsize 7009
+\i (00:00:14) trapsize 7009
+\i (00:00:14) generaledit 
+\i (00:00:18) setwindow form.vf_vis
+\i (00:00:18) FORM vf_vis colorview_list Film: fab 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:21) roam x 96 
+\i (00:00:21) roam x 96
+\i (00:00:22) roam x 96 
+\i (00:00:22) roam x 96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:22) roam y -96 
+\i (00:00:22) roam y -96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -96
+\i (00:00:23) roam y -96 
+\i (00:00:23) roam y -48
+\i (00:00:24) roam x 96 
+\i (00:00:24) roam x 96
+\i (00:00:26) exit 
+\t (00:00:27)     Journal end - Tue May 17 17:43:36 2016

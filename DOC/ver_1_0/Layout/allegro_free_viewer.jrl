@@ -1,0 +1,31 @@
+\t (00:00:26) allegro_free_viewer 16.5 S004 (v16-5-0A) i86
+\t (00:00:26)     Journal start - Wed May 18 16:11:47 2016
+\t (00:00:26)         Host=WK-ROBERTM User=robertr Pid=5448 CPUs=4
+\t (00:00:26) 
+\d (00:00:26) Database opened: //Grizzly/NPD/Apps/VPPD_Source/VPPD-04190_8541RefDes_RefDes/ver_1_0/Layout/VSC8541XMV_CUSTOMER_REF_BOARD_16-0351_PCB_0514.brd
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 5429.02 -319.02
+\i (00:00:29) trapsize 7631
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 5429.02 -319.02
+\i (00:00:29) trapsize 3816
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in 2460.56 1222.44
+\i (00:00:33) trapsize 1908
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 2460.56 1222.45
+\i (00:00:34) trapsize 954
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 2460.57 1222.45
+\i (00:00:35) trapsize 1908
+\i (00:00:50) open 
+\i (00:01:07) fillin "\\Grizzly\NPD\Apps\VPPD_Source\VPPD-04191_8531RefDes_RefDes\ver_1_0\Layout\VSC8531XMV_CUSTOMER_REF_BOARD_16-0375_PCB_0514_1.brd"
+\i (00:01:07) cd "\\Grizzly\NPD\Apps\VPPD_Source\VPPD-04191_8531RefDes_RefDes\ver_1_0\Layout"
+\t (00:01:07) Opening existing design...
+\i (00:01:08) trapsize 6181
+\t (00:01:08)     Journal end - Wed May 18 16:12:29 2016

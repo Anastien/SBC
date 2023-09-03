@@ -1,0 +1,12 @@
+\t (00:00:00) allegro_free_viewer 16.5 S004 (v16-5-0A) i86
+\t (00:00:00)     Journal start - Tue May 17 17:42:59 2016
+\t (00:00:00)         Host=AUSENT0019 User=jchodges Pid=5484 CPUs=2
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Database opened: X:/mini/PCB/VSC8541XMV_Customer_Reference_Schematic/05-14-2016_final/VSC8541_DRA/QFN68_8X8.dra
+\i (00:00:00) trapsize 754
+\i (00:00:00) trapsize 738
+\i (00:00:01) trapsize 719
+\i (00:00:01) trapsize 719
+\i (00:00:04) exit 
+\t (00:00:05)     Journal end - Tue May 17 17:43:04 2016
