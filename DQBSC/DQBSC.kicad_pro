@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.09999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -96,17 +96,17 @@
         "silk_overlap": "ignore",
         "skew_out_of_range": "ignore",
         "solder_mask_bridge": "ignore",
-        "starved_thermal": "ignore",
+        "starved_thermal": "error",
         "text_height": "ignore",
         "text_thickness": "ignore",
         "through_hole_pad_without_hole": "ignore",
         "too_many_vias": "ignore",
-        "track_dangling": "ignore",
+        "track_dangling": "error",
         "track_width": "ignore",
         "tracks_crossing": "error",
         "unconnected_items": "ignore",
         "unresolved_variable": "ignore",
-        "via_dangling": "ignore",
+        "via_dangling": "error",
         "zones_intersect": "ignore"
       },
       "rules": {

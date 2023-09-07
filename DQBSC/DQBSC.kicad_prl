@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 3,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -23,7 +23,7 @@
       "DRAM_CKA_N"
     ],
     "high_contrast_mode": 1,
-    "net_color_mode": 2,
+    "net_color_mode": 0,
     "opacity": {
       "images": 0.75,
       "pads": 0.7900000214576721,
@@ -33,7 +33,7 @@
     },
     "selection_filter": {
       "dimensions": true,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": true,
       "lockedItems": true,
@@ -80,7 +80,7 @@
       39,
       40
     ],
-    "visible_layers": "0009420_80000009",
+    "visible_layers": "000d420_8000005d",
     "zone_display_mode": 0
   },
   "meta": {
@@ -93,12 +93,12 @@
         "name": "DQBSC.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1424
+          "display": 0,
+          "maximized": false,
+          "pos_x": -1927,
+          "pos_y": 0,
+          "size_x": 1934,
+          "size_y": 1177
         }
       },
       {
