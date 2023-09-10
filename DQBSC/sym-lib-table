@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "DQSBC")(type "KiCad")(uri "${KIPRJMOD}/DQSBCkicad_sym.kicad_sym")(options "")(descr ""))
-  (lib (name "awg1000")(type "KiCad")(uri "E:/Personal/Anas/AWG1000/hardware/01-ECAD/02_AWG100_Carrier_Board/01-KiCAD Files/AWG1000/awg1000.kicad_sym")(options "")(descr ""))
-)

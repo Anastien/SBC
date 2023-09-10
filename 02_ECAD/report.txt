@@ -1,0 +1,634 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:CP_Elec_6.3x7.7'.
+Info: Processing symbol 'U10:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:CP_Elec_6.3x7.7'.
+Info: Processing symbol 'U11:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'C28:Capacitor_SMD:CP_Elec_6.3x7.7'.
+Info: Processing symbol 'U12:DQSBC:200-Ball TFBGA - 10mm x 14.5mm x 1.1mm'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C48:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C56:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C59:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C61:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C62:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C63:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C64:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C65:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C66:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C67:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C68:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C69:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C70:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C71:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C72:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C73:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C74:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C75:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C76:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C77:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C78:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C79:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C80:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C81:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C82:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C83:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C84:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C85:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C86:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C87:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C88:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C89:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C90:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C91:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C92:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C93:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C94:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C95:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C96:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C97:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C98:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C99:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C100:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C101:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C102:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C103:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C104:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C105:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C106:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C107:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C108:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C109:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C110:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C111:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C112:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C113:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C114:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C115:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C116:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C117:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C118:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C119:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C120:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C121:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C122:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C123:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C124:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C125:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C126:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C127:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C128:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C129:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C130:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C131:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C132:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C133:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C134:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C135:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C136:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C137:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C138:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C139:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C140:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C141:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C142:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C143:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C144:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C145:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C146:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C147:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C148:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C149:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C150:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C151:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C152:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C153:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C154:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C155:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C156:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C157:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C158:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C159:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C160:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C161:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C162:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C163:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C164:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C165:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C166:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C167:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C168:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C169:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C170:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C171:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C172:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C173:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C174:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C175:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C176:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C177:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C178:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C179:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C180:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C181:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C182:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C183:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C184:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C185:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C186:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C187:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C188:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C189:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C190:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C191:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C192:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C193:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C194:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C195:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C196:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C197:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C198:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C199:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C200:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C201:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C202:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C203:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C204:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C205:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C206:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C207:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C208:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C209:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C210:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C211:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C212:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C213:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C214:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C215:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C216:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C217:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C218:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C219:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C220:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C221:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C222:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C223:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C224:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C225:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C226:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C227:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C228:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C229:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C230:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C231:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C232:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C233:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C234:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C235:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C236:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C237:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C238:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C239:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C240:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C241:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C242:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C243:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C244:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C245:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C246:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C247:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C248:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'C249:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C250:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C251:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C252:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C253:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C254:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C255:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C256:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C257:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C258:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C259:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C260:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C261:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C262:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C263:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C264:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C265:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C266:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C267:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C268:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C269:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C270:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C271:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C272:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C273:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C274:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C275:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C276:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C277:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C278:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C279:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C280:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C281:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C282:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C283:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C284:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C285:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C286:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C287:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA'.
+Info: Processing symbol 'D2:Diode_SMD:D_0603_1608Metric'.
+Info: Processing symbol 'D3:Diode_SMD:D_0603_1608Metric'.
+Info: Processing symbol 'D4:Diode_SMD:D_0603_1608Metric'.
+Info: Processing symbol 'D5:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'D6:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'D7:Diode_SMD:D_SOD-123F'.
+Info: Processing symbol 'D8:Diode_SMD:D_SOD-323'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0402_1005Metric'.
+Info: Processing symbol 'FB2:Inductor_SMD:L_0201_0603Metric'.
+Info: Processing symbol 'FB3:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'FB4:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopBottom'.
+Info: Processing symbol 'HS1:DQSBC:HSB07-202009'.
+Info: Processing symbol 'J1:DQSBC:CONN_3-1827253-6'.
+Info: Processing symbol 'U13:DQSBC:BGA153N50P14X14_1300X1150X80'.
+Info: Processing symbol 'U14:DQSBC:WSON-8-1EP_8x6mm_P1.27mm_E4.7X4.6mm'.
+Info: Processing symbol 'U15:Package_DFN_QFN:QFN-68-1EP_8x8mm_P0.4mm_EP5.2x5.2mm'.
+Info: Processing symbol 'Y1:DQSBC:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm'.
+Info: Processing symbol 'Y2:DQSBC:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm'.
+Info: Processing symbol 'Y3:Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm'.
+Info: Processing symbol 'J2:Connector_PinHeader_1.00mm:PinHeader_2x05_P1.00mm_Vertical'.
+Info: Processing symbol 'L1:DQSBC:74404024010'.
+Info: Processing symbol 'L2:DQSBC:74404024010'.
+Info: Processing symbol 'L3:DQSBC:74404024010'.
+Info: Processing symbol 'L4:DQSBC:74404024010'.
+Info: Processing symbol 'L5:DQSBC:74404024010'.
+Info: Processing symbol 'L6:DQSBC:IHLP-4040'.
+Info: Processing symbol 'L7:DQSBC:L_0806'.
+Info: Processing symbol 'L8:Inductor_SMD:L_1008_2520Metric'.
+Info: Processing symbol 'L9:Inductor_SMD:L_1008_2520Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'Q2:DQSBC:POWERPAK_1212_8_S'.
+Info: Processing symbol 'Q3:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'Q4:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'Q5:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'Q6:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R44:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'R45:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R46:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R47:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R48:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R49:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R50:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R51:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R52:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R53:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R54:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R55:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R56:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R57:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R58:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R59:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R60:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R61:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R62:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R63:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R64:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R65:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R66:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R67:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R68:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R69:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R70:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R71:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R73:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R75:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R76:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R77:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R78:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R79:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R80:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R81:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R82:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R83:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R84:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R85:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SH1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SH2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SW1:DQSBC:NANOT160AS'.
+Info: Processing symbol 'SW2:DQSBC:NANOT160AS'.
+Info: Processing symbol 'SW3:Button_Switch_SMD:SW_DIP_SPSTx02_Slide_KingTek_DSHP02TJ_W5.25mm_P1.27mm_JPin'.
+Info: Processing symbol 'U1:DQSBC:QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias'.
+Info: Processing symbol 'U2:DQSBC:PowerPAK_MLP55-32L'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U5:DQSBC:MP2147GD-Z'.
+Info: Processing symbol 'U6:DQSBC:VSSOP-8_3.0x3.0mm_P0.65mm'.
+Info: Processing symbol 'U7:DQSBC:MP2147GD-Z'.
+Info: Processing symbol 'U8:Package_TO_SOT_SMD:SOT-143'.
+Info: Processing symbol 'U9:DQSBC:BGA621C65P25X25_1700X1700X218N'.
+Update C20 fields.
+Update C27 fields.
+Update C28 fields.
+Warning: No net found for component 221 pad J1 (no pin 221 in symbol).
+Warning: No net found for component 221.1 pad J1 (no pin 221.1 in symbol).
+Warning: No net found for component 221.2 pad J1 (no pin 221.2 in symbol).
+Warning: No net found for component 222 pad J1 (no pin 222 in symbol).
+Warning: No net found for component 222.1 pad J1 (no pin 222.1 in symbol).
+Warning: No net found for component 222.2 pad J1 (no pin 222.2 in symbol).
+Warning: No net found for component D3 pad U9 (no pin D3 in symbol).
+Warning: No net found for component E1 pad U9 (no pin E1 in symbol).
+Warning: No net found for component E2 pad U9 (no pin E2 in symbol).
+Warning: No net found for component E6 pad U9 (no pin E6 in symbol).
+Warning: No net found for component F1 pad U9 (no pin F1 in symbol).
+Warning: No net found for component F2 pad U9 (no pin F2 in symbol).
+Warning: No net found for component F3 pad U9 (no pin F3 in symbol).
+Warning: No net found for component F4 pad U9 (no pin F4 in symbol).
+Warning: No net found for component F6 pad U9 (no pin F6 in symbol).
+Warning: No net found for component F20 pad U9 (no pin F20 in symbol).
+Warning: No net found for component G1 pad U9 (no pin G1 in symbol).
+Warning: No net found for component G2 pad U9 (no pin G2 in symbol).
+Warning: No net found for component G3 pad U9 (no pin G3 in symbol).
+Warning: No net found for component G4 pad U9 (no pin G4 in symbol).
+Warning: No net found for component G5 pad U9 (no pin G5 in symbol).
+Warning: No net found for component G6 pad U9 (no pin G6 in symbol).
+Warning: No net found for component H1 pad U9 (no pin H1 in symbol).
+Warning: No net found for component H2 pad U9 (no pin H2 in symbol).
+Warning: No net found for component H3 pad U9 (no pin H3 in symbol).
+Warning: No net found for component H4 pad U9 (no pin H4 in symbol).
+Warning: No net found for component H5 pad U9 (no pin H5 in symbol).
+Warning: No net found for component H6 pad U9 (no pin H6 in symbol).
+Warning: No net found for component H11 pad U9 (no pin H11 in symbol).
+Warning: No net found for component J1 pad U9 (no pin J1 in symbol).
+Warning: No net found for component J2 pad U9 (no pin J2 in symbol).
+Warning: No net found for component J4 pad U9 (no pin J4 in symbol).
+Warning: No net found for component J5 pad U9 (no pin J5 in symbol).
+Warning: No net found for component K1 pad U9 (no pin K1 in symbol).
+Warning: No net found for component K2 pad U9 (no pin K2 in symbol).
+Warning: No net found for component K4 pad U9 (no pin K4 in symbol).
+Warning: No net found for component K5 pad U9 (no pin K5 in symbol).
+Warning: No net found for component L1 pad U9 (no pin L1 in symbol).
+Warning: No net found for component L2 pad U9 (no pin L2 in symbol).
+Warning: No net found for component L4 pad U9 (no pin L4 in symbol).
+Warning: No net found for component L5 pad U9 (no pin L5 in symbol).
+Warning: No net found for component M4 pad U9 (no pin M4 in symbol).
+Warning: No net found for component M5 pad U9 (no pin M5 in symbol).
+Warning: No net found for component N4 pad U9 (no pin N4 in symbol).
+Warning: No net found for component A3 pad U9 (no pin A3 in symbol).
+Warning: No net found for component B2 pad U9 (no pin B2 in symbol).
+Warning: No net found for component B3 pad U9 (no pin B3 in symbol).
+Warning: No net found for component AA1 pad U12 (no pin AA1 in symbol).
+Warning: No net found for component AB2 pad U12 (no pin AB2 in symbol).
+Warning: No net found for component AB5 pad U12 (no pin AB5 in symbol).
+Warning: No net found for component N3 pad U12 (no pin N3 in symbol).
+Warning: No net found for component N10 pad U12 (no pin N10 in symbol).
+Warning: No net found for component N12 pad U12 (no pin N12 in symbol).
+Warning: No net found for component R1 pad U12 (no pin R1 in symbol).
+Warning: No net found for component R5 pad U12 (no pin R5 in symbol).
+Warning: No net found for component R8 pad U12 (no pin R8 in symbol).
+Warning: No net found for component U5 pad U12 (no pin U5 in symbol).
+Warning: No net found for component C1 pad U9 (no pin C1 in symbol).
+Warning: No net found for component A1 pad U13 (no pin A1 in symbol).
+Warning: No net found for component A2 pad U13 (no pin A2 in symbol).
+Warning: No net found for component A12 pad U13 (no pin A12 in symbol).
+Warning: No net found for component A13 pad U13 (no pin A13 in symbol).
+Warning: No net found for component A14 pad U13 (no pin A14 in symbol).
+Warning: No net found for component B1 pad U13 (no pin B1 in symbol).
+Warning: No net found for component B7 pad U13 (no pin B7 in symbol).
+Warning: No net found for component B8 pad U13 (no pin B8 in symbol).
+Warning: No net found for component B9 pad U13 (no pin B9 in symbol).
+Warning: No net found for component B10 pad U13 (no pin B10 in symbol).
+Warning: No net found for component B11 pad U13 (no pin B11 in symbol).
+Warning: No net found for component B12 pad U13 (no pin B12 in symbol).
+Warning: No net found for component B13 pad U13 (no pin B13 in symbol).
+Warning: No net found for component B14 pad U13 (no pin B14 in symbol).
+Warning: No net found for component C1 pad U13 (no pin C1 in symbol).
+Warning: No net found for component C3 pad U13 (no pin C3 in symbol).
+Warning: No net found for component C5 pad U13 (no pin C5 in symbol).
+Warning: No net found for component C7 pad U13 (no pin C7 in symbol).
+Warning: No net found for component C8 pad U13 (no pin C8 in symbol).
+Warning: No net found for component C9 pad U13 (no pin C9 in symbol).
+Warning: No net found for component C10 pad U13 (no pin C10 in symbol).
+Warning: No net found for component C11 pad U13 (no pin C11 in symbol).
+Warning: No net found for component C12 pad U13 (no pin C12 in symbol).
+Warning: No net found for component C13 pad U13 (no pin C13 in symbol).
+Warning: No net found for component C14 pad U13 (no pin C14 in symbol).
+Warning: No net found for component D1 pad U13 (no pin D1 in symbol).
+Warning: No net found for component D2 pad U13 (no pin D2 in symbol).
+Warning: No net found for component D3 pad U13 (no pin D3 in symbol).
+Warning: No net found for component D4 pad U13 (no pin D4 in symbol).
+Warning: No net found for component D12 pad U13 (no pin D12 in symbol).
+Warning: No net found for component D13 pad U13 (no pin D13 in symbol).
+Warning: No net found for component D14 pad U13 (no pin D14 in symbol).
+Warning: No net found for component E1 pad U13 (no pin E1 in symbol).
+Warning: No net found for component E2 pad U13 (no pin E2 in symbol).
+Warning: No net found for component E3 pad U13 (no pin E3 in symbol).
+Warning: No net found for component E5 pad U13 (no pin E5 in symbol).
+Warning: No net found for component E7 pad U13 (no pin E7 in symbol).
+Warning: No net found for component E8 pad U13 (no pin E8 in symbol).
+Warning: No net found for component E9 pad U13 (no pin E9 in symbol).
+Warning: No net found for component E10 pad U13 (no pin E10 in symbol).
+Warning: No net found for component E12 pad U13 (no pin E12 in symbol).
+Warning: No net found for component E13 pad U13 (no pin E13 in symbol).
+Warning: No net found for component E14 pad U13 (no pin E14 in symbol).
+Warning: No net found for component F1 pad U13 (no pin F1 in symbol).
+Warning: No net found for component F2 pad U13 (no pin F2 in symbol).
+Warning: No net found for component F3 pad U13 (no pin F3 in symbol).
+Warning: No net found for component F10 pad U13 (no pin F10 in symbol).
+Warning: No net found for component F12 pad U13 (no pin F12 in symbol).
+Warning: No net found for component F13 pad U13 (no pin F13 in symbol).
+Warning: No net found for component F14 pad U13 (no pin F14 in symbol).
+Warning: No net found for component G1 pad U13 (no pin G1 in symbol).
+Warning: No net found for component G2 pad U13 (no pin G2 in symbol).
+Warning: No net found for component G3 pad U13 (no pin G3 in symbol).
+Warning: No net found for component G5 pad U13 (no pin G5 in symbol).
+Warning: No net found for component G10 pad U13 (no pin G10 in symbol).
+Warning: No net found for component G12 pad U13 (no pin G12 in symbol).
+Warning: No net found for component G13 pad U13 (no pin G13 in symbol).
+Warning: No net found for component G14 pad U13 (no pin G14 in symbol).
+Warning: No net found for component H1 pad U13 (no pin H1 in symbol).
+Warning: No net found for component H2 pad U13 (no pin H2 in symbol).
+Warning: No net found for component H3 pad U13 (no pin H3 in symbol).
+Warning: No net found for component H10 pad U13 (no pin H10 in symbol).
+Warning: No net found for component H12 pad U13 (no pin H12 in symbol).
+Warning: No net found for component H13 pad U13 (no pin H13 in symbol).
+Warning: No net found for component H14 pad U13 (no pin H14 in symbol).
+Warning: No net found for component J1 pad U13 (no pin J1 in symbol).
+Warning: No net found for component J2 pad U13 (no pin J2 in symbol).
+Warning: No net found for component J3 pad U13 (no pin J3 in symbol).
+Warning: No net found for component J5 pad U13 (no pin J5 in symbol).
+Warning: No net found for component J12 pad U13 (no pin J12 in symbol).
+Warning: No net found for component J13 pad U13 (no pin J13 in symbol).
+Warning: No net found for component J14 pad U13 (no pin J14 in symbol).
+Warning: No net found for component K1 pad U13 (no pin K1 in symbol).
+Warning: No net found for component K2 pad U13 (no pin K2 in symbol).
+Warning: No net found for component K3 pad U13 (no pin K3 in symbol).
+Warning: No net found for component K6 pad U13 (no pin K6 in symbol).
+Warning: No net found for component K7 pad U13 (no pin K7 in symbol).
+Warning: No net found for component K8 pad U13 (no pin K8 in symbol).
+Warning: No net found for component K10 pad U13 (no pin K10 in symbol).
+Warning: No net found for component K12 pad U13 (no pin K12 in symbol).
+Warning: No net found for component K13 pad U13 (no pin K13 in symbol).
+Warning: No net found for component K14 pad U13 (no pin K14 in symbol).
+Warning: No net found for component L1 pad U13 (no pin L1 in symbol).
+Warning: No net found for component L2 pad U13 (no pin L2 in symbol).
+Warning: No net found for component L3 pad U13 (no pin L3 in symbol).
+Warning: No net found for component L12 pad U13 (no pin L12 in symbol).
+Warning: No net found for component L13 pad U13 (no pin L13 in symbol).
+Warning: No net found for component L14 pad U13 (no pin L14 in symbol).
+Warning: No net found for component M1 pad U13 (no pin M1 in symbol).
+Warning: No net found for component M2 pad U13 (no pin M2 in symbol).
+Warning: No net found for component M3 pad U13 (no pin M3 in symbol).
+Warning: No net found for component M7 pad U13 (no pin M7 in symbol).
+Warning: No net found for component M8 pad U13 (no pin M8 in symbol).
+Warning: No net found for component M9 pad U13 (no pin M9 in symbol).
+Warning: No net found for component M10 pad U13 (no pin M10 in symbol).
+Warning: No net found for component M11 pad U13 (no pin M11 in symbol).
+Warning: No net found for component M12 pad U13 (no pin M12 in symbol).
+Warning: No net found for component M13 pad U13 (no pin M13 in symbol).
+Warning: No net found for component M14 pad U13 (no pin M14 in symbol).
+Warning: No net found for component N1 pad U13 (no pin N1 in symbol).
+Warning: No net found for component N3 pad U13 (no pin N3 in symbol).
+Warning: No net found for component N6 pad U13 (no pin N6 in symbol).
+Warning: No net found for component N7 pad U13 (no pin N7 in symbol).
+Warning: No net found for component N8 pad U13 (no pin N8 in symbol).
+Warning: No net found for component N9 pad U13 (no pin N9 in symbol).
+Warning: No net found for component N10 pad U13 (no pin N10 in symbol).
+Warning: No net found for component N11 pad U13 (no pin N11 in symbol).
+Warning: No net found for component N12 pad U13 (no pin N12 in symbol).
+Warning: No net found for component N13 pad U13 (no pin N13 in symbol).
+Warning: No net found for component N14 pad U13 (no pin N14 in symbol).
+Warning: No net found for component P1 pad U13 (no pin P1 in symbol).
+Warning: No net found for component P2 pad U13 (no pin P2 in symbol).
+Warning: No net found for component P7 pad U13 (no pin P7 in symbol).
+Warning: No net found for component P8 pad U13 (no pin P8 in symbol).
+Warning: No net found for component P9 pad U13 (no pin P9 in symbol).
+Warning: No net found for component P10 pad U13 (no pin P10 in symbol).
+Warning: No net found for component P11 pad U13 (no pin P11 in symbol).
+Warning: No net found for component P12 pad U13 (no pin P12 in symbol).
+Warning: No net found for component P13 pad U13 (no pin P13 in symbol).
+Warning: No net found for component P14 pad U13 (no pin P14 in symbol).
+Warning: No net found for component C2 pad U9 (no pin C2 in symbol).
+Warning: No net found for component C3 pad U9 (no pin C3 in symbol).
+Warning: No net found for component C4 pad U9 (no pin C4 in symbol).
+Warning: No net found for component D1 pad U9 (no pin D1 in symbol).
+Warning: No net found for component D2 pad U9 (no pin D2 in symbol).
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+Warning: Copper zone '$teardrop_padvia$' has no pads connected.
+
+
+Info: Total warnings: 199, errors: 0.
