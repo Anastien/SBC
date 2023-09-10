@@ -33,13 +33,13 @@
     },
     "selection_filter": {
       "dimensions": false,
-      "footprints": false,
+      "footprints": true,
       "graphics": false,
       "keepouts": false,
       "lockedItems": true,
       "otherItems": false,
       "pads": true,
-      "text": false,
+      "text": true,
       "tracks": true,
       "vias": true,
       "zones": false
@@ -80,7 +80,7 @@
       39,
       40
     ],
-    "visible_layers": "000d420_8000001d",
+    "visible_layers": "0009400_80000015",
     "zone_display_mode": 0
   },
   "meta": {
@@ -89,18 +89,6 @@
   },
   "project": {
     "files": [
-      {
-        "name": "DQBSC.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": -1927,
-          "pos_y": 0,
-          "size_x": 1934,
-          "size_y": 1177
-        }
-      },
       {
         "name": "DQBSC.kicad_pcb",
         "open": false,
