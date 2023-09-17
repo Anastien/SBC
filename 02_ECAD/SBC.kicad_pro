@@ -431,7 +431,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "DQSBC"
+      "DQSBC",
+      "SBC"
     ],
     "pinned_symbol_libs": [
       "SBC"
@@ -612,7 +613,7 @@
       "plot": "New folder/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "SBC.step",
       "svg": "",
       "vrml": ""
     },

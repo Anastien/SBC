@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name "DQSBC")(type "KiCad")(uri "${KIPRJMOD}/DQSBC.pretty")(options "")(descr ""))
+  (version 7)
   (lib (name "awg1000")(type "KiCad")(uri "E:/Personal/Anas/AWG1000/hardware/01-ECAD/02_AWG100_Carrier_Board/01-KiCAD Files/AWG1000/awg1000.pretty")(options "")(descr ""))
+  (lib (name "SBC")(type "KiCad")(uri "${KIPRJMOD}/SBC.pretty")(options "")(descr ""))
 )
