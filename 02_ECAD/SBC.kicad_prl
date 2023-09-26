@@ -73,15 +73,15 @@
   "project": {
     "files": [
       {
-        "name": "SBC.kicad_pcb",
+        "name": "SBC.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1424
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1058
         }
       }
     ]
