@@ -3201,9 +3201,6 @@
   (junction (at 289.56 30.48) (diameter 0) (color 0 0 0 0)
     (uuid 16128984-466c-4cbe-b5b2-81c09d99da9e)
   )
-  (junction (at 127 172.72) (diameter 0) (color 0 0 0 0)
-    (uuid 16ff7322-c5a7-4327-ae45-5175435c9270)
-  )
   (junction (at 299.72 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 183b2eab-73dc-40b8-baea-14a3fc8d88f9)
   )
@@ -3245,9 +3242,6 @@
   )
   (junction (at 55.88 200.66) (diameter 0) (color 0 0 0 0)
     (uuid 2e537b00-e54c-424f-bfc1-4056e1fe19d4)
-  )
-  (junction (at 127 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid 2e941cd3-515b-418b-9aaa-23088ed76409)
   )
   (junction (at 121.92 167.64) (diameter 0) (color 0 0 0 0)
     (uuid 2eb3c6c6-1175-49a7-8264-f48c39317c14)
@@ -3335,9 +3329,6 @@
   )
   (junction (at 147.32 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 793967da-312e-4c55-bbe0-30cf541eeff4)
-  )
-  (junction (at 124.46 165.1) (diameter 0) (color 0 0 0 0)
-    (uuid 7a24ac33-ada7-4c70-a087-d719c2e990e5)
   )
   (junction (at 381 147.32) (diameter 0) (color 0 0 0 0)
     (uuid 7c265961-9074-4048-b331-e781a80268da)
@@ -3867,10 +3858,6 @@
     (stroke (width 0) (type default))
     (uuid 1d7eedb1-68d7-450b-963c-cebf655803d5)
   )
-  (wire (pts (xy 127 139.7) (xy 124.46 139.7))
-    (stroke (width 0) (type default))
-    (uuid 1e72a38d-d56f-448f-9048-d326bd826a20)
-  )
   (wire (pts (xy 233.68 251.46) (xy 236.22 251.46))
     (stroke (width 0) (type default))
     (uuid 1ee8c2d9-502d-4dcb-87c5-e5a599659fb7)
@@ -3890,10 +3877,6 @@
   (wire (pts (xy 289.56 167.64) (xy 302.26 167.64))
     (stroke (width 0) (type default))
     (uuid 1ff85f9e-421c-4c8a-ae8b-cb000d5876a3)
-  )
-  (wire (pts (xy 124.46 139.7) (xy 124.46 152.4))
-    (stroke (width 0) (type default))
-    (uuid 206d43de-a3f2-4a25-aadf-3fc2813b9b6e)
   )
   (wire (pts (xy 381 208.28) (xy 388.62 208.28))
     (stroke (width 0) (type default))
@@ -4375,6 +4358,11 @@
     (stroke (width 0) (type default))
     (uuid 53612424-1702-43fe-a0ad-779ec5182af9)
   )
+  (polyline (pts (xy 41.91 133.35) (xy 45.72 129.54))
+    (stroke (width 0) (type solid) (color 255 255 194 1))
+    (uuid 53d7f733-f971-4f31-975a-05a433ad0b03)
+  )
+
   (wire (pts (xy 45.72 172.72) (xy 45.72 175.26))
     (stroke (width 0) (type default))
     (uuid 54adcd65-1239-4773-b8c7-385b7ad5a1fc)
@@ -4414,10 +4402,6 @@
   (wire (pts (xy 256.54 96.52) (xy 266.7 96.52))
     (stroke (width 0) (type default))
     (uuid 5a0c59d4-a90c-4e60-ac6a-cd8ce4a46313)
-  )
-  (wire (pts (xy 124.46 160.02) (xy 124.46 165.1))
-    (stroke (width 0) (type default))
-    (uuid 5a27b6d7-bec5-43b2-a4ba-bb74229ed9a3)
   )
   (wire (pts (xy 144.78 167.64) (xy 147.32 167.64))
     (stroke (width 0) (type default))
@@ -4467,7 +4451,7 @@
     (stroke (width 0) (type default))
     (uuid 5ec78e9c-5694-44dc-b5b2-96411447a31f)
   )
-  (wire (pts (xy 116.84 172.72) (xy 127 172.72))
+  (wire (pts (xy 116.84 172.72) (xy 132.08 172.72))
     (stroke (width 0) (type default))
     (uuid 5ef7e23f-5eb1-488d-a8db-99d481c8b39a)
   )
@@ -4479,7 +4463,7 @@
     (stroke (width 0) (type default))
     (uuid 5f4d3cce-1698-42cf-89c9-59c7b937401e)
   )
-  (wire (pts (xy 116.84 165.1) (xy 124.46 165.1))
+  (wire (pts (xy 116.84 165.1) (xy 132.08 165.1))
     (stroke (width 0) (type default))
     (uuid 5f520397-a84e-499f-a115-6e2e0afd7321)
   )
@@ -4588,10 +4572,6 @@
     (stroke (width 0) (type default))
     (uuid 6ceeb7a9-77bb-4bb0-ab7b-483c94620899)
   )
-  (wire (pts (xy 124.46 165.1) (xy 132.08 165.1))
-    (stroke (width 0) (type default))
-    (uuid 6d073dfe-2fd3-4d87-845a-65c8ad572cf6)
-  )
   (wire (pts (xy 101.6 241.3) (xy 101.6 246.38))
     (stroke (width 0) (type default))
     (uuid 6e15040a-b83c-49ea-92b3-51fbeeaef5f1)
@@ -4599,10 +4579,6 @@
   (wire (pts (xy 81.28 30.48) (xy 81.28 35.56))
     (stroke (width 0) (type default))
     (uuid 6f1bc11b-0434-48ad-b77c-c7bf3827b35d)
-  )
-  (wire (pts (xy 127 172.72) (xy 132.08 172.72))
-    (stroke (width 0) (type default))
-    (uuid 6f590981-6b6a-41f5-b345-54fdb5fb34ee)
   )
   (wire (pts (xy 388.62 251.46) (xy 388.62 254))
     (stroke (width 0) (type default))
@@ -4859,10 +4835,6 @@
   (wire (pts (xy 393.7 48.26) (xy 396.24 48.26))
     (stroke (width 0) (type default))
     (uuid 8c4ab244-5a39-4d84-b4fa-f4d290346636)
-  )
-  (wire (pts (xy 127 160.02) (xy 127 172.72))
-    (stroke (width 0) (type default))
-    (uuid 8ce1bd3f-e249-4aaa-9525-213820f0afea)
   )
   (wire (pts (xy 76.2 33.02) (xy 76.2 35.56))
     (stroke (width 0) (type default))
@@ -5213,10 +5185,6 @@
   (wire (pts (xy 157.48 177.8) (xy 160.02 177.8))
     (stroke (width 0) (type default))
     (uuid b6a0d0ae-787b-444c-a81b-bb6ec2f53eab)
-  )
-  (wire (pts (xy 127 139.7) (xy 127 152.4))
-    (stroke (width 0) (type default))
-    (uuid b6f13e3d-1ac3-4fad-ace4-51b26abe3906)
   )
   (wire (pts (xy 101.6 254) (xy 101.6 256.54))
     (stroke (width 0) (type default))
@@ -6007,6 +5975,13 @@
     (fill (type none))
     (effects (font (size 2 2) (color 0 0 0 1)))
     (uuid 03e5b39f-2c32-4c98-9b3a-d0c8f730885b)
+  )
+  (text_box "A brief connection to GND in OFF mode causes the internal power management state machine to change state to ON. In ON mode, a brief connection to GND generates an interrupt (intended to initiate a software-controllable power- down). The connection to GND for approximate 5 second or more causes a forced OFF."
+    (exclude_from_sim no) (at 45.72 120.65 0) (size 27.305 15.875)
+    (stroke (width 0) (type default) (color 255 255 194 1))
+    (fill (type none))
+    (effects (font (face "Courier New") (size 0.889 0.889) (thickness 0.1778) bold (color 132 132 132 1)) (justify left top))
+    (uuid 1715b4f8-48c7-42a1-a710-0ac8c544ec15)
   )
   (text_box "BOOT MODES"
     (exclude_from_sim no) (at 165.1 210.82 0) (size 30.48 10.16)
@@ -7381,7 +7356,7 @@
   (symbol (lib_id "DQSBC:C") (at 373.38 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 00cee0d0-d492-4aa1-aede-9b82901460ce)
-    (property "Reference" "C275" (at 375.285 211.455 0)
+    (property "Reference" "C300" (at 375.285 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 375.285 213.36 0)
@@ -7410,7 +7385,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C275") (unit 1)
+          (reference "C300") (unit 1)
         )
       )
     )
@@ -7419,7 +7394,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 121.92 156.21 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 030615a9-e60e-4511-a080-0d527e2561f4)
-    (property "Reference" "R70" (at 123.19 158.75 90)
+    (property "Reference" "R82" (at 123.19 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 123.19 153.67 90)
@@ -7445,7 +7420,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R70") (unit 1)
+          (reference "R82") (unit 1)
         )
       )
     )
@@ -7482,7 +7457,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR0232") (unit 1)
         )
       )
     )
@@ -7491,7 +7466,7 @@
   (symbol (lib_id "DQSBC:C") (at 312.42 81.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 09262932-bf24-424b-81f8-525e7b7fe288)
-    (property "Reference" "C290" (at 314.325 79.375 0)
+    (property "Reference" "C286" (at 314.325 79.375 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 314.325 81.28 0)
@@ -7520,7 +7495,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C290") (unit 1)
+          (reference "C286") (unit 1)
         )
       )
     )
@@ -7529,7 +7504,7 @@
   (symbol (lib_id "DQSBC:VIN") (at 292.1 101.6 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 0d561e35-48af-479f-8c72-0f772a0a046e)
-    (property "Reference" "#PWR0240" (at 292.1 100.33 0)
+    (property "Reference" "#PWR0247" (at 292.1 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VIN" (at 292.1 105.156 0)
@@ -7554,7 +7529,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0240") (unit 1)
+          (reference "#PWR0247") (unit 1)
         )
       )
     )
@@ -7563,7 +7538,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 99.06 217.17 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e43225b-0efe-4801-b44c-e3edab1b170b)
-    (property "Reference" "R66" (at 100.33 219.71 90)
+    (property "Reference" "R78" (at 100.33 219.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 100.33 214.63 90)
@@ -7589,7 +7564,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R66") (unit 1)
+          (reference "R78") (unit 1)
         )
       )
     )
@@ -7598,7 +7573,7 @@
   (symbol (lib_id "DQSBC:GND") (at 325.12 58.42 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 11562c2c-368d-482c-becd-dbc7980773e5)
-    (property "Reference" "#PWR0265" (at 325.12 64.77 0)
+    (property "Reference" "#PWR0260" (at 325.12 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 325.12 62.23 0)
@@ -7623,7 +7598,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0265") (unit 1)
+          (reference "#PWR0260") (unit 1)
         )
       )
     )
@@ -7632,7 +7607,7 @@
   (symbol (lib_id "DQSBC:C") (at 373.38 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 115b198a-5d31-4fbd-a4b4-c231ca9a39f6)
-    (property "Reference" "C276" (at 375.285 247.015 0)
+    (property "Reference" "C301" (at 375.285 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 375.285 248.92 0)
@@ -7661,7 +7636,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C276") (unit 1)
+          (reference "C301") (unit 1)
         )
       )
     )
@@ -7670,7 +7645,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 240.03 264.16 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 1231b131-bfab-46a2-8e91-c021a0773525)
-    (property "Reference" "R81" (at 237.744 263.398 90)
+    (property "Reference" "R91" (at 237.744 263.398 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 242.062 263.398 90)
@@ -7696,7 +7671,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R81") (unit 1)
+          (reference "R91") (unit 1)
         )
       )
     )
@@ -7705,7 +7680,7 @@
   (symbol (lib_id "DQSBC:GND") (at 233.68 246.38 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 141986eb-7adb-46b1-ac88-5075752405d0)
-    (property "Reference" "#PWR0231" (at 227.33 246.38 0)
+    (property "Reference" "#PWR0238" (at 227.33 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 246.38 0)
@@ -7730,7 +7705,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0231") (unit 1)
+          (reference "#PWR0238") (unit 1)
         )
       )
     )
@@ -7771,7 +7746,7 @@
           (reference "C?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C264") (unit 1)
+          (reference "C282") (unit 1)
         )
       )
     )
@@ -7780,7 +7755,7 @@
   (symbol (lib_id "DQSBC:GND") (at 299.72 30.48 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 16e9383e-3676-46f5-b691-6f17242125f0)
-    (property "Reference" "#PWR0242" (at 299.72 24.13 0)
+    (property "Reference" "#PWR0249" (at 299.72 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 299.72 26.67 0)
@@ -7805,7 +7780,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0242") (unit 1)
+          (reference "#PWR0249") (unit 1)
         )
       )
     )
@@ -7814,7 +7789,7 @@
   (symbol (lib_id "DQSBC:C") (at 381 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 18e05df2-c2b3-48a9-a697-20cc038bd578)
-    (property "Reference" "C280" (at 382.905 247.015 0)
+    (property "Reference" "C305" (at 382.905 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 382.905 248.92 0)
@@ -7843,7 +7818,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C280") (unit 1)
+          (reference "C305") (unit 1)
         )
       )
     )
@@ -7884,7 +7859,7 @@
           (reference "C?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C263") (unit 1)
+          (reference "C281") (unit 1)
         )
       )
     )
@@ -7928,7 +7903,7 @@
   (symbol (lib_id "Memory_RAM:ESP-PSRAM32") (at 327.66 43.18 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 21577023-11b5-4a4b-9757-ebd5bfe0fea0)
-    (property "Reference" "U17" (at 331.47 31.75 0)
+    (property "Reference" "U16" (at 331.47 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ESP-PSRAM32" (at 326.39 54.61 0)
@@ -7954,7 +7929,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "U17") (unit 1)
+          (reference "U16") (unit 1)
         )
       )
     )
@@ -7963,7 +7938,7 @@
   (symbol (lib_id "DQSBC:GND") (at 45.72 208.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 225fd754-37ba-424c-a989-05358e5c6deb)
-    (property "Reference" "#PWR0221" (at 45.72 214.63 0)
+    (property "Reference" "#PWR0227" (at 45.72 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 212.09 0)
@@ -7988,7 +7963,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0227") (unit 1)
         )
       )
     )
@@ -7997,7 +7972,7 @@
   (symbol (lib_id "DQSBC:C") (at 355.6 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 24bdb18c-f695-42bb-a52a-644f5ac26214)
-    (property "Reference" "C271" (at 357.505 247.015 0)
+    (property "Reference" "C296" (at 357.505 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 357.505 248.92 0)
@@ -8026,7 +8001,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C271") (unit 1)
+          (reference "C296") (unit 1)
         )
       )
     )
@@ -8035,7 +8010,7 @@
   (symbol (lib_id "DQSBC:GND") (at 121.92 149.86 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 2602d472-5cbd-4b2f-8814-b8ff0e7bbadf)
-    (property "Reference" "#PWR0227" (at 121.92 143.51 0)
+    (property "Reference" "#PWR0234" (at 121.92 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 121.92 146.05 0)
@@ -8060,7 +8035,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0227") (unit 1)
+          (reference "#PWR0234") (unit 1)
         )
       )
     )
@@ -8069,7 +8044,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 55.88 184.15 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp yes)
     (uuid 2b293e6c-e491-4e3e-af97-cecef5963890)
-    (property "Reference" "R65" (at 57.15 186.69 90)
+    (property "Reference" "R77" (at 57.15 186.69 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 57.15 181.61 90)
@@ -8095,7 +8070,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R65") (unit 1)
+          (reference "R77") (unit 1)
         )
       )
     )
@@ -8139,7 +8114,7 @@
   (symbol (lib_id "DQSBC:GND") (at 381 182.88 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bf3d1e4-d6d6-49d0-ad84-4291c34229f9)
-    (property "Reference" "#PWR0251" (at 381 189.23 0)
+    (property "Reference" "#PWR0268" (at 381 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 381 186.69 0)
@@ -8164,7 +8139,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0251") (unit 1)
+          (reference "#PWR0268") (unit 1)
         )
       )
     )
@@ -8173,7 +8148,7 @@
   (symbol (lib_id "DQSBC:GND") (at 316.23 111.76 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c041d43-417d-4aba-ae91-a596e3305949)
-    (property "Reference" "#PWR0257" (at 316.23 118.11 0)
+    (property "Reference" "#PWR0256" (at 316.23 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 316.23 115.57 0)
@@ -8198,7 +8173,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0257") (unit 1)
+          (reference "#PWR0256") (unit 1)
         )
       )
     )
@@ -8207,7 +8182,7 @@
   (symbol (lib_id "DQSBC:C") (at 312.42 34.29 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 2ddc71e4-6ec4-477b-a961-62e4a05afcc8)
-    (property "Reference" "C294" (at 314.325 32.385 0)
+    (property "Reference" "C285" (at 314.325 32.385 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 314.325 34.29 0)
@@ -8236,7 +8211,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C294") (unit 1)
+          (reference "C285") (unit 1)
         )
       )
     )
@@ -8283,7 +8258,7 @@
   (symbol (lib_id "DQSBC:VIN") (at 292.1 27.94 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 367d344e-3f8c-40b0-b0f8-f8bd0b248280)
-    (property "Reference" "#PWR0239" (at 292.1 29.21 0)
+    (property "Reference" "#PWR0246" (at 292.1 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VIN" (at 292.1 24.384 0)
@@ -8308,7 +8283,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0239") (unit 1)
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -8317,7 +8292,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 153.67 175.26 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 36e84a09-17de-4def-9907-cec9edb0fe55)
-    (property "Reference" "R77" (at 151.13 173.99 90)
+    (property "Reference" "R87" (at 151.13 173.99 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 156.21 173.99 90)
@@ -8343,7 +8318,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R77") (unit 1)
+          (reference "R87") (unit 1)
         )
       )
     )
@@ -8352,7 +8327,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 101.6 217.17 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 3721f9fe-39f1-4e25-8581-aa1fa2173735)
-    (property "Reference" "R68" (at 102.87 219.71 90)
+    (property "Reference" "R80" (at 102.87 219.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 102.87 214.63 90)
@@ -8378,42 +8353,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R68") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 124.46 156.21 0) (mirror y) (unit 1)
-    (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
-    (uuid 398bf270-ffa9-43a5-8f3b-a9191395fe65)
-    (property "Reference" "R72" (at 125.73 158.75 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "10k" (at 125.73 153.67 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 123.444 156.464 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 124.46 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Description" "" (at 124.46 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Quantity" "" (at 124.46 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Field-1" "" (at 124.46 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 71320599-6694-41ea-a802-f3358770120a))
-    (pin "2" (uuid 7f28ecac-81d4-45d2-a091-fd84bf60d25f))
-    (instances
-      (project "SBC"
-        (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R72") (unit 1)
+          (reference "R80") (unit 1)
         )
       )
     )
@@ -8422,7 +8362,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 101.6 250.19 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 3b7e3c32-94d5-4a8e-a267-3d57308f37f0)
-    (property "Reference" "R69" (at 102.87 252.73 90)
+    (property "Reference" "R81" (at 102.87 252.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 102.87 247.65 90)
@@ -8448,7 +8388,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R69") (unit 1)
+          (reference "R81") (unit 1)
         )
       )
     )
@@ -8487,7 +8427,7 @@
           (reference "Q?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "Q4") (unit 1)
+          (reference "Q5") (unit 1)
         )
       )
     )
@@ -8496,7 +8436,7 @@
   (symbol (lib_id "DQSBC:GND") (at 30.48 208.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 3c1b4ae5-7eac-41e0-93e1-ad7bbec68b69)
-    (property "Reference" "#PWR0217" (at 30.48 214.63 0)
+    (property "Reference" "#PWR0223" (at 30.48 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 30.48 212.09 0)
@@ -8521,7 +8461,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0217") (unit 1)
+          (reference "#PWR0223") (unit 1)
         )
       )
     )
@@ -8564,7 +8504,7 @@
   (symbol (lib_id "DQSBC:C") (at 381 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4165f834-b879-4845-a569-c7c65c100aaf)
-    (property "Reference" "C279" (at 382.905 211.455 0)
+    (property "Reference" "C304" (at 382.905 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 382.905 213.36 0)
@@ -8593,7 +8533,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C279") (unit 1)
+          (reference "C304") (unit 1)
         )
       )
     )
@@ -8602,7 +8542,7 @@
   (symbol (lib_id "DQSBC:NVCC_ENET_2V5") (at 381 205.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 42bf3008-f829-47e5-b6c0-481d54f8d274)
-    (property "Reference" "#PWR0252" (at 381 207.01 0)
+    (property "Reference" "#PWR0269" (at 381 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_ENET_2V5" (at 381 202.184 0)
@@ -8627,7 +8567,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0252") (unit 1)
+          (reference "#PWR0269") (unit 1)
         )
       )
     )
@@ -8636,7 +8576,7 @@
   (symbol (lib_id "DQSBC:GND") (at 53.34 243.84 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4304cb8f-ebae-494d-b909-b20b1cbb761c)
-    (property "Reference" "#PWR0222" (at 53.34 250.19 0)
+    (property "Reference" "#PWR0228" (at 53.34 250.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 53.34 247.65 0)
@@ -8661,7 +8601,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0222") (unit 1)
+          (reference "#PWR0228") (unit 1)
         )
       )
     )
@@ -8670,7 +8610,7 @@
   (symbol (lib_id "DQSBC:GND") (at 358.14 170.18 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 43fd3352-5687-421d-8e6a-f3547adde82f)
-    (property "Reference" "#PWR0250" (at 358.14 176.53 0)
+    (property "Reference" "#PWR0265" (at 358.14 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 358.14 173.99 0)
@@ -8695,7 +8635,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0250") (unit 1)
+          (reference "#PWR0265") (unit 1)
         )
       )
     )
@@ -8732,7 +8672,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0220") (unit 1)
+          (reference "#PWR0226") (unit 1)
         )
       )
     )
@@ -8741,7 +8681,7 @@
   (symbol (lib_id "DQSBC:GND") (at 299.72 101.6 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 475780cc-04ab-494e-941e-8c836e4f978f)
-    (property "Reference" "#PWR0243" (at 299.72 107.95 0)
+    (property "Reference" "#PWR0250" (at 299.72 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 299.72 105.41 0)
@@ -8766,7 +8706,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0243") (unit 1)
+          (reference "#PWR0250") (unit 1)
         )
       )
     )
@@ -8775,7 +8715,7 @@
   (symbol (lib_id "DQSBC:C") (at 320.04 81.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4757c1f0-2b76-4638-a811-d4e7f31ca55b)
-    (property "Reference" "C291" (at 321.945 79.375 0)
+    (property "Reference" "C288" (at 321.945 79.375 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 321.945 81.28 0)
@@ -8804,7 +8744,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C291") (unit 1)
+          (reference "C288") (unit 1)
         )
       )
     )
@@ -8813,7 +8753,7 @@
   (symbol (lib_id "DQSBC:GND") (at 302.26 226.06 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a544bc3-801c-41ba-ba7c-6b8bd3e3b738)
-    (property "Reference" "#PWR0244" (at 308.61 226.06 0)
+    (property "Reference" "#PWR0251" (at 308.61 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 306.832 226.06 90)
@@ -8838,7 +8778,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0244") (unit 1)
+          (reference "#PWR0251") (unit 1)
         )
       )
     )
@@ -8875,7 +8815,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0224") (unit 1)
+          (reference "#PWR0230") (unit 1)
         )
       )
     )
@@ -8884,7 +8824,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 153.67 177.8 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e62936b-4861-4406-ab2e-66311cb8b811)
-    (property "Reference" "R78" (at 151.13 176.53 90)
+    (property "Reference" "R88" (at 151.13 176.53 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 156.21 176.53 90)
@@ -8910,7 +8850,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R78") (unit 1)
+          (reference "R88") (unit 1)
         )
       )
     )
@@ -8919,7 +8859,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 153.67 172.72 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f1efff5-f668-41fc-9dfd-67cd18bbdf60)
-    (property "Reference" "R76" (at 151.13 171.45 90)
+    (property "Reference" "R86" (at 151.13 171.45 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 156.21 171.45 90)
@@ -8945,7 +8885,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R76") (unit 1)
+          (reference "R86") (unit 1)
         )
       )
     )
@@ -8954,7 +8894,7 @@
   (symbol (lib_id "DQSBC:C") (at 388.62 142.24 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f56510e-2957-4e17-8fd4-8aa84ff8d480)
-    (property "Reference" "C281" (at 390.525 140.335 0)
+    (property "Reference" "C306" (at 390.525 140.335 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 390.525 142.24 0)
@@ -8983,7 +8923,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C281") (unit 1)
+          (reference "C306") (unit 1)
         )
       )
     )
@@ -8992,7 +8932,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 45.72 179.07 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp yes)
     (uuid 508e871f-4f52-4381-852c-c5e69c8da8b8)
-    (property "Reference" "R64" (at 46.99 181.61 90)
+    (property "Reference" "R76" (at 46.99 181.61 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "220" (at 46.99 176.53 90)
@@ -9018,7 +8958,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R64") (unit 1)
+          (reference "R76") (unit 1)
         )
       )
     )
@@ -9027,7 +8967,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x05_Odd_Even") (at 139.7 170.18 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5186b1c1-7a11-44df-8e0d-fce567f1d977)
-    (property "Reference" "J2" (at 138.43 162.56 0)
+    (property "Reference" "J3" (at 138.43 162.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "B10B-PHDSS\n" (at 138.43 177.8 0)
@@ -9061,7 +9001,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "J2") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -9070,7 +9010,7 @@
   (symbol (lib_id "DQSBC:C") (at 381 175.26 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 55f0f3de-27b1-4678-adbb-b434f180e232)
-    (property "Reference" "C278" (at 382.905 173.355 0)
+    (property "Reference" "C303" (at 382.905 173.355 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 382.905 175.26 0)
@@ -9099,7 +9039,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C278") (unit 1)
+          (reference "C303") (unit 1)
         )
       )
     )
@@ -9108,7 +9048,7 @@
   (symbol (lib_id "DQSBC:C") (at 316.23 106.68 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5691866a-b16a-48e7-b3f9-ee5a9c437cd8)
-    (property "Reference" "C288" (at 318.135 104.775 0)
+    (property "Reference" "C287" (at 318.135 104.775 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 318.135 106.68 0)
@@ -9137,7 +9077,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C288") (unit 1)
+          (reference "C287") (unit 1)
         )
       )
     )
@@ -9146,7 +9086,7 @@
   (symbol (lib_id "DQSBC:GND") (at 233.68 251.46 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 572371f8-ecbd-4a4f-b1c7-0457a0947347)
-    (property "Reference" "#PWR0232" (at 227.33 251.46 0)
+    (property "Reference" "#PWR0239" (at 227.33 251.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 251.46 0)
@@ -9171,7 +9111,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0232") (unit 1)
+          (reference "#PWR0239") (unit 1)
         )
       )
     )
@@ -9468,7 +9408,7 @@
   (symbol (lib_id "DQSBC:GND") (at 388.62 254 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5dd26bd0-4101-4a39-9dc5-e42743e39ffa)
-    (property "Reference" "#PWR0256" (at 388.62 260.35 0)
+    (property "Reference" "#PWR0273" (at 388.62 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 388.62 257.81 0)
@@ -9493,7 +9433,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0256") (unit 1)
+          (reference "#PWR0273") (unit 1)
         )
       )
     )
@@ -9502,7 +9442,7 @@
   (symbol (lib_id "DQSBC:GND") (at 233.68 261.62 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 63f7d5da-4efb-4f69-90b4-eb27b7169446)
-    (property "Reference" "#PWR0233" (at 227.33 261.62 0)
+    (property "Reference" "#PWR0240" (at 227.33 261.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 261.62 0)
@@ -9527,7 +9467,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0233") (unit 1)
+          (reference "#PWR0240") (unit 1)
         )
       )
     )
@@ -9536,7 +9476,7 @@
   (symbol (lib_id "DQSBC:VDD_1V") (at 271.78 129.54 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 66774964-de97-4809-acf0-c1aabe0984ef)
-    (property "Reference" "#PWR0237" (at 271.78 130.81 0)
+    (property "Reference" "#PWR0244" (at 271.78 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD_1V" (at 271.78 125.984 0)
@@ -9561,7 +9501,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0237") (unit 1)
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -9598,7 +9538,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0264") (unit 1)
+          (reference "#PWR0259") (unit 1)
         )
       )
     )
@@ -9639,7 +9579,7 @@
           (reference "C?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C261") (unit 1)
+          (reference "C279") (unit 1)
         )
       )
     )
@@ -9676,42 +9616,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0261") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 127 156.21 0) (mirror y) (unit 1)
-    (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
-    (uuid 72aa8cc6-16f4-4560-b4bf-01a0ea21ac0a)
-    (property "Reference" "R73" (at 128.27 158.75 90)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "10k" (at 128.27 153.67 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 125.984 156.464 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 127 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Description" "" (at 127 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Quantity" "" (at 127 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Field-1" "" (at 127 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid bc4bd667-6006-4654-adb2-a2b7954d16d3))
-    (pin "2" (uuid 44f9e208-84d9-4e1c-9c08-9b2d299c2e05))
-    (instances
-      (project "SBC"
-        (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R73") (unit 1)
+          (reference "#PWR0266") (unit 1)
         )
       )
     )
@@ -9720,7 +9625,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 240.03 251.46 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 73a4ce58-e5ab-42e1-a803-4f36bd09d0eb)
-    (property "Reference" "R79" (at 237.744 250.698 90)
+    (property "Reference" "R89" (at 237.744 250.698 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "2k" (at 242.062 250.698 90)
@@ -9746,7 +9651,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R79") (unit 1)
+          (reference "R89") (unit 1)
         )
       )
     )
@@ -9755,7 +9660,7 @@
   (symbol (lib_id "DQSBC:GND") (at 345.44 220.98 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 74de3ffd-140a-44ec-ae34-1f8ea0d785ff)
-    (property "Reference" "#PWR0247" (at 345.44 227.33 0)
+    (property "Reference" "#PWR0262" (at 345.44 227.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 345.44 224.79 0)
@@ -9780,7 +9685,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0247") (unit 1)
+          (reference "#PWR0262") (unit 1)
         )
       )
     )
@@ -9789,7 +9694,7 @@
   (symbol (lib_id "Connector:Conn_Coaxial") (at 332.74 101.6 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 75a07a20-f3d2-4ff4-b220-fedd0901b446)
-    (property "Reference" "J3" (at 332.994 98.552 0)
+    (property "Reference" "J4" (at 332.994 98.552 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_Coaxial" (at 335.661 101.6 90)
@@ -9809,7 +9714,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "J3") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -9818,7 +9723,7 @@
   (symbol (lib_id "DQSBC:C") (at 373.38 175.26 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c065263-0c8b-4ad4-8d02-5eccf030c44e)
-    (property "Reference" "C274" (at 375.285 173.355 0)
+    (property "Reference" "C299" (at 375.285 173.355 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 375.285 175.26 0)
@@ -9847,7 +9752,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C274") (unit 1)
+          (reference "C299") (unit 1)
         )
       )
     )
@@ -9856,7 +9761,7 @@
   (symbol (lib_id "DQSBC:C") (at 388.62 175.26 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c740e5e-1025-4180-adcf-e9e77561a3fb)
-    (property "Reference" "C282" (at 390.525 173.355 0)
+    (property "Reference" "C307" (at 390.525 173.355 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 390.525 175.26 0)
@@ -9885,7 +9790,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C282") (unit 1)
+          (reference "C307") (unit 1)
         )
       )
     )
@@ -9894,7 +9799,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 358.14 151.13 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 8021e5fe-f66c-463d-ba26-3f8df643acf6)
-    (property "Reference" "R85" (at 359.41 153.67 90)
+    (property "Reference" "R95" (at 359.41 153.67 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "39" (at 359.41 148.59 90)
@@ -9920,7 +9825,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R85") (unit 1)
+          (reference "R95") (unit 1)
         )
       )
     )
@@ -9929,7 +9834,7 @@
   (symbol (lib_id "DQSBC:C") (at 335.28 81.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 8059e659-6c62-4cc1-994c-fbf56918daee)
-    (property "Reference" "C293" (at 337.185 79.375 0)
+    (property "Reference" "C291" (at 337.185 79.375 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 337.185 81.28 0)
@@ -9958,7 +9863,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C293") (unit 1)
+          (reference "C291") (unit 1)
         )
       )
     )
@@ -9967,7 +9872,7 @@
   (symbol (lib_id "DQSBC:C") (at 345.44 162.56 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 835a04a9-fcc0-4ea3-bf77-f61afe7134c2)
-    (property "Reference" "C267" (at 343.535 160.655 0)
+    (property "Reference" "C292" (at 343.535 160.655 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "C" (at 343.535 162.56 0)
@@ -9996,7 +9901,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C267") (unit 1)
+          (reference "C292") (unit 1)
         )
       )
     )
@@ -10033,7 +9938,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0263") (unit 1)
+          (reference "#PWR0257") (unit 1)
         )
       )
     )
@@ -10042,7 +9947,7 @@
   (symbol (lib_id "DQSBC:GND") (at 312.42 88.9 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a8920d2-d586-4d57-92d3-b099db2b3b52)
-    (property "Reference" "#PWR0262" (at 312.42 95.25 0)
+    (property "Reference" "#PWR0255" (at 312.42 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 312.42 92.71 0)
@@ -10067,7 +9972,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0262") (unit 1)
+          (reference "#PWR0255") (unit 1)
         )
       )
     )
@@ -10076,7 +9981,7 @@
   (symbol (lib_id "DQSBC:C") (at 388.62 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 90411b55-0641-425f-9eda-ccc092b69529)
-    (property "Reference" "C283" (at 390.525 211.455 0)
+    (property "Reference" "C308" (at 390.525 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 390.525 213.36 0)
@@ -10105,7 +10010,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C283") (unit 1)
+          (reference "C308") (unit 1)
         )
       )
     )
@@ -10185,7 +10090,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 240.03 261.62 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 99a0a40f-5a05-4072-a9b4-d801c1521a27)
-    (property "Reference" "R80" (at 237.744 260.858 90)
+    (property "Reference" "R90" (at 237.744 260.858 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 242.062 260.858 90)
@@ -10211,7 +10116,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R80") (unit 1)
+          (reference "R90") (unit 1)
         )
       )
     )
@@ -10220,7 +10125,7 @@
   (symbol (lib_id "DQSBC:C") (at 396.24 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f5a6ce0-0f58-4257-811a-5189c91fbc45)
-    (property "Reference" "C287" (at 398.145 211.455 0)
+    (property "Reference" "C312" (at 398.145 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 398.145 213.36 0)
@@ -10249,7 +10154,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C287") (unit 1)
+          (reference "C312") (unit 1)
         )
       )
     )
@@ -10258,7 +10163,7 @@
   (symbol (lib_id "DQSBC:GND") (at 33.02 243.84 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a19a0296-1681-4fb3-b4b9-a655a7a2dc3f)
-    (property "Reference" "#PWR0218" (at 33.02 250.19 0)
+    (property "Reference" "#PWR0224" (at 33.02 250.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 33.02 247.65 0)
@@ -10283,7 +10188,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0218") (unit 1)
+          (reference "#PWR0224") (unit 1)
         )
       )
     )
@@ -10424,7 +10329,7 @@
           (reference "Q?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "Q5") (unit 1)
+          (reference "Q6") (unit 1)
         )
       )
     )
@@ -10461,7 +10366,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0228") (unit 1)
+          (reference "#PWR0235") (unit 1)
         )
       )
     )
@@ -10470,7 +10375,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 99.06 250.19 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a5ba2865-aa5e-4416-91ee-4823650e84e9)
-    (property "Reference" "R67" (at 100.33 252.73 90)
+    (property "Reference" "R79" (at 100.33 252.73 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 100.33 247.65 90)
@@ -10496,7 +10401,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R67") (unit 1)
+          (reference "R79") (unit 1)
         )
       )
     )
@@ -10505,7 +10410,7 @@
   (symbol (lib_id "DQSBC:C") (at 345.44 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a5d7c6fe-63ff-452b-a3d6-1c21b0128b6c)
-    (property "Reference" "C268" (at 347.345 211.455 0)
+    (property "Reference" "C293" (at 347.345 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 347.345 213.36 0)
@@ -10534,7 +10439,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C268") (unit 1)
+          (reference "C293") (unit 1)
         )
       )
     )
@@ -10543,7 +10448,7 @@
   (symbol (lib_id "DQSBC:GND") (at 353.06 254 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a72a0f4a-19c3-4f15-ac23-4bb0d2aeafac)
-    (property "Reference" "#PWR0249" (at 353.06 260.35 0)
+    (property "Reference" "#PWR0264" (at 353.06 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 353.06 257.81 0)
@@ -10568,7 +10473,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0249") (unit 1)
+          (reference "#PWR0264") (unit 1)
         )
       )
     )
@@ -10577,7 +10482,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 298.45 233.68 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a963a9ba-2bbd-4aba-8cc8-01ba02ab1039)
-    (property "Reference" "R82" (at 296.164 232.918 90)
+    (property "Reference" "R92" (at 296.164 232.918 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 300.482 232.918 90)
@@ -10603,7 +10508,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R82") (unit 1)
+          (reference "R92") (unit 1)
         )
       )
     )
@@ -10612,7 +10517,7 @@
   (symbol (lib_id "DQSBC:C") (at 396.24 142.24 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a9747cd5-bd8f-4e2e-9860-b1b4c5e0813b)
-    (property "Reference" "C285" (at 398.145 140.335 0)
+    (property "Reference" "C310" (at 398.145 140.335 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 398.145 142.24 0)
@@ -10641,7 +10546,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C285") (unit 1)
+          (reference "C310") (unit 1)
         )
       )
     )
@@ -10650,7 +10555,7 @@
   (symbol (lib_id "DQSBC:NVCC_ENET_2V5") (at 241.3 129.54 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid adbf616e-4970-4676-b21b-54e9067772c4)
-    (property "Reference" "#PWR0235" (at 241.3 130.81 0)
+    (property "Reference" "#PWR0242" (at 241.3 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_ENET_2V5" (at 241.3 125.984 0)
@@ -10675,7 +10580,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0235") (unit 1)
+          (reference "#PWR0242") (unit 1)
         )
       )
     )
@@ -10752,7 +10657,7 @@
   (symbol (lib_id "DQSBC:C") (at 345.44 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid af19f928-03c8-45ec-9cea-9ef4e48daeb4)
-    (property "Reference" "C269" (at 347.345 247.015 0)
+    (property "Reference" "C294" (at 347.345 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 347.345 248.92 0)
@@ -10781,7 +10686,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C269") (unit 1)
+          (reference "C294") (unit 1)
         )
       )
     )
@@ -10822,7 +10727,7 @@
           (reference "C?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C262") (unit 1)
+          (reference "C280") (unit 1)
         )
       )
     )
@@ -10831,7 +10736,7 @@
   (symbol (lib_id "DQSBC:C") (at 358.14 162.56 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b2520ca3-2576-476a-9c0b-fc98831e3444)
-    (property "Reference" "C272" (at 360.045 160.655 0)
+    (property "Reference" "C297" (at 360.045 160.655 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "C" (at 360.045 162.56 0)
@@ -10860,7 +10765,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C272") (unit 1)
+          (reference "C297") (unit 1)
         )
       )
     )
@@ -10869,7 +10774,7 @@
   (symbol (lib_id "DQSBC:GND") (at 53.34 266.7 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b2613183-164d-4b0e-85ac-4dce5385214b)
-    (property "Reference" "#PWR0223" (at 53.34 273.05 0)
+    (property "Reference" "#PWR0229" (at 53.34 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 53.34 270.51 0)
@@ -10894,7 +10799,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0223") (unit 1)
+          (reference "#PWR0229") (unit 1)
         )
       )
     )
@@ -10903,7 +10808,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 129.54 156.21 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b2bd871e-db6c-4a50-8499-e799da935fa7)
-    (property "Reference" "R74" (at 130.81 158.75 90)
+    (property "Reference" "R84" (at 130.81 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "39" (at 130.81 153.67 90)
@@ -10929,7 +10834,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R74") (unit 1)
+          (reference "R84") (unit 1)
         )
       )
     )
@@ -10938,7 +10843,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 30.48 179.07 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b60299c1-1e57-4852-92c0-c16b72c3ff2c)
-    (property "Reference" "R63" (at 31.75 181.61 90)
+    (property "Reference" "R75" (at 31.75 181.61 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "220" (at 31.75 176.53 90)
@@ -10964,7 +10869,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R63") (unit 1)
+          (reference "R75") (unit 1)
         )
       )
     )
@@ -10973,7 +10878,7 @@
   (symbol (lib_id "DQSBC:C") (at 353.06 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b7f0c0fc-9ddf-4d87-ae19-c3c01182b812)
-    (property "Reference" "C270" (at 354.965 211.455 0)
+    (property "Reference" "C295" (at 354.965 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 354.965 213.36 0)
@@ -11002,7 +10907,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C270") (unit 1)
+          (reference "C295") (unit 1)
         )
       )
     )
@@ -11039,7 +10944,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0229") (unit 1)
+          (reference "#PWR0236") (unit 1)
         )
       )
     )
@@ -11048,7 +10953,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 304.8 246.38 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid bc97051b-8226-453b-8e8a-4e25792f0469)
-    (property "Reference" "#PWR0246" (at 303.53 246.38 0)
+    (property "Reference" "#PWR0253" (at 303.53 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 315.722 246.38 90)
@@ -11073,7 +10978,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0246") (unit 1)
+          (reference "#PWR0253") (unit 1)
         )
       )
     )
@@ -11117,7 +11022,7 @@
   (symbol (lib_id "DQSBC:NVCC_ENET_2V5") (at 353.06 205.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c0da09d2-d7d7-476f-9971-d1c8e9f3f14c)
-    (property "Reference" "#PWR0248" (at 353.06 207.01 0)
+    (property "Reference" "#PWR0263" (at 353.06 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_ENET_2V5" (at 353.06 202.184 0)
@@ -11142,7 +11047,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0248") (unit 1)
+          (reference "#PWR0263") (unit 1)
         )
       )
     )
@@ -11151,7 +11056,7 @@
   (symbol (lib_id "DQSBC:GND") (at 101.6 259.08 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c1298238-5b7f-4728-91f4-fc646c700183)
-    (property "Reference" "#PWR0226" (at 101.6 265.43 0)
+    (property "Reference" "#PWR0233" (at 101.6 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 262.89 0)
@@ -11176,7 +11081,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR0233") (unit 1)
         )
       )
     )
@@ -11220,7 +11125,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 304.8 233.68 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c6a2af46-9a88-4775-87db-bff6ded13d1c)
-    (property "Reference" "#PWR0245" (at 303.53 233.68 0)
+    (property "Reference" "#PWR0252" (at 303.53 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 315.722 233.68 90)
@@ -11245,7 +11150,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0245") (unit 1)
+          (reference "#PWR0252") (unit 1)
         )
       )
     )
@@ -11254,7 +11159,7 @@
   (symbol (lib_id "DQSBC:GND") (at 162.56 167.64 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c87e1926-0eb6-44f1-b251-834e955c8433)
-    (property "Reference" "#PWR0230" (at 168.91 167.64 0)
+    (property "Reference" "#PWR0237" (at 168.91 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 167.64 0)
@@ -11279,7 +11184,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0230") (unit 1)
+          (reference "#PWR0237") (unit 1)
         )
       )
     )
@@ -11288,7 +11193,7 @@
   (symbol (lib_id "DQSBC:C") (at 241.3 246.38 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid cae1a220-bd74-4e5b-bedd-fb4be258d2d2)
-    (property "Reference" "C265" (at 239.395 244.475 0)
+    (property "Reference" "C283" (at 239.395 244.475 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.01uF" (at 241.3 244.475 0)
@@ -11317,7 +11222,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C265") (unit 1)
+          (reference "C283") (unit 1)
         )
       )
     )
@@ -11326,7 +11231,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 121.92 240.03 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp yes)
     (uuid cd605b6a-8a5a-45b3-ae52-cfe7136c2245)
-    (property "Reference" "R71" (at 123.19 242.57 90)
+    (property "Reference" "R83" (at 123.19 242.57 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 123.19 237.49 90)
@@ -11352,7 +11257,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R71") (unit 1)
+          (reference "R83") (unit 1)
         )
       )
     )
@@ -11361,7 +11266,7 @@
   (symbol (lib_id "DQSBC:GND") (at 269.24 271.78 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid ce371188-3e94-43e5-848c-183dcd9dd2fb)
-    (property "Reference" "#PWR0236" (at 269.24 278.13 0)
+    (property "Reference" "#PWR0243" (at 269.24 278.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 269.24 275.59 0)
@@ -11386,7 +11291,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0236") (unit 1)
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -11430,7 +11335,7 @@
   (symbol (lib_id "DQSBC:GND") (at 292.1 238.76 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid d04b6f18-c66c-41af-acae-bd84c2c1867c)
-    (property "Reference" "#PWR0241" (at 298.45 238.76 0)
+    (property "Reference" "#PWR0248" (at 298.45 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 296.672 238.76 90)
@@ -11455,7 +11360,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0241") (unit 1)
+          (reference "#PWR0248") (unit 1)
         )
       )
     )
@@ -11499,7 +11404,7 @@
   (symbol (lib_id "DQSBC:GND") (at 332.74 111.76 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid db19e46d-0150-4911-a451-9c9175dbcc07)
-    (property "Reference" "#PWR0259" (at 332.74 118.11 0)
+    (property "Reference" "#PWR0261" (at 332.74 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 332.74 115.57 0)
@@ -11524,7 +11429,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0259") (unit 1)
+          (reference "#PWR0261") (unit 1)
         )
       )
     )
@@ -11533,7 +11438,7 @@
   (symbol (lib_id "DQSBC:C") (at 396.24 175.26 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid dbdf68a6-93e0-4fe0-b87c-5d79b9e4e5bd)
-    (property "Reference" "C286" (at 398.145 173.355 0)
+    (property "Reference" "C311" (at 398.145 173.355 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 398.145 175.26 0)
@@ -11562,7 +11467,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C286") (unit 1)
+          (reference "C311") (unit 1)
         )
       )
     )
@@ -11599,7 +11504,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0216") (unit 1)
+          (reference "#PWR0222") (unit 1)
         )
       )
     )
@@ -11608,7 +11513,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 147.32 156.21 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid dfeb1587-4ed6-4e9e-892e-396be5c1a98f)
-    (property "Reference" "R75" (at 148.59 158.75 90)
+    (property "Reference" "R85" (at 148.59 158.75 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100" (at 148.59 153.67 90)
@@ -11634,7 +11539,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R75") (unit 1)
+          (reference "R85") (unit 1)
         )
       )
     )
@@ -11643,7 +11548,7 @@
   (symbol (lib_id "DQSBC:VDD_1V") (at 388.62 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e0a1153f-ecc9-4c32-a170-c8d1622ab8ed)
-    (property "Reference" "#PWR0255" (at 388.62 242.57 0)
+    (property "Reference" "#PWR0272" (at 388.62 242.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD_1V" (at 388.62 237.744 0)
@@ -11668,7 +11573,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0255") (unit 1)
+          (reference "#PWR0272") (unit 1)
         )
       )
     )
@@ -11677,7 +11582,7 @@
   (symbol (lib_id "DQSBC:C") (at 297.18 226.06 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e176c4ed-ed59-424a-a83a-bb408a7639e8)
-    (property "Reference" "C266" (at 295.275 224.155 0)
+    (property "Reference" "C284" (at 295.275 224.155 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "C" (at 297.18 224.155 0)
@@ -11706,7 +11611,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C266") (unit 1)
+          (reference "C284") (unit 1)
         )
       )
     )
@@ -11715,7 +11620,7 @@
   (symbol (lib_id "DQSBC:GND") (at 91.44 147.32 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e2e741b2-0698-4ef3-8df6-7742eff2474a)
-    (property "Reference" "#PWR0267" (at 91.44 153.67 0)
+    (property "Reference" "#PWR0231" (at 91.44 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 91.44 151.13 0)
@@ -11740,7 +11645,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0267") (unit 1)
+          (reference "#PWR0231") (unit 1)
         )
       )
     )
@@ -11749,7 +11654,7 @@
   (symbol (lib_id "DQSBC:C") (at 381 142.24 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e471443a-6f7c-4845-9404-7b20bd1655de)
-    (property "Reference" "C277" (at 382.905 140.335 0)
+    (property "Reference" "C302" (at 382.905 140.335 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 382.905 142.24 0)
@@ -11778,7 +11683,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C277") (unit 1)
+          (reference "C302") (unit 1)
         )
       )
     )
@@ -11787,7 +11692,7 @@
   (symbol (lib_id "DQSBC:GND") (at 33.02 266.7 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e62817de-64c7-4b15-adf7-38c0d912c52a)
-    (property "Reference" "#PWR0219" (at 33.02 273.05 0)
+    (property "Reference" "#PWR0225" (at 33.02 273.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 33.02 270.51 0)
@@ -11812,7 +11717,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0219") (unit 1)
+          (reference "#PWR0225") (unit 1)
         )
       )
     )
@@ -11821,7 +11726,7 @@
   (symbol (lib_id "DQSBC:GND") (at 381 220.98 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e7b74b42-4e7b-4a2d-bb7f-bf7afc702841)
-    (property "Reference" "#PWR0253" (at 381 227.33 0)
+    (property "Reference" "#PWR0270" (at 381 227.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 381 224.79 0)
@@ -11846,7 +11751,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0253") (unit 1)
+          (reference "#PWR0270") (unit 1)
         )
       )
     )
@@ -11896,7 +11801,7 @@
   (symbol (lib_id "RF_Module:ESP32-PICO-D4") (at 373.38 71.12 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid eb4907e9-9d6b-421c-9af5-728ff55767dd)
-    (property "Reference" "U16" (at 355.6 31.75 0)
+    (property "Reference" "U17" (at 355.6 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ESP32-PICO-D4" (at 377.19 31.75 0)
@@ -11963,7 +11868,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "U16") (unit 1)
+          (reference "U17") (unit 1)
         )
       )
     )
@@ -12006,7 +11911,7 @@
   (symbol (lib_id "DQSBC:GND") (at 312.42 39.37 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f17a5d4b-ce22-4263-b71c-9148fb7785a8)
-    (property "Reference" "#PWR0266" (at 312.42 45.72 0)
+    (property "Reference" "#PWR0254" (at 312.42 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 312.42 43.18 0)
@@ -12031,7 +11936,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0266") (unit 1)
+          (reference "#PWR0254") (unit 1)
         )
       )
     )
@@ -12040,7 +11945,7 @@
   (symbol (lib_id "DQSBC:GND") (at 388.62 147.32 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f193b699-c43d-458b-a886-cd89ee73c116)
-    (property "Reference" "#PWR0254" (at 388.62 153.67 0)
+    (property "Reference" "#PWR0271" (at 388.62 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 388.62 151.13 0)
@@ -12065,7 +11970,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0254") (unit 1)
+          (reference "#PWR0271") (unit 1)
         )
       )
     )
@@ -12074,7 +11979,7 @@
   (symbol (lib_id "DQSBC:NVCC_ENET_2V5") (at 284.48 129.54 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f326f1fa-f19f-48df-bcf5-f962100b67a2)
-    (property "Reference" "#PWR0238" (at 284.48 130.81 0)
+    (property "Reference" "#PWR0245" (at 284.48 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_ENET_2V5" (at 284.48 125.984 0)
@@ -12099,7 +12004,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0238") (unit 1)
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -12108,7 +12013,7 @@
   (symbol (lib_id "Device:RFShield_OnePiece") (at 91.44 137.16 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f38218fa-e87f-40c3-b315-4dc374d1014e)
-    (property "Reference" "J4" (at 91.44 132.08 0)
+    (property "Reference" "J2" (at 91.44 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RFShield_OnePiece" (at 91.44 134.62 0)
@@ -12127,7 +12032,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "J4") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -12136,7 +12041,7 @@
   (symbol (lib_id "DQSBC:C") (at 373.38 142.24 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f4130aca-80f4-44be-8015-b35e652d8257)
-    (property "Reference" "C273" (at 375.285 140.335 0)
+    (property "Reference" "C298" (at 375.285 140.335 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 375.285 142.24 0)
@@ -12165,7 +12070,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C273") (unit 1)
+          (reference "C298") (unit 1)
         )
       )
     )
@@ -12174,7 +12079,7 @@
   (symbol (lib_id "DQSBC:GND") (at 373.38 111.76 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f4302145-b38a-445b-b6d9-a76870c1a570)
-    (property "Reference" "#PWR0260" (at 373.38 118.11 0)
+    (property "Reference" "#PWR0267" (at 373.38 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 373.38 115.57 0)
@@ -12199,7 +12104,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0260") (unit 1)
+          (reference "#PWR0267") (unit 1)
         )
       )
     )
@@ -12238,7 +12143,7 @@
           (reference "Q?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "Q6") (unit 1)
+          (reference "Q7") (unit 1)
         )
       )
     )
@@ -12247,7 +12152,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 351.79 142.24 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f70078c5-cec3-4ea4-a37d-5fc779657a22)
-    (property "Reference" "R84" (at 349.504 141.478 90)
+    (property "Reference" "R94" (at 349.504 141.478 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1M" (at 353.822 141.478 90)
@@ -12273,7 +12178,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R84") (unit 1)
+          (reference "R94") (unit 1)
         )
       )
     )
@@ -12317,7 +12222,7 @@
   (symbol (lib_id "DQSBC:GND") (at 17.78 147.32 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid f90f881c-a47c-4fc4-9243-8981342c5879)
-    (property "Reference" "#PWR0215" (at 17.78 153.67 0)
+    (property "Reference" "#PWR0221" (at 17.78 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 17.78 151.13 0)
@@ -12342,7 +12247,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0215") (unit 1)
+          (reference "#PWR0221") (unit 1)
         )
       )
     )
@@ -12351,7 +12256,7 @@
   (symbol (lib_name "awg1000:R_1") (lib_id "awg1000:R") (at 298.45 246.38 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid fb371280-d9d0-4ec7-bb86-93a0ffd71b91)
-    (property "Reference" "R83" (at 296.164 245.618 90)
+    (property "Reference" "R93" (at 296.164 245.618 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "0" (at 300.482 245.618 90)
@@ -12377,7 +12282,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "R83") (unit 1)
+          (reference "R93") (unit 1)
         )
       )
     )
@@ -12386,7 +12291,7 @@
   (symbol (lib_id "DQSBC:C") (at 388.62 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid fd80aed5-ab78-42f3-a120-4102b4ca17c1)
-    (property "Reference" "C284" (at 390.525 247.015 0)
+    (property "Reference" "C309" (at 390.525 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "10uF" (at 390.525 248.92 0)
@@ -12415,7 +12320,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C284") (unit 1)
+          (reference "C309") (unit 1)
         )
       )
     )
@@ -12424,7 +12329,7 @@
   (symbol (lib_id "DQSBC:GND") (at 233.68 264.16 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid fe0829db-dfe9-4728-b2b1-be6afeada8ea)
-    (property "Reference" "#PWR0234" (at 227.33 264.16 0)
+    (property "Reference" "#PWR0241" (at 227.33 264.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 264.16 0)
@@ -12449,7 +12354,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "#PWR0234") (unit 1)
+          (reference "#PWR0241") (unit 1)
         )
       )
     )
@@ -12458,7 +12363,7 @@
   (symbol (lib_id "DQSBC:C") (at 327.66 81.28 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid ffb2efb7-3a67-4fb9-9998-690428a79580)
-    (property "Reference" "C292" (at 329.565 79.375 0)
+    (property "Reference" "C290" (at 329.565 79.375 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 329.565 81.28 0)
@@ -12487,7 +12392,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc818e48-9288-4459-961a-c2af1ae9da34"
-          (reference "C292") (unit 1)
+          (reference "C290") (unit 1)
         )
       )
     )

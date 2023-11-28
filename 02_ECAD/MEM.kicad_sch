@@ -4824,6 +4824,11 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 255 255 1)) (justify right bottom))
     (uuid 21bf4e4e-577b-4b18-9037-ce54be2e1cc9)
   )
+  (text "Z DQ, DMI -> 42 Ohms, Z DQS/CLK -> 85 Ohms." (exclude_from_sim no)
+ (at 25.4 13.335 0)
+    (effects (font (size 0.762 0.762) (color 194 194 194 1)) (justify left))
+    (uuid 22c0aed0-297d-4e69-87b4-45b80031012b)
+  )
   (text "EMMC" (exclude_from_sim no)
  (at 201.422 139.192 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold (color 255 255 255 1)) (justify right bottom))
@@ -5504,10 +5509,38 @@
       (effects (font (size 1.27 1.27) italic (color 255 255 0 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 68.58 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 08744962-b02f-47eb-a1e8-36669ffcf066)
+    (property "Netclass" "S_42" (at 98.552 67.31 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 99.06 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 0b2a76b6-1c21-4163-834a-9df3072945eb)
+    (property "Netclass" "S_42" (at 98.552 97.79 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 162.56 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 0e8aa083-43a1-46c1-a366-5ef4bc9909c2)
+    (property "Netclass" "S_42" (at 98.552 161.29 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 114.3 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid 1a02e18a-2004-46c6-a0d2-2cc77a32dae3)
     (property "Netclass" "D_85" (at 98.552 113.03 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 139.7 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 1b077747-3cd6-44f4-abcb-89c828a371b4)
+    (property "Netclass" "S_42" (at 98.552 138.43 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5518,10 +5551,52 @@
       (effects (font (size 1.27 1.27) italic (color 255 255 0 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 96.52 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 20ea3e07-773c-44cb-9d36-16a75b7a5447)
+    (property "Netclass" "S_42" (at 98.552 95.25 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 93.98 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 28fc987c-bad7-4b00-95f5-426ae4925749)
+    (property "Netclass" "S_42" (at 98.552 92.71 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 170.18 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 2fbfee6e-0233-4db4-a320-dfdaca0c3561)
+    (property "Netclass" "S_42" (at 98.552 168.91 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 149.86 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid 321c8af5-c4b2-4688-ae66-1a3ad22e52e4)
     (property "Netclass" "D_85" (at 98.552 148.59 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 48.26 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 414fbf1a-d27f-4463-bbe7-b87e9b6bf05e)
+    (property "Netclass" "S_42" (at 98.552 46.99 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 58.42 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 46d492b0-ffc2-4e1f-88eb-7ad9e1718886)
+    (property "Netclass" "S_42" (at 98.552 57.15 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 88.9 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 4821aac9-d569-4ef0-963d-ee2eb154c26f)
+    (property "Netclass" "S_42" (at 98.552 87.63 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5532,10 +5607,45 @@
       (effects (font (size 1.27 1.27) italic (color 255 255 0 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 160.02 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 55c6192f-0e74-4436-b366-7ff2d1c989e9)
+    (property "Netclass" "S_42" (at 98.552 158.75 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 172.72 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 603d4cf3-239c-496a-b0b8-1f869e55916d)
+    (property "Netclass" "S_42" (at 98.552 171.45 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 91.44 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 68af4d18-0aec-4740-829f-3da932d89134)
+    (property "Netclass" "S_42" (at 98.552 90.17 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 63.5 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 68bf6241-dec5-440e-8801-75120fd42378)
+    (property "Netclass" "S_42" (at 98.552 62.23 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 48.26 68.58 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid 6a4727ab-8499-42cd-b205-e7bfe84c44b6)
     (property "Netclass" "D_85" (at 47.752 67.31 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 142.24 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 709e1966-fc7e-4e94-a6aa-765dc77723f5)
+    (property "Netclass" "S_42" (at 98.552 140.97 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5567,10 +5677,38 @@
       (effects (font (size 1.27 1.27) italic (color 255 255 0 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 124.46 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 8db3dd5f-7f35-447a-90ca-802866b5447a)
+    (property "Netclass" "S_42" (at 98.552 123.19 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 119.38 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid 9020aa3a-1234-4f04-aee0-e6f960114ea0)
+    (property "Netclass" "S_42" (at 98.552 118.11 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 48.26 121.92 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid 9cbab1ff-cfd5-4e1c-8904-d802b29c80c4)
     (property "Netclass" "D_85" (at 47.752 120.65 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 177.8 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid a74c8099-3f2e-4464-b2be-c0f0e7dbf369)
+    (property "Netclass" "S_42" (at 98.552 176.53 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 134.62 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid aaece4d0-7a5e-4c19-a13b-8f6eb98f560b)
+    (property "Netclass" "S_42" (at 98.552 133.35 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5581,10 +5719,45 @@
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 127 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid b4a80697-8791-4206-ac1d-0ff9d7c44329)
+    (property "Netclass" "S_42" (at 98.552 125.73 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 154.94 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid b7193553-a7b8-48a6-887b-74ef8516579d)
+    (property "Netclass" "S_42" (at 98.552 153.67 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 83.82 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid b97bc448-fc53-4eb5-b448-44e128bb8996)
+    (property "Netclass" "S_42" (at 98.552 82.55 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 182.88 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid bc535612-2426-4046-a9e2-259f661087fc)
     (property "Netclass" "D_85" (at 98.552 181.61 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 71.12 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid bc8239ae-affe-4ff9-9aa5-e6152c62198d)
+    (property "Netclass" "S_42" (at 98.552 69.85 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 53.34 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid bc8f608b-e405-468a-b542-547bd7f2d6fc)
+    (property "Netclass" "S_42" (at 98.552 52.07 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5595,6 +5768,34 @@
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 137.16 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid c4f72cf4-0064-43a4-b823-b6621696fa31)
+    (property "Netclass" "S_42" (at 98.552 135.89 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 60.96 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid c8ad5088-99a0-4681-bccf-032e5338dfc7)
+    (property "Netclass" "S_42" (at 98.552 59.69 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 175.26 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid d68ded2a-6176-4170-b13d-0fd3b376d1a7)
+    (property "Netclass" "S_42" (at 98.552 173.99 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 66.04 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid df6d43b6-4261-40f8-b87a-2b6c241a7756)
+    (property "Netclass" "S_42" (at 98.552 64.77 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 48.26 71.12 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid e031c858-4b25-4306-a6de-8fb60baec23e)
@@ -5602,10 +5803,31 @@
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 55.88 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid e38f8741-5037-4c40-9462-25880e79c511)
+    (property "Netclass" "S_42" (at 98.552 54.61 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
   (netclass_flag "" (length 1.27) (shape diamond) (at 48.26 124.46 0)
     (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
     (uuid e9ae8a80-db90-4192-af33-327d7490eaa2)
     (property "Netclass" "D_85" (at 47.752 123.19 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 106.68 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid ec1358d1-f41b-47c2-91ed-832e99faa984)
+    (property "Netclass" "S_42" (at 98.552 105.41 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 165.1 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid ec1c220f-02f4-47e8-805f-6ed5f3ccadb4)
+    (property "Netclass" "S_42" (at 98.552 163.83 0) (do_not_autoplace)
       (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
     )
   )
@@ -5630,11 +5852,46 @@
       (effects (font (size 1.27 1.27) italic (color 255 255 0 1)) (justify left))
     )
   )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 167.64 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid f46a2140-03ea-40e5-8b6c-68f919e2554e)
+    (property "Netclass" "S_42" (at 98.552 166.37 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 104.14 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid f7709c03-4932-4239-90c7-75dbf89088c8)
+    (property "Netclass" "S_42" (at 98.552 102.87 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 129.54 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid f81efa7b-5405-4c8c-ab39-497980e84fd7)
+    (property "Netclass" "S_42" (at 98.552 128.27 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 101.6 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid fbbb8fe3-804c-4cb5-b0ca-a4da169547f6)
+    (property "Netclass" "S_42" (at 98.552 100.33 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
+  (netclass_flag "" (length 1.27) (shape diamond) (at 99.06 132.08 0)
+    (effects (font (size 1.016 1.016) (color 255 0 255 1)) (justify left bottom))
+    (uuid fdba088c-0655-4f85-bed4-0ff1586e4720)
+    (property "Netclass" "S_42" (at 98.552 130.81 0) (do_not_autoplace)
+      (effects (font (size 0.254 0.254) (color 255 0 255 1)) (justify left))
+    )
+  )
 
   (symbol (lib_id "DQSBC:GND") (at 294.64 88.9 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 000da483-7978-4ac7-9b66-65f0af49624b)
-    (property "Reference" "#PWR0206" (at 294.64 95.25 0)
+    (property "Reference" "#PWR0212" (at 294.64 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 294.64 92.71 0)
@@ -5659,7 +5916,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0206") (unit 1)
+          (reference "#PWR0212") (unit 1)
         )
       )
     )
@@ -5668,7 +5925,7 @@
   (symbol (lib_id "DQSBC:C") (at 182.88 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 06e26787-bf92-4cd1-8076-8bf919a364ed)
-    (property "Reference" "C246" (at 184.785 239.395 0)
+    (property "Reference" "C264" (at 184.785 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 184.785 241.3 0)
@@ -5697,7 +5954,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C246") (unit 1)
+          (reference "C264") (unit 1)
         )
       )
     )
@@ -5706,7 +5963,7 @@
   (symbol (lib_id "DQSBC:C") (at 350.52 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 09547357-fa63-4fea-a9a4-dd7e576a9f45)
-    (property "Reference" "C256" (at 352.425 211.455 0)
+    (property "Reference" "C274" (at 352.425 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 352.425 213.36 0)
@@ -5735,7 +5992,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C256") (unit 1)
+          (reference "C274") (unit 1)
         )
       )
     )
@@ -5744,7 +6001,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 270.51 187.96 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 09eb95fa-035e-4aa4-bfd6-bdd60aa3c1ab)
-    (property "Reference" "R60" (at 266.7 187.198 90)
+    (property "Reference" "R72" (at 266.7 187.198 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 274.574 187.198 90)
@@ -5770,7 +6027,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R60") (unit 1)
+          (reference "R72") (unit 1)
         )
       )
     )
@@ -5779,7 +6036,7 @@
   (symbol (lib_id "DQSBC:GND") (at 304.8 93.98 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a60e2d4-f49e-4794-b381-8cec0c03a8c7)
-    (property "Reference" "#PWR0208" (at 304.8 100.33 0)
+    (property "Reference" "#PWR0214" (at 304.8 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 304.8 97.79 0)
@@ -5804,7 +6061,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0208") (unit 1)
+          (reference "#PWR0214") (unit 1)
         )
       )
     )
@@ -5813,7 +6070,7 @@
   (symbol (lib_id "DQSBC:C") (at 327.66 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e8097b3-7410-445b-a04a-4069c80368d4)
-    (property "Reference" "C250" (at 329.565 211.455 0)
+    (property "Reference" "C268" (at 329.565 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 329.565 213.36 0)
@@ -5842,7 +6099,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C250") (unit 1)
+          (reference "C268") (unit 1)
         )
       )
     )
@@ -5851,7 +6108,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 270.51 215.9 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 0edb716d-9329-4ab8-aeea-243185dfa09d)
-    (property "Reference" "R61" (at 266.7 215.138 90)
+    (property "Reference" "R73" (at 266.7 215.138 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 274.574 215.138 90)
@@ -5877,7 +6134,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R61") (unit 1)
+          (reference "R73") (unit 1)
         )
       )
     )
@@ -5886,7 +6143,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 33.02 86.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 10459a5b-d816-49a3-87a4-fcd9b185cda7)
-    (property "Reference" "#PWR0188" (at 33.02 87.63 0)
+    (property "Reference" "#PWR0194" (at 33.02 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 33.02 75.946 90)
@@ -5911,7 +6168,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0188") (unit 1)
+          (reference "#PWR0194") (unit 1)
         )
       )
     )
@@ -6014,7 +6271,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0202") (unit 1)
+          (reference "#PWR0208") (unit 1)
         )
       )
     )
@@ -6023,7 +6280,7 @@
   (symbol (lib_id "DQSBC:C") (at 342.9 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 195ffa62-9cab-4d58-a3ee-5a5734518ef2)
-    (property "Reference" "C254" (at 344.805 211.455 0)
+    (property "Reference" "C272" (at 344.805 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 344.805 213.36 0)
@@ -6052,7 +6309,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C254") (unit 1)
+          (reference "C272") (unit 1)
         )
       )
     )
@@ -6061,7 +6318,7 @@
   (symbol (lib_name "awg1000:CAP_UNPOL_70") (lib_id "awg1000:CAP_UNPOL") (at 294.64 57.15 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 1bdabdd9-ec3e-44f6-9226-a87da26f1e8e)
-    (property "Reference" "C249" (at 296.926 55.626 0)
+    (property "Reference" "C267" (at 296.926 55.626 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "220nF" (at 296.926 57.15 0)
@@ -6090,7 +6347,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C249") (unit 1)
+          (reference "C267") (unit 1)
         )
       )
     )
@@ -6099,7 +6356,7 @@
   (symbol (lib_id "DQSBC:C") (at 86.36 254 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 212f70fd-925d-497d-8873-d28f5ea48cb7)
-    (property "Reference" "C228" (at 88.265 251.46 0)
+    (property "Reference" "C246" (at 88.265 251.46 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 88.265 254 0)
@@ -6128,7 +6385,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C228") (unit 1)
+          (reference "C246") (unit 1)
         )
       )
     )
@@ -6137,7 +6394,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 314.96 73.66 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 28426d89-b7a2-42b7-8642-b3a7557393ea)
-    (property "Reference" "#PWR0210" (at 314.96 74.93 0)
+    (property "Reference" "#PWR0216" (at 314.96 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 314.96 70.104 0)
@@ -6162,7 +6419,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0210") (unit 1)
+          (reference "#PWR0216") (unit 1)
         )
       )
     )
@@ -6171,7 +6428,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 134.62 91.44 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 39e928c0-eacb-4c38-acbb-4cfc7a20c51e)
-    (property "Reference" "#PWR0194" (at 135.89 91.44 0)
+    (property "Reference" "#PWR0200" (at 135.89 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 131.064 91.44 0)
@@ -6196,7 +6453,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0194") (unit 1)
+          (reference "#PWR0200") (unit 1)
         )
       )
     )
@@ -6406,7 +6663,7 @@
   (symbol (lib_id "DQSBC:C") (at 114.3 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ae64d7c-f3db-4d1a-b28f-1ea49ce518fe)
-    (property "Reference" "C229" (at 116.205 239.395 0)
+    (property "Reference" "C247" (at 116.205 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "22uF" (at 116.205 241.3 0)
@@ -6435,7 +6692,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C229") (unit 1)
+          (reference "C247") (unit 1)
         )
       )
     )
@@ -6444,7 +6701,7 @@
   (symbol (lib_id "DQSBC:C") (at 358.14 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ccd3f67-14d6-4e5b-b423-cc5a454a2f5e)
-    (property "Reference" "C258" (at 360.045 211.455 0)
+    (property "Reference" "C276" (at 360.045 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 360.045 213.36 0)
@@ -6473,7 +6730,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C258") (unit 1)
+          (reference "C276") (unit 1)
         )
       )
     )
@@ -6482,7 +6739,7 @@
   (symbol (lib_id "DQSBC:C") (at 160.02 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4703e919-3d84-4350-b1c5-6a60c1333466)
-    (property "Reference" "C241" (at 161.925 239.395 0)
+    (property "Reference" "C259" (at 161.925 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "22uF" (at 161.925 241.3 0)
@@ -6511,7 +6768,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C241") (unit 1)
+          (reference "C259") (unit 1)
         )
       )
     )
@@ -6520,7 +6777,7 @@
   (symbol (lib_id "DQSBC:GND") (at 182.88 246.38 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c2ac500-260f-40bd-b1f4-9e0744ff0b20)
-    (property "Reference" "#PWR0199" (at 189.23 246.38 0)
+    (property "Reference" "#PWR0205" (at 189.23 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 186.69 246.38 0)
@@ -6545,7 +6802,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0199") (unit 1)
+          (reference "#PWR0205") (unit 1)
         )
       )
     )
@@ -6554,7 +6811,7 @@
   (symbol (lib_id "DQSBC:GND") (at 332.74 203.2 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d1aa4a4-1644-4ed8-a521-f268030a0377)
-    (property "Reference" "#PWR0212" (at 332.74 209.55 0)
+    (property "Reference" "#PWR0218" (at 332.74 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 332.74 207.01 0)
@@ -6579,7 +6836,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0212") (unit 1)
+          (reference "#PWR0218") (unit 1)
         )
       )
     )
@@ -6588,7 +6845,7 @@
   (symbol (lib_id "DQSBC:C") (at 347.98 195.58 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f342d47-1cc2-4e5e-a6d1-e6f9adaefd85)
-    (property "Reference" "C255" (at 349.885 193.675 0)
+    (property "Reference" "C273" (at 349.885 193.675 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 349.885 195.58 0)
@@ -6617,7 +6874,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C255") (unit 1)
+          (reference "C273") (unit 1)
         )
       )
     )
@@ -6626,7 +6883,7 @@
   (symbol (lib_id "DQSBC:C") (at 167.64 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5056688b-6b60-4320-8b50-d7d229ebe0ee)
-    (property "Reference" "C243" (at 169.545 249.555 0)
+    (property "Reference" "C261" (at 169.545 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 169.545 251.46 0)
@@ -6655,7 +6912,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C243") (unit 1)
+          (reference "C261") (unit 1)
         )
       )
     )
@@ -6664,7 +6921,7 @@
   (symbol (lib_id "DQSBC:C") (at 129.54 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 51a77aaf-a30a-4d99-8e0a-e1bc737fbb5a)
-    (property "Reference" "C234" (at 131.445 249.555 0)
+    (property "Reference" "C252" (at 131.445 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 131.445 251.46 0)
@@ -6693,7 +6950,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C234") (unit 1)
+          (reference "C252") (unit 1)
         )
       )
     )
@@ -6702,7 +6959,7 @@
   (symbol (lib_id "DQSBC:GND") (at 175.26 193.04 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 539ea74e-0b92-4ae4-bd48-9f72944d77fb)
-    (property "Reference" "#PWR0197" (at 175.26 199.39 0)
+    (property "Reference" "#PWR0203" (at 175.26 199.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 175.26 196.85 0)
@@ -6727,7 +6984,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0197") (unit 1)
+          (reference "#PWR0203") (unit 1)
         )
       )
     )
@@ -6736,7 +6993,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 39.37 251.46 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 57d23b94-93dc-4813-a5f2-3386578c7088)
-    (property "Reference" "R52" (at 35.306 250.698 90)
+    (property "Reference" "R64" (at 35.306 250.698 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "150" (at 43.434 250.698 90)
@@ -6762,7 +7019,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R52") (unit 1)
+          (reference "R64") (unit 1)
         )
       )
     )
@@ -6771,7 +7028,7 @@
   (symbol (lib_id "DQSBC:C") (at 129.54 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 59d32275-d34d-4835-9782-1c8ca30130ee)
-    (property "Reference" "C233" (at 131.445 239.395 0)
+    (property "Reference" "C251" (at 131.445 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 131.445 241.3 0)
@@ -6800,7 +7057,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C233") (unit 1)
+          (reference "C251") (unit 1)
         )
       )
     )
@@ -6837,7 +7094,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0203") (unit 1)
+          (reference "#PWR0209") (unit 1)
         )
       )
     )
@@ -6888,7 +7145,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 270.51 231.14 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c3486a4-1b28-4f01-bf9b-118a680d9064)
-    (property "Reference" "R62" (at 266.7 230.378 90)
+    (property "Reference" "R74" (at 266.7 230.378 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 274.574 230.378 90)
@@ -6914,7 +7171,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R62") (unit 1)
+          (reference "R74") (unit 1)
         )
       )
     )
@@ -6923,7 +7180,7 @@
   (symbol (lib_id "DQSBC:C") (at 363.22 195.58 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d6801c8-aeb6-4414-b456-359a252d5b03)
-    (property "Reference" "C259" (at 365.125 193.675 0)
+    (property "Reference" "C277" (at 365.125 193.675 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 365.125 195.58 0)
@@ -6952,7 +7209,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C259") (unit 1)
+          (reference "C277") (unit 1)
         )
       )
     )
@@ -6961,7 +7218,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 309.88 182.88 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 5d885285-af94-4e25-ae8c-92e6bc49e15c)
-    (property "Reference" "#PWR0209" (at 309.88 184.15 0)
+    (property "Reference" "#PWR0215" (at 309.88 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 309.88 179.324 0)
@@ -6986,7 +7243,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0209") (unit 1)
+          (reference "#PWR0215") (unit 1)
         )
       )
     )
@@ -6995,7 +7252,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 44.45 93.98 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 603caef8-aab3-4a42-936f-d2731aff3110)
-    (property "Reference" "R53" (at 40.64 93.218 90)
+    (property "Reference" "R65" (at 40.64 93.218 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10K" (at 48.514 93.218 90)
@@ -7021,7 +7278,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R53") (unit 1)
+          (reference "R65") (unit 1)
         )
       )
     )
@@ -7030,7 +7287,7 @@
   (symbol (lib_id "DQSBC:C") (at 152.4 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 6085424e-9b2d-4bf0-9615-dffde7777159)
-    (property "Reference" "C239" (at 154.305 239.395 0)
+    (property "Reference" "C257" (at 154.305 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 154.305 241.3 0)
@@ -7059,7 +7316,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C239") (unit 1)
+          (reference "C257") (unit 1)
         )
       )
     )
@@ -7068,7 +7325,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 39.37 248.92 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 60ed65fa-8510-48e0-978c-274e60a9bc46)
-    (property "Reference" "R51" (at 35.306 248.158 90)
+    (property "Reference" "R63" (at 35.306 248.158 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "150" (at 43.434 248.158 90)
@@ -7094,7 +7351,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R51") (unit 1)
+          (reference "R63") (unit 1)
         )
       )
     )
@@ -7103,7 +7360,7 @@
   (symbol (lib_id "DQSBC:C") (at 86.36 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 648b263a-4392-4b24-81d1-3cbe36f38584)
-    (property "Reference" "C227" (at 88.265 238.76 0)
+    (property "Reference" "C245" (at 88.265 238.76 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 88.265 241.3 0)
@@ -7132,7 +7389,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C227") (unit 1)
+          (reference "C245") (unit 1)
         )
       )
     )
@@ -7141,7 +7398,7 @@
   (symbol (lib_id "awg1000:DRAM_VREF") (at 99.06 236.22 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 68acbe15-5e32-4155-808e-6fa764ae74b3)
-    (property "Reference" "#PWR0192" (at 99.06 238.76 0)
+    (property "Reference" "#PWR0198" (at 99.06 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "DRAM_VREF" (at 99.06 232.41 0)
@@ -7166,7 +7423,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0192") (unit 1)
+          (reference "#PWR0198") (unit 1)
         )
       )
     )
@@ -7175,7 +7432,7 @@
   (symbol (lib_id "DQSBC:C") (at 167.64 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e3eb3a4-e3ae-4c8d-94a9-a6e7130d0c4e)
-    (property "Reference" "C242" (at 169.545 239.395 0)
+    (property "Reference" "C260" (at 169.545 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 169.545 241.3 0)
@@ -7204,7 +7461,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C242") (unit 1)
+          (reference "C260") (unit 1)
         )
       )
     )
@@ -7213,7 +7470,7 @@
   (symbol (lib_id "DQSBC:C") (at 121.92 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 6fa1269c-e805-4960-b46e-9f63d699cbdd)
-    (property "Reference" "C232" (at 123.825 249.555 0)
+    (property "Reference" "C250" (at 123.825 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 123.825 251.46 0)
@@ -7242,7 +7499,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C232") (unit 1)
+          (reference "C250") (unit 1)
         )
       )
     )
@@ -7251,7 +7508,7 @@
   (symbol (lib_id "DQSBC:C") (at 355.6 195.58 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7560fd1e-9c4b-41ef-8dd9-efa745018c85)
-    (property "Reference" "C257" (at 357.505 193.675 0)
+    (property "Reference" "C275" (at 357.505 193.675 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 357.505 195.58 0)
@@ -7280,7 +7537,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C257") (unit 1)
+          (reference "C275") (unit 1)
         )
       )
     )
@@ -7289,7 +7546,7 @@
   (symbol (lib_id "DQSBC:C") (at 144.78 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7aa06b4c-4e1d-4bec-a2c5-adbef202e79c)
-    (property "Reference" "C238" (at 146.685 249.555 0)
+    (property "Reference" "C256" (at 146.685 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 146.685 251.46 0)
@@ -7318,7 +7575,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C238") (unit 1)
+          (reference "C256") (unit 1)
         )
       )
     )
@@ -7327,7 +7584,7 @@
   (symbol (lib_id "DQSBC:GND") (at 81.28 264.16 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e6b56e9-67d4-48b5-aac3-5e8993ab38ac)
-    (property "Reference" "#PWR0191" (at 81.28 270.51 0)
+    (property "Reference" "#PWR0197" (at 81.28 270.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 81.28 267.97 0)
@@ -7352,7 +7609,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0191") (unit 1)
+          (reference "#PWR0197") (unit 1)
         )
       )
     )
@@ -7361,7 +7618,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 44.45 157.48 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ed9d3f4-c7b3-4210-854f-aa2beb3f9b27)
-    (property "Reference" "R55" (at 40.64 156.718 90)
+    (property "Reference" "R67" (at 40.64 156.718 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "240" (at 48.514 156.718 90)
@@ -7387,7 +7644,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R55") (unit 1)
+          (reference "R67") (unit 1)
         )
       )
     )
@@ -7396,7 +7653,7 @@
   (symbol (lib_id "DQSBC:C") (at 335.28 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 8274a0ad-0a26-486e-a62a-97a889d25f0c)
-    (property "Reference" "C252" (at 337.185 211.455 0)
+    (property "Reference" "C270" (at 337.185 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 337.185 213.36 0)
@@ -7425,7 +7682,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C252") (unit 1)
+          (reference "C270") (unit 1)
         )
       )
     )
@@ -7434,7 +7691,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 81.28 255.27 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 85fb7d0a-fb30-4e8d-a82f-18ffa7c45e9e)
-    (property "Reference" "R58" (at 82.042 251.46 90)
+    (property "Reference" "R70" (at 82.042 251.46 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1.5k" (at 82.042 259.334 90)
@@ -7460,7 +7717,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R58") (unit 1)
+          (reference "R70") (unit 1)
         )
       )
     )
@@ -7469,7 +7726,7 @@
   (symbol (lib_id "DQSBC:VDD_1V8") (at 182.88 256.54 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 86aa45d2-ebb1-4cd9-877f-06cc0c6a8527)
-    (property "Reference" "#PWR0200" (at 182.88 255.27 0)
+    (property "Reference" "#PWR0206" (at 182.88 255.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD_1V8" (at 182.88 260.096 0)
@@ -7494,7 +7751,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0200") (unit 1)
+          (reference "#PWR0206") (unit 1)
         )
       )
     )
@@ -7503,7 +7760,7 @@
   (symbol (lib_id "DQSBC:C") (at 137.16 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 894d7e0e-20c6-4b7b-a4fd-a336497e90c4)
-    (property "Reference" "C236" (at 139.065 249.555 0)
+    (property "Reference" "C254" (at 139.065 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 139.065 251.46 0)
@@ -7532,7 +7789,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C236") (unit 1)
+          (reference "C254") (unit 1)
         )
       )
     )
@@ -7541,7 +7798,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 152.4 256.54 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ebd78d7-2828-4a72-ae93-0a877bc38170)
-    (property "Reference" "#PWR0196" (at 152.4 255.27 0)
+    (property "Reference" "#PWR0202" (at 152.4 255.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 153.035 260.35 0)
@@ -7566,7 +7823,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0196") (unit 1)
+          (reference "#PWR0202") (unit 1)
         )
       )
     )
@@ -7575,7 +7832,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 284.48 50.8 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 92c368f5-10b9-4b0a-b9cb-21e7b0a74463)
-    (property "Reference" "#PWR0204" (at 284.48 52.07 0)
+    (property "Reference" "#PWR0210" (at 284.48 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 284.48 47.244 0)
@@ -7600,7 +7857,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0204") (unit 1)
+          (reference "#PWR0210") (unit 1)
         )
       )
     )
@@ -7609,7 +7866,7 @@
   (symbol (lib_id "DQSBC:VDD_1V8") (at 182.88 236.22 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 97cd47fb-f3dc-438d-a95f-4b220707c4a0)
-    (property "Reference" "#PWR0198" (at 182.88 237.49 0)
+    (property "Reference" "#PWR0204" (at 182.88 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD_1V8" (at 182.88 232.664 0)
@@ -7634,7 +7891,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0198") (unit 1)
+          (reference "#PWR0204") (unit 1)
         )
       )
     )
@@ -7643,7 +7900,7 @@
   (symbol (lib_id "DQSBC:C") (at 152.4 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid 9c483f0b-ae15-4944-bba5-f0062c323dd4)
-    (property "Reference" "C240" (at 154.305 249.555 0)
+    (property "Reference" "C258" (at 154.305 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 154.305 251.46 0)
@@ -7672,7 +7929,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C240") (unit 1)
+          (reference "C258") (unit 1)
         )
       )
     )
@@ -7681,7 +7938,7 @@
   (symbol (lib_id "DQSBC:C") (at 175.26 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a3535651-6182-409b-a00e-95f89726eac3)
-    (property "Reference" "C245" (at 177.165 249.555 0)
+    (property "Reference" "C263" (at 177.165 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 177.165 251.46 0)
@@ -7710,7 +7967,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C245") (unit 1)
+          (reference "C263") (unit 1)
         )
       )
     )
@@ -7719,7 +7976,7 @@
   (symbol (lib_id "DQSBC:C") (at 365.76 213.36 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid a88ef0da-9c00-49b1-8d87-bf9adeddb4b1)
-    (property "Reference" "C260" (at 367.665 211.455 0)
+    (property "Reference" "C278" (at 367.665 211.455 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 367.665 213.36 0)
@@ -7748,7 +8005,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C260") (unit 1)
+          (reference "C278") (unit 1)
         )
       )
     )
@@ -7785,7 +8042,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0211") (unit 1)
+          (reference "#PWR0217") (unit 1)
         )
       )
     )
@@ -7794,7 +8051,7 @@
   (symbol (lib_id "DQSBC:C") (at 182.88 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b17793a3-6d41-4889-ac0c-aef099fd0e98)
-    (property "Reference" "C247" (at 184.785 249.555 0)
+    (property "Reference" "C265" (at 184.785 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 184.785 251.46 0)
@@ -7823,7 +8080,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C247") (unit 1)
+          (reference "C265") (unit 1)
         )
       )
     )
@@ -7832,7 +8089,7 @@
   (symbol (lib_id "DQSBC:VDD_1V8") (at 134.62 68.58 90) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b72019d4-aaa5-4cb8-8afa-d28daf6a7530)
-    (property "Reference" "#PWR0193" (at 135.89 68.58 0)
+    (property "Reference" "#PWR0199" (at 135.89 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VDD_1V8" (at 131.064 68.58 0)
@@ -7857,7 +8114,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0193") (unit 1)
+          (reference "#PWR0199") (unit 1)
         )
       )
     )
@@ -7866,7 +8123,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 35.56 165.1 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid b8776952-d000-40ef-a116-2fe62c704508)
-    (property "Reference" "#PWR0189" (at 35.56 163.83 0)
+    (property "Reference" "#PWR0195" (at 35.56 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 35.56 175.895 90)
@@ -7891,7 +8148,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0189") (unit 1)
+          (reference "#PWR0195") (unit 1)
         )
       )
     )
@@ -7900,7 +8157,7 @@
   (symbol (lib_id "DQSBC:GND") (at 294.64 238.76 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid ba5bfdfc-b4ef-4c91-81c4-06859f592af4)
-    (property "Reference" "#PWR0207" (at 294.64 245.11 0)
+    (property "Reference" "#PWR0213" (at 294.64 245.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 294.64 242.57 0)
@@ -7925,7 +8182,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0207") (unit 1)
+          (reference "#PWR0213") (unit 1)
         )
       )
     )
@@ -7934,7 +8191,7 @@
   (symbol (lib_id "DQSBC:C") (at 114.3 251.46 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid bd144955-5a80-4b8d-b45b-a985b5b0de2c)
-    (property "Reference" "C230" (at 116.205 249.555 0)
+    (property "Reference" "C248" (at 116.205 249.555 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "22uF" (at 116.205 251.46 0)
@@ -7963,7 +8220,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C230") (unit 1)
+          (reference "C248") (unit 1)
         )
       )
     )
@@ -7972,7 +8229,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 99.06 242.57 0) (mirror y) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid bf2ca256-e154-4696-b3dc-2947369a2170)
-    (property "Reference" "R59" (at 101.6 244.475 90)
+    (property "Reference" "R71" (at 101.6 244.475 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0" (at 101.6 239.395 90)
@@ -7998,7 +8255,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R59") (unit 1)
+          (reference "R71") (unit 1)
         )
       )
     )
@@ -8007,7 +8264,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 44.45 147.32 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c0b51f27-30ee-4ec0-a4b9-b80b5e00c05d)
-    (property "Reference" "R54" (at 40.64 146.558 90)
+    (property "Reference" "R66" (at 40.64 146.558 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10K" (at 48.514 146.558 90)
@@ -8033,7 +8290,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R54") (unit 1)
+          (reference "R66") (unit 1)
         )
       )
     )
@@ -8042,7 +8299,7 @@
   (symbol (lib_id "DQSBC:C") (at 340.36 195.58 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c287979d-289a-4806-b2c9-bad63e4ec5ba)
-    (property "Reference" "C253" (at 342.265 193.675 0)
+    (property "Reference" "C271" (at 342.265 193.675 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 342.265 195.58 0)
@@ -8071,7 +8328,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C253") (unit 1)
+          (reference "C271") (unit 1)
         )
       )
     )
@@ -8080,7 +8337,7 @@
   (symbol (lib_id "DQSBC:C") (at 121.92 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid c6de231b-5622-4987-bfe9-7da208414b5d)
-    (property "Reference" "C231" (at 123.825 239.395 0)
+    (property "Reference" "C249" (at 123.825 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 123.825 241.3 0)
@@ -8109,7 +8366,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C231") (unit 1)
+          (reference "C249") (unit 1)
         )
       )
     )
@@ -8118,7 +8375,7 @@
   (symbol (lib_id "DQSBC:C") (at 73.66 248.92 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid cdcd8567-956e-4a24-95b2-74d74f338d9f)
-    (property "Reference" "C226" (at 75.565 247.015 0)
+    (property "Reference" "C244" (at 75.565 247.015 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 75.565 248.92 0)
@@ -8147,7 +8404,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C226") (unit 1)
+          (reference "C244") (unit 1)
         )
       )
     )
@@ -8379,7 +8636,7 @@
   (symbol (lib_id "DQSBC:C") (at 144.78 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid d34abef0-bbfc-426f-b949-e54f10837e37)
-    (property "Reference" "C237" (at 146.685 239.395 0)
+    (property "Reference" "C255" (at 146.685 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 146.685 241.3 0)
@@ -8408,7 +8665,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C237") (unit 1)
+          (reference "C255") (unit 1)
         )
       )
     )
@@ -8417,7 +8674,7 @@
   (symbol (lib_id "DQSBC:3.3V_SW_DELAYED") (at 365.76 205.74 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid de332c10-25f8-47b5-830b-d0bd19352db8)
-    (property "Reference" "#PWR0213" (at 365.76 207.01 0)
+    (property "Reference" "#PWR0219" (at 365.76 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "3.3V_SW_DELAYED" (at 365.76 202.184 0)
@@ -8442,7 +8699,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0213") (unit 1)
+          (reference "#PWR0219") (unit 1)
         )
       )
     )
@@ -8451,7 +8708,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 81.28 242.57 180) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e0cc44b8-db8a-4760-90b2-2de4eff8c4e0)
-    (property "Reference" "R57" (at 82.042 238.76 90)
+    (property "Reference" "R69" (at 82.042 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1.5k" (at 82.042 246.634 90)
@@ -8477,7 +8734,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R57") (unit 1)
+          (reference "R69") (unit 1)
         )
       )
     )
@@ -8486,7 +8743,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 152.4 236.22 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e160d9ba-4f01-44ef-ad94-9efb4d448f01)
-    (property "Reference" "#PWR0195" (at 152.4 237.49 0)
+    (property "Reference" "#PWR0201" (at 152.4 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 152.4 232.664 0)
@@ -8511,7 +8768,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0195") (unit 1)
+          (reference "#PWR0201") (unit 1)
         )
       )
     )
@@ -8520,7 +8777,7 @@
   (symbol (lib_id "DQSBC:GND") (at 284.48 63.5 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e5166eb2-e812-4850-a870-150fe38a18fe)
-    (property "Reference" "#PWR0205" (at 283.845 69.215 0)
+    (property "Reference" "#PWR0211" (at 283.845 69.215 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 284.48 67.31 0)
@@ -8545,7 +8802,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0205") (unit 1)
+          (reference "#PWR0211") (unit 1)
         )
       )
     )
@@ -8554,7 +8811,7 @@
   (symbol (lib_id "DQSBC:C") (at 332.74 195.58 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e65f0152-ab03-4a1d-8777-28f787cf949e)
-    (property "Reference" "C251" (at 334.645 193.675 0)
+    (property "Reference" "C269" (at 334.645 193.675 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "0.1uF" (at 334.645 195.58 0)
@@ -8583,7 +8840,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C251") (unit 1)
+          (reference "C269") (unit 1)
         )
       )
     )
@@ -8592,7 +8849,7 @@
   (symbol (lib_id "DQSBC:R_US") (at 44.45 162.56 270) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e77d68ba-dcf4-4a14-b7fe-a4acef82b29a)
-    (property "Reference" "R56" (at 40.64 161.798 90)
+    (property "Reference" "R68" (at 40.64 161.798 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "240" (at 48.514 161.798 90)
@@ -8618,7 +8875,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "R56") (unit 1)
+          (reference "R68") (unit 1)
         )
       )
     )
@@ -8627,7 +8884,7 @@
   (symbol (lib_id "DQSBC:GND") (at 365.76 220.98 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e87d7e52-5868-40b2-a6fe-9b61b7bebaed)
-    (property "Reference" "#PWR0214" (at 365.76 227.33 0)
+    (property "Reference" "#PWR0220" (at 365.76 227.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 365.76 224.79 0)
@@ -8652,7 +8909,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0214") (unit 1)
+          (reference "#PWR0220") (unit 1)
         )
       )
     )
@@ -8661,7 +8918,7 @@
   (symbol (lib_id "DQSBC:NVCC_DRAM_1V1") (at 81.28 233.68 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid e8c953ad-ccb8-4e8c-a4dc-f52e32201f09)
-    (property "Reference" "#PWR0190" (at 81.28 234.95 0)
+    (property "Reference" "#PWR0196" (at 81.28 234.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "NVCC_DRAM_1V1" (at 81.28 230.124 0)
@@ -8686,7 +8943,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0190") (unit 1)
+          (reference "#PWR0196") (unit 1)
         )
       )
     )
@@ -8695,7 +8952,7 @@
   (symbol (lib_name "awg1000:CAP_UNPOL_68") (lib_id "awg1000:CAP_UNPOL") (at 284.48 57.15 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid ea237f0e-543c-48f6-bcaa-9f96e61150f6)
-    (property "Reference" "C248" (at 286.766 55.626 0)
+    (property "Reference" "C266" (at 286.766 55.626 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 286.766 57.15 0)
@@ -8724,7 +8981,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C248") (unit 1)
+          (reference "C266") (unit 1)
         )
       )
     )
@@ -8733,7 +8990,7 @@
   (symbol (lib_id "DQSBC:C") (at 175.26 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid eb087ee3-12f6-43ea-b171-d62034c92566)
-    (property "Reference" "C244" (at 177.165 239.395 0)
+    (property "Reference" "C262" (at 177.165 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 177.165 241.3 0)
@@ -8762,7 +9019,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C244") (unit 1)
+          (reference "C262") (unit 1)
         )
       )
     )
@@ -8799,7 +9056,7 @@
           (reference "#PWR?") (unit 1)
         )
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "#PWR0201") (unit 1)
+          (reference "#PWR0207") (unit 1)
         )
       )
     )
@@ -8808,7 +9065,7 @@
   (symbol (lib_id "DQSBC:C") (at 137.16 241.3 0) (unit 1)
     (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no)
     (uuid ffa0c058-f5df-4039-a496-f0a6847d1104)
-    (property "Reference" "C235" (at 139.065 239.395 0)
+    (property "Reference" "C253" (at 139.065 239.395 0)
       (effects (font (size 1.27 1.27) (color 132 0 0 1)) (justify left))
     )
     (property "Value" "4.7uF" (at 139.065 241.3 0)
@@ -8837,7 +9094,7 @@
     (instances
       (project "SBC"
         (path "/8aaed6d1-6388-4dfb-8015-aa095e997bfa/cc0dec20-de87-45ae-a0cb-370686014edb"
-          (reference "C235") (unit 1)
+          (reference "C253") (unit 1)
         )
       )
     )
