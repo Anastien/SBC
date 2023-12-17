@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [
       "D_85",
       "L5V"
@@ -32,6 +32,8 @@
       "DRAM_CA5_A",
       "PCIE2_RXN",
       "PCIE2_RXP",
+      "PCIE1_TXN",
+      "PCIE1_TXP",
       "PCIE1_RXP",
       "DRAM_nRST",
       "VDDA_1V8",
@@ -63,11 +65,13 @@
       "DRAM_CKA_P",
       "DRAM_CKB_N",
       "DRAM_CKA_N",
+      "PCIE2_TXN",
+      "PCIE2_TXP",
       "PCIE1_RXN",
-      "Net-(U9K-PCIE1_TXN_N)",
-      "Net-(U9K-PCIE1_TXN_P)",
-      "Net-(U9K-PCIE2_TXN_N)",
-      "Net-(U9K-PCIE2_TXN_P)"
+      "/MPU/pi2_P",
+      "/MPU/pi2_N",
+      "/MPU/pi_P",
+      "/MPU/pi_N"
     ],
     "high_contrast_mode": 1,
     "net_color_mode": 2,
@@ -79,17 +83,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": true,
+      "dimensions": false,
       "footprints": true,
-      "graphics": true,
-      "keepouts": true,
-      "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "graphics": false,
+      "keepouts": false,
+      "lockedItems": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       0,
@@ -125,10 +129,9 @@
       34,
       35,
       36,
-      39,
       40
     ],
-    "visible_layers": "0049500_ffffff81",
+    "visible_layers": "004c000_8000005d",
     "zone_display_mode": 0
   },
   "git": {
@@ -147,24 +150,24 @@
         "name": "SBC.kicad_pcb",
         "open": false,
         "window": {
-          "display": 2,
-          "maximized": true,
-          "pos_x": -9,
-          "pos_y": -9,
-          "size_x": 1938,
-          "size_y": 1058
-        }
-      },
-      {
-        "name": "SBC.kicad_sch",
-        "open": false,
-        "window": {
           "display": 1,
           "maximized": true,
           "pos_x": -2568,
           "pos_y": -8,
           "size_x": 2576,
           "size_y": 1426
+        }
+      },
+      {
+        "name": "SBC.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 2,
+          "maximized": true,
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1058
         }
       }
     ]

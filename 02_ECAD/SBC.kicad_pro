@@ -56,6 +56,36 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.15,
+          "via_gap": 0.15,
+          "width": 0.11
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.2,
+          "width": 0.11
+        },
+        {
+          "gap": 0.12,
+          "via_gap": 0.12,
+          "width": 0.13
+        },
+        {
+          "gap": 0.12,
+          "via_gap": 0.12,
+          "width": 0.13
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.2,
+          "width": 0.13
+        },
+        {
+          "gap": 0.11,
+          "via_gap": 0.11,
+          "width": 0.14
         }
       ],
       "drc_exclusions": [],
@@ -145,7 +175,7 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 7,
+          "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 10.0,
@@ -156,7 +186,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 7,
+          "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 10.0,
@@ -167,7 +197,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 7,
+          "td_curve_segcount": 0,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 10.0,
@@ -191,8 +221,8 @@
         "diff_pair_defaults": {
           "corner_radius_percentage": 100,
           "corner_style": 1,
-          "max_amplitude": 1.0,
-          "min_amplitude": 0.1,
+          "max_amplitude": 2.0,
+          "min_amplitude": 0.2,
           "single_sided": false,
           "spacing": 0.6
         },
@@ -206,9 +236,9 @@
         },
         "single_track_defaults": {
           "corner_radius_percentage": 100,
-          "corner_style": 1,
-          "max_amplitude": 1.0,
-          "min_amplitude": 0.1,
+          "corner_style": 0,
+          "max_amplitude": 2.0,
+          "min_amplitude": 0.2,
           "single_sided": false,
           "spacing": 0.6
         }
@@ -224,6 +254,13 @@
         }
       ],
       "zones_allow_external_fillets": true
+    },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
     },
     "layer_presets": [],
     "viewports": []
@@ -545,6 +582,18 @@
       "/MPU/H4_P": "D_100",
       "/MPU/H5_N": "D_100",
       "/MPU/H5_P": "D_100",
+      "/MPU/U1_RX_N": "D_90",
+      "/MPU/U1_RX_P": "D_90",
+      "/MPU/U1_TX_N": "D_90",
+      "/MPU/U1_TX_P": "D_90",
+      "/MPU/U2_RX_N": "D_90",
+      "/MPU/U2_RX_P": "D_90",
+      "/MPU/U2_TX_N": "D_90",
+      "/MPU/U2_TX_P": "D_90",
+      "/MPU/pi2_N": "D_85",
+      "/MPU/pi2_P": "D_85",
+      "/MPU/pi_N": "D_85",
+      "/MPU/pi_P": "D_85",
       "DRAM_CKA_N": "D_85",
       "DRAM_CKA_P": "D_85",
       "DRAM_CKB_N": "D_85",
@@ -615,6 +664,12 @@
       "HDMI_TX2_P": "D_100",
       "HDMI_TX3_N": "D_100",
       "HDMI_TX3_P": "D_100",
+      "HOST_PCIE2_CLK_N": "D_100",
+      "HOST_PCIE2_CLK_P": "D_100",
+      "IX8_PCIE1_CLK_N": "D_100",
+      "IX8_PCIE1_CLK_P": "D_100",
+      "IX8_PCIE2_CLK_N": "D_100",
+      "IX8_PCIE2_CLK_P": "D_100",
       "NAND_DATA0": "NAND",
       "NAND_DATA1": "NAND",
       "NAND_DATA2": "NAND",
@@ -766,13 +821,13 @@
       "exclude_dnp": false,
       "fields_ordered": [
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Reference",
           "name": "Reference",
           "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -836,6 +891,24 @@
           "label": "Quantity",
           "name": "Field-1",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -887,7 +960,7 @@
   "sheets": [
     [
       "8aaed6d1-6388-4dfb-8015-aa095e997bfa",
-      ""
+      "Root"
     ],
     [
       "bd4d4a4a-feba-4969-9481-b8d6f4eb80d3",
