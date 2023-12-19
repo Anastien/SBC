@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [
@@ -73,7 +73,7 @@
       "/MPU/pi_P",
       "/MPU/pi_N"
     ],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 2,
     "opacity": {
       "images": 0.6,
@@ -129,9 +129,10 @@
       34,
       35,
       36,
+      39,
       40
     ],
-    "visible_layers": "004c000_8000005d",
+    "visible_layers": "004c000_00000004",
     "zone_display_mode": 0
   },
   "git": {
@@ -147,6 +148,18 @@
   "project": {
     "files": [
       {
+        "name": "SBC.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 1,
+          "maximized": false,
+          "pos_x": -2217,
+          "pos_y": 231,
+          "size_x": 1936,
+          "size_y": 1186
+        }
+      },
+      {
         "name": "SBC.kicad_pcb",
         "open": false,
         "window": {
@@ -156,18 +169,6 @@
           "pos_y": -8,
           "size_x": 2576,
           "size_y": 1426
-        }
-      },
-      {
-        "name": "SBC.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 2,
-          "maximized": true,
-          "pos_x": -9,
-          "pos_y": -9,
-          "size_x": 1938,
-          "size_y": 1058
         }
       }
     ]

@@ -14897,7 +14897,7 @@
 	)
 	(text "Z DQ, DMI -> 42 Ohms, Z DQS/CLK -> 85 Ohms."
 		(exclude_from_sim no)
-		(at 15.24 27.94 0)
+		(at 13.97 19.05 0)
 		(effects
 			(font
 				(size 0.762 0.762)
