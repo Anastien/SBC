@@ -14858,7 +14858,7 @@
 	)
 	(rectangle
 		(start 195.58 137.16)
-		(end 201.93 139.7)
+		(end 205.74 139.7)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -14907,9 +14907,9 @@
 		)
 		(uuid "22c0aed0-297d-4e69-87b4-45b80031012b")
 	)
-	(text "EMMC"
+	(text "EMMC 5.1"
 		(exclude_from_sim no)
-		(at 201.422 139.192 0)
+		(at 205.74 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -1,28 +1,15 @@
 {
   "board": {
-    "active_layer": 6,
+    "active_layer": 4,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [
-      "D_85",
-      "L5V"
-    ],
+    "hidden_netclasses": [],
     "hidden_nets": [
       "",
-      "3.3V_SW",
-      "NVCC_DRAM_1V1",
       "DRAM_VREF",
-      "DRAM_DQS3_P",
       "DRAMREF",
-      "DRAM_DQS1_P",
-      "DRAM_DQS2_N",
-      "DRAM_DQS2_P",
-      "DRAM_DQS3_N",
       "DRAM_nCS0_B",
       "DRAM_CKE0_A",
-      "DRAM_DQS1_N",
-      "DRAM_DQS0_P",
-      "DRAM_DQS0_N",
       "DRAM_nCS1_B",
       "DRAM_CKE0_B",
       "DRAM_CA0_A",
@@ -30,13 +17,9 @@
       "DRAM_CA1_A",
       "DRAM_CKE1_A",
       "DRAM_CA5_A",
-      "PCIE2_RXN",
-      "PCIE2_RXP",
       "PCIE1_TXN",
       "PCIE1_TXP",
-      "PCIE1_RXP",
       "DRAM_nRST",
-      "VDDA_1V8",
       "DRAM_CA2_B",
       "DRAM_nCS1_A",
       "DRAM_CA5_B",
@@ -48,33 +31,11 @@
       "DRAM_CKE1_B",
       "DRAM_nCS0_A",
       "DRAM_CA3_A",
-      "VDD_PHY_0V9",
-      "VDD_PHY_1V8",
-      "VDD_PHY_3V3",
-      "VDD_ARM_0V9",
-      "VDD_GPU_0V9",
-      "VDD_SOC_0V9",
-      "NVCC_SD1_1V8",
-      "VDD_VPU_0V9",
-      "NVCC_SD2",
-      "NVCC_ENET_2V5",
-      "VDD_DRAM_0V9",
-      "VDD_1V8",
-      "3.3V_SW_DELAYED",
-      "DRAM_CKB_P",
-      "DRAM_CKA_P",
-      "DRAM_CKB_N",
-      "DRAM_CKA_N",
       "PCIE2_TXN",
-      "PCIE2_TXP",
-      "PCIE1_RXN",
-      "/MPU/pi2_P",
-      "/MPU/pi2_N",
-      "/MPU/pi_P",
-      "/MPU/pi_N"
+      "PCIE2_TXP"
     ],
     "high_contrast_mode": 2,
-    "net_color_mode": 2,
+    "net_color_mode": 0,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
@@ -83,17 +44,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": false,
-      "footprints": false,
-      "graphics": false,
-      "keepouts": false,
+      "dimensions": true,
+      "footprints": true,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": true,
-      "otherItems": false,
-      "pads": false,
-      "text": false,
+      "otherItems": true,
+      "pads": true,
+      "text": true,
       "tracks": true,
-      "vias": false,
-      "zones": false
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       0,
@@ -129,11 +90,10 @@
       34,
       35,
       36,
-      39,
       40
     ],
-    "visible_layers": "004c000_00000044",
-    "zone_display_mode": 0
+    "visible_layers": "0043080_80000015",
+    "zone_display_mode": 1
   },
   "git": {
     "repo_password": "",
@@ -147,6 +107,18 @@
   },
   "project": {
     "files": [
+      {
+        "name": "SBC.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 1,
+          "maximized": false,
+          "pos_x": -2217,
+          "pos_y": 231,
+          "size_x": 1936,
+          "size_y": 1186
+        }
+      },
       {
         "name": "SBC.kicad_pcb",
         "open": false,
