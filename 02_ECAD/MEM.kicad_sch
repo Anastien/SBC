@@ -5,7 +5,7 @@
 	(uuid "0c33433a-6a97-47b9-993a-ccfad1e20bba")
 	(paper "A3")
 	(title_block
-		(date "2023-05-13")
+		(date "2023-12-28")
 		(rev "1.00")
 	)
 	(lib_symbols
@@ -14975,7 +14975,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -14997,7 +14996,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15019,7 +15017,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15041,7 +15038,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15063,7 +15059,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15085,7 +15080,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15107,7 +15101,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15129,7 +15122,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15151,7 +15143,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15173,7 +15164,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15195,7 +15185,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15217,7 +15206,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15239,7 +15227,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15261,7 +15248,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15283,7 +15269,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15305,7 +15290,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15327,7 +15311,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15349,7 +15332,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15371,7 +15353,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15393,7 +15374,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15415,7 +15395,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15437,7 +15416,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15459,7 +15437,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15481,7 +15458,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15503,7 +15479,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15525,7 +15500,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15547,7 +15521,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15569,7 +15542,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15591,7 +15563,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15613,7 +15584,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15635,7 +15605,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15657,7 +15626,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15679,7 +15647,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15701,7 +15668,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15723,7 +15689,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15745,7 +15710,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15767,7 +15731,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15789,7 +15752,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15811,7 +15773,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15833,7 +15794,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15855,7 +15815,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15877,7 +15836,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15899,7 +15857,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15921,7 +15878,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15943,7 +15899,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -15965,7 +15920,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -15987,7 +15941,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16009,7 +15962,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16031,7 +15983,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16053,7 +16004,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16075,7 +16025,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16097,7 +16046,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16119,7 +16067,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16141,7 +16088,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16163,7 +16109,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16185,7 +16130,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16207,7 +16151,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16229,7 +16172,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16251,7 +16193,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16273,7 +16214,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16295,7 +16235,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16317,7 +16256,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16339,7 +16277,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16361,7 +16298,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16383,7 +16319,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16405,7 +16340,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16427,7 +16361,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16449,7 +16382,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16471,7 +16403,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16493,7 +16424,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16515,7 +16445,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16537,7 +16466,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16559,7 +16487,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16581,7 +16508,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16603,7 +16529,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16625,7 +16550,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16647,7 +16571,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16669,7 +16592,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16691,7 +16613,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16713,7 +16634,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16735,7 +16655,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16757,7 +16676,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16779,7 +16697,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16801,7 +16718,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16823,7 +16739,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16845,7 +16760,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16867,7 +16781,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16889,7 +16802,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16911,7 +16823,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16933,7 +16844,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -16955,7 +16865,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -16977,7 +16886,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -18463,7 +18371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 182.88 241.3 0)
 			(effects
 				(font
@@ -18481,7 +18389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 184.785 243.205 0)
 			(effects
 				(font
@@ -18500,7 +18408,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 182.88 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 182.88 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 182.88 241.3 0)
 			(effects
 				(font
@@ -18562,7 +18488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 350.52 213.36 0)
 			(effects
 				(font
@@ -18580,7 +18506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 352.425 215.265 0)
 			(effects
 				(font
@@ -18599,7 +18525,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 350.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 350.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 350.52 213.36 0)
 			(effects
 				(font
@@ -18657,7 +18601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 270.51 187.96 0)
 			(effects
 				(font
@@ -18684,7 +18628,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 270.51 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 270.51 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RN73R1ETTP4701F50"
 			(at 270.51 187.96 0)
 			(effects
 				(font
@@ -18830,7 +18792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 327.66 213.36 0)
 			(effects
 				(font
@@ -18848,7 +18810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 329.565 215.265 0)
 			(effects
 				(font
@@ -18867,7 +18829,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 327.66 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 327.66 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 327.66 213.36 0)
 			(effects
 				(font
@@ -18925,7 +18905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 270.51 215.9 0)
 			(effects
 				(font
@@ -18952,7 +18932,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 270.51 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 270.51 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RN73R1ETTP4701F50"
 			(at 270.51 215.9 0)
 			(effects
 				(font
@@ -19120,7 +19118,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 281.94 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 281.94 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SDINBDG4-16G-I2"
 			(at 281.94 190.5 0)
 			(effects
 				(font
@@ -19358,7 +19374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 213.36 0)
 			(effects
 				(font
@@ -19376,7 +19392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 344.805 215.265 0)
 			(effects
 				(font
@@ -19395,7 +19411,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 342.9 213.36 0)
 			(effects
 				(font
@@ -19456,7 +19490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 295.402 56.134 0)
 			(effects
 				(font
@@ -19492,7 +19526,34 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 294.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 294.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033R61C224KE14D"
+			(at 294.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "16V"
 			(at 294.64 57.15 0)
 			(effects
 				(font
@@ -19554,7 +19615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 86.36 254 0)
 			(effects
 				(font
@@ -19572,7 +19633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 88.265 255.905 0)
 			(effects
 				(font
@@ -19591,7 +19652,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 86.36 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 86.36 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14D"
 			(at 86.36 254 0)
 			(effects
 				(font
@@ -19842,7 +19921,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MT53E1G32D2FW-046_WT:A"
 			(at 53.34 45.72 0)
 			(effects
 				(font
@@ -20402,7 +20499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 114.3 241.3 0)
 			(effects
 				(font
@@ -20420,7 +20517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 116.205 243.205 0)
 			(effects
 				(font
@@ -20439,7 +20536,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 114.3 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 114.3 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 114.3 241.3 0)
 			(effects
 				(font
@@ -20501,7 +20616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 358.14 213.36 0)
 			(effects
 				(font
@@ -20519,7 +20634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 360.045 215.265 0)
 			(effects
 				(font
@@ -20538,7 +20653,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 358.14 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 358.14 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 358.14 213.36 0)
 			(effects
 				(font
@@ -20600,7 +20733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 160.02 241.3 0)
 			(effects
 				(font
@@ -20618,7 +20751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 161.925 243.205 0)
 			(effects
 				(font
@@ -20637,7 +20770,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 160.02 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 160.02 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 160.02 241.3 0)
 			(effects
 				(font
@@ -20867,7 +21018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 347.98 195.58 0)
 			(effects
 				(font
@@ -20885,7 +21036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 349.885 197.485 0)
 			(effects
 				(font
@@ -20904,7 +21055,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 347.98 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 347.98 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 347.98 195.58 0)
 			(effects
 				(font
@@ -20966,7 +21135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 167.64 251.46 0)
 			(effects
 				(font
@@ -20984,7 +21153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 169.545 253.365 0)
 			(effects
 				(font
@@ -21003,7 +21172,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 167.64 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 167.64 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 167.64 251.46 0)
 			(effects
 				(font
@@ -21065,7 +21252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 129.54 251.46 0)
 			(effects
 				(font
@@ -21083,7 +21270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 131.445 253.365 0)
 			(effects
 				(font
@@ -21102,7 +21289,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 129.54 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 129.54 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 129.54 251.46 0)
 			(effects
 				(font
@@ -21244,7 +21449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 39.37 251.46 0)
 			(effects
 				(font
@@ -21271,7 +21476,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 39.37 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 39.37 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC1005F151CS"
 			(at 39.37 251.46 0)
 			(effects
 				(font
@@ -21333,7 +21556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 129.54 241.3 0)
 			(effects
 				(font
@@ -21351,7 +21574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 131.445 243.205 0)
 			(effects
 				(font
@@ -21370,7 +21593,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 129.54 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 129.54 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 129.54 241.3 0)
 			(effects
 				(font
@@ -21538,7 +21779,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 299.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 299.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "IS25LP256D-JLLE"
 			(at 299.72 76.2 0)
 			(effects
 				(font
@@ -21617,7 +21876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 270.51 231.14 0)
 			(effects
 				(font
@@ -21644,7 +21903,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 270.51 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 270.51 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RN73R1ETTP4701F50"
 			(at 270.51 231.14 0)
 			(effects
 				(font
@@ -21706,7 +21983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 363.22 195.58 0)
 			(effects
 				(font
@@ -21724,7 +22001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 365.125 197.485 0)
 			(effects
 				(font
@@ -21743,7 +22020,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 363.22 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 363.22 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 363.22 195.58 0)
 			(effects
 				(font
@@ -21867,7 +22162,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 48.514 93.218 90)
 			(effects
 				(font
@@ -21884,7 +22179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 44.45 93.98 0)
 			(effects
 				(font
@@ -21911,7 +22206,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 44.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 44.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 44.45 93.98 0)
 			(effects
 				(font
@@ -21973,7 +22286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 152.4 241.3 0)
 			(effects
 				(font
@@ -21991,7 +22304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 154.305 243.205 0)
 			(effects
 				(font
@@ -22010,7 +22323,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 152.4 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 152.4 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 152.4 241.3 0)
 			(effects
 				(font
@@ -22068,7 +22399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 39.37 248.92 0)
 			(effects
 				(font
@@ -22095,7 +22426,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 39.37 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 39.37 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC1005F151CS"
 			(at 39.37 248.92 0)
 			(effects
 				(font
@@ -22157,7 +22506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 86.36 241.3 0)
 			(effects
 				(font
@@ -22175,7 +22524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 88.265 243.205 0)
 			(effects
 				(font
@@ -22194,7 +22543,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 86.36 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 86.36 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14D"
 			(at 86.36 241.3 0)
 			(effects
 				(font
@@ -22339,7 +22706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 167.64 241.3 0)
 			(effects
 				(font
@@ -22357,7 +22724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 169.545 243.205 0)
 			(effects
 				(font
@@ -22376,7 +22743,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 167.64 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 167.64 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 167.64 241.3 0)
 			(effects
 				(font
@@ -22438,7 +22823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 121.92 251.46 0)
 			(effects
 				(font
@@ -22456,7 +22841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 123.825 253.365 0)
 			(effects
 				(font
@@ -22475,7 +22860,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 121.92 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 121.92 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 121.92 251.46 0)
 			(effects
 				(font
@@ -22537,7 +22940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 355.6 195.58 0)
 			(effects
 				(font
@@ -22555,7 +22958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 357.505 197.485 0)
 			(effects
 				(font
@@ -22574,7 +22977,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 355.6 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 355.6 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 355.6 195.58 0)
 			(effects
 				(font
@@ -22636,7 +23057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 144.78 251.46 0)
 			(effects
 				(font
@@ -22654,7 +23075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 146.685 253.365 0)
 			(effects
 				(font
@@ -22673,7 +23094,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 144.78 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 144.78 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 144.78 251.46 0)
 			(effects
 				(font
@@ -22815,7 +23254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 44.45 157.48 0)
 			(effects
 				(font
@@ -22842,7 +23281,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 44.45 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 44.45 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402FC240RS1"
 			(at 44.45 157.48 0)
 			(effects
 				(font
@@ -22904,7 +23361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 335.28 213.36 0)
 			(effects
 				(font
@@ -22922,7 +23379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 337.185 215.265 0)
 			(effects
 				(font
@@ -22941,7 +23398,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 335.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 335.28 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 335.28 213.36 0)
 			(effects
 				(font
@@ -22999,7 +23474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 81.28 255.27 0)
 			(effects
 				(font
@@ -23026,7 +23501,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 81.28 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 81.28 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WR04X1501FTL"
 			(at 81.28 255.27 0)
 			(effects
 				(font
@@ -23171,7 +23664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 137.16 251.46 0)
 			(effects
 				(font
@@ -23189,7 +23682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 139.065 253.365 0)
 			(effects
 				(font
@@ -23208,7 +23701,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 137.16 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 137.16 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 137.16 251.46 0)
 			(effects
 				(font
@@ -23519,7 +24030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 152.4 251.46 0)
 			(effects
 				(font
@@ -23537,7 +24048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 154.305 253.365 0)
 			(effects
 				(font
@@ -23556,7 +24067,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 152.4 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 152.4 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 152.4 251.46 0)
 			(effects
 				(font
@@ -23618,7 +24147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 175.26 251.46 0)
 			(effects
 				(font
@@ -23636,7 +24165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 177.165 253.365 0)
 			(effects
 				(font
@@ -23655,7 +24184,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 175.26 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 175.26 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 175.26 251.46 0)
 			(effects
 				(font
@@ -23717,7 +24264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 365.76 213.36 0)
 			(effects
 				(font
@@ -23735,7 +24282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 367.665 215.265 0)
 			(effects
 				(font
@@ -23754,7 +24301,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 365.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 365.76 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 365.76 213.36 0)
 			(effects
 				(font
@@ -23899,7 +24464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 182.88 251.46 0)
 			(effects
 				(font
@@ -23917,7 +24482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 184.785 253.365 0)
 			(effects
 				(font
@@ -23936,7 +24501,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 182.88 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 182.88 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 182.88 251.46 0)
 			(effects
 				(font
@@ -24248,7 +24831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 114.3 251.46 0)
 			(effects
 				(font
@@ -24266,7 +24849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 116.205 253.365 0)
 			(effects
 				(font
@@ -24285,7 +24868,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 114.3 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 114.3 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MO7JZNC"
 			(at 114.3 251.46 0)
 			(effects
 				(font
@@ -24344,7 +24945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 99.06 242.57 0)
 			(effects
 				(font
@@ -24371,7 +24972,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 99.06 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 99.06 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 99.06 242.57 0)
 			(effects
 				(font
@@ -24412,7 +25031,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 48.514 146.558 90)
 			(effects
 				(font
@@ -24429,7 +25048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 44.45 147.32 0)
 			(effects
 				(font
@@ -24456,7 +25075,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 44.45 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 44.45 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 44.45 147.32 0)
 			(effects
 				(font
@@ -24518,7 +25155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 340.36 195.58 0)
 			(effects
 				(font
@@ -24536,7 +25173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 342.265 197.485 0)
 			(effects
 				(font
@@ -24555,7 +25192,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 340.36 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 340.36 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 340.36 195.58 0)
 			(effects
 				(font
@@ -24617,7 +25272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -24635,7 +25290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 123.825 243.205 0)
 			(effects
 				(font
@@ -24654,7 +25309,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 121.92 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 121.92 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 121.92 241.3 0)
 			(effects
 				(font
@@ -24716,7 +25389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 73.66 248.92 0)
 			(effects
 				(font
@@ -24734,7 +25407,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 75.565 250.825 0)
 			(effects
 				(font
@@ -24753,7 +25426,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 73.66 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 73.66 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 73.66 248.92 0)
 			(effects
 				(font
@@ -24839,7 +25530,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 139.7 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MT53E1G32D2FW-046_WT:A"
 			(at 139.7 58.42 0)
 			(effects
 				(font
@@ -25465,7 +26174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 144.78 241.3 0)
 			(effects
 				(font
@@ -25483,7 +26192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 146.685 243.205 0)
 			(effects
 				(font
@@ -25502,7 +26211,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 144.78 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 144.78 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 144.78 241.3 0)
 			(effects
 				(font
@@ -25643,7 +26370,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 81.28 242.57 0)
 			(effects
 				(font
@@ -25670,7 +26397,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 81.28 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 81.28 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WR04X1501FTL"
 			(at 81.28 242.57 0)
 			(effects
 				(font
@@ -25899,7 +26644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 332.74 195.58 0)
 			(effects
 				(font
@@ -25917,7 +26662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 334.645 197.485 0)
 			(effects
 				(font
@@ -25936,7 +26681,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 332.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 332.74 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 332.74 195.58 0)
 			(effects
 				(font
@@ -25994,7 +26757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 44.45 162.56 0)
 			(effects
 				(font
@@ -26021,7 +26784,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 44.45 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402FC240RS1"
 			(at 44.45 162.56 0)
 			(effects
 				(font
@@ -26240,7 +27021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 285.4452 60.96 0)
 			(effects
 				(font
@@ -26249,7 +27030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 285.242 56.134 0)
 			(effects
 				(font
@@ -26285,7 +27066,34 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM158R61A226ME15D"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "10V"
 			(at 284.48 57.15 0)
 			(effects
 				(font
@@ -26347,7 +27155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 175.26 241.3 0)
 			(effects
 				(font
@@ -26365,7 +27173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 177.165 243.205 0)
 			(effects
 				(font
@@ -26384,7 +27192,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 175.26 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 175.26 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 175.26 241.3 0)
 			(effects
 				(font
@@ -26529,7 +27355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 137.16 241.3 0)
 			(effects
 				(font
@@ -26547,7 +27373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 139.065 243.205 0)
 			(effects
 				(font
@@ -26566,7 +27392,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 137.16 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 137.16 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CM05X5R475M16AH"
 			(at 137.16 241.3 0)
 			(effects
 				(font

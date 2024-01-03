@@ -5,7 +5,7 @@
 	(uuid "0c33433a-6a97-47b9-993a-ccfad1e20bba")
 	(paper "A3")
 	(title_block
-		(date "2023-05-13")
+		(date "2023-12-28")
 		(rev "1.00")
 	)
 	(lib_symbols
@@ -11560,7 +11560,7 @@
 		(uuid "14a39569-5e7d-405f-9465-96665c3421ac")
 	)
 	(junction
-		(at 327.66 76.2)
+		(at 327.66 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "154dfd30-58df-4e78-9818-cd53d8f9fd88")
@@ -11602,7 +11602,7 @@
 		(uuid "1934eec5-1f3a-45ad-881f-0b7d6a2431ef")
 	)
 	(junction
-		(at 320.04 76.2)
+		(at 320.04 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a83ab83-8675-447d-ba8e-9ce5e10a11da")
@@ -12100,7 +12100,7 @@
 		(uuid "90e850a8-749c-4e4d-af5f-4855ca43acc2")
 	)
 	(junction
-		(at 320.04 86.36)
+		(at 320.04 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "91333c1e-83e6-433e-b004-d8442d62f2b8")
@@ -12256,7 +12256,7 @@
 		(uuid "aa92bfb4-3a54-4f3f-83a5-c7182bcf2513")
 	)
 	(junction
-		(at 325.12 27.94)
+		(at 323.85 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aad63d35-b420-498f-be7b-31288a0f68a5")
@@ -12382,7 +12382,7 @@
 		(uuid "ce294adf-6c05-4cf5-82cf-0d2e5f2fc1d7")
 	)
 	(junction
-		(at 312.42 86.36)
+		(at 312.42 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce51b953-7f3c-4a83-8798-125a6ec1f996")
@@ -12496,7 +12496,7 @@
 		(uuid "e91be860-c387-4b45-ab01-322ad6e79b85")
 	)
 	(junction
-		(at 327.66 86.36)
+		(at 327.66 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec090d29-751f-4793-9345-314500cf1af0")
@@ -12562,7 +12562,7 @@
 		(uuid "f6a70f12-592e-47e2-9dfc-bb933ef14a61")
 	)
 	(junction
-		(at 316.23 101.6)
+		(at 323.85 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f888faf1-9bc9-4e29-b19b-6e170d66cb36")
@@ -12795,7 +12795,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 83.82) (xy 335.28 86.36)
+			(xy 335.28 76.2) (xy 335.28 78.74)
 		)
 		(stroke
 			(width 0)
@@ -13377,7 +13377,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 76.2) (xy 327.66 78.74)
+			(xy 327.66 68.58) (xy 327.66 71.12)
 		)
 		(stroke
 			(width 0)
@@ -13467,7 +13467,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 109.22) (xy 323.85 111.76)
+			(xy 316.23 101.6) (xy 313.69 101.6)
 		)
 		(stroke
 			(width 0)
@@ -13487,7 +13487,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 48.26) (xy 345.44 48.26)
+			(xy 336.55 43.18) (xy 344.17 43.18)
 		)
 		(stroke
 			(width 0)
@@ -13817,7 +13817,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 76.2) (xy 335.28 76.2)
+			(xy 327.66 68.58) (xy 335.28 68.58)
 		)
 		(stroke
 			(width 0)
@@ -14077,7 +14077,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 86.36) (xy 312.42 88.9)
+			(xy 312.42 78.74) (xy 312.42 81.28)
 		)
 		(stroke
 			(width 0)
@@ -14157,7 +14157,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 109.22) (xy 316.23 111.76)
+			(xy 316.23 93.98) (xy 313.69 93.98)
 		)
 		(stroke
 			(width 0)
@@ -14257,7 +14257,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 55.88) (xy 325.12 58.42)
+			(xy 323.85 50.8) (xy 323.85 53.34)
 		)
 		(stroke
 			(width 0)
@@ -14317,7 +14317,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 83.82) (xy 320.04 86.36)
+			(xy 320.04 76.2) (xy 320.04 78.74)
 		)
 		(stroke
 			(width 0)
@@ -14327,7 +14327,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 86.36) (xy 320.04 86.36)
+			(xy 327.66 78.74) (xy 320.04 78.74)
 		)
 		(stroke
 			(width 0)
@@ -14657,7 +14657,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 76.2) (xy 312.42 78.74)
+			(xy 312.42 68.58) (xy 312.42 71.12)
 		)
 		(stroke
 			(width 0)
@@ -14779,7 +14779,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 36.83) (xy 312.42 39.37)
+			(xy 311.15 31.75) (xy 311.15 34.29)
 		)
 		(stroke
 			(width 0)
@@ -14869,7 +14869,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 66.04) (xy 330.2 66.04)
+			(xy 339.09 59.69) (xy 335.28 59.69)
 		)
 		(stroke
 			(width 0)
@@ -15029,7 +15029,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 27.94) (xy 325.12 27.94)
+			(xy 311.15 22.86) (xy 323.85 22.86)
 		)
 		(stroke
 			(width 0)
@@ -15079,7 +15079,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 101.6) (xy 327.66 101.6)
+			(xy 323.85 101.6) (xy 323.85 105.41)
 		)
 		(stroke
 			(width 0)
@@ -15229,7 +15229,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 35.56) (xy 345.44 35.56)
+			(xy 336.55 30.48) (xy 344.17 30.48)
 		)
 		(stroke
 			(width 0)
@@ -15326,6 +15326,16 @@
 			(type default)
 		)
 		(uuid "4f9a71d6-484a-4186-b368-1850615f2db2")
+	)
+	(wire
+		(pts
+			(xy 353.06 73.66) (xy 345.44 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc30bfc-0498-4220-99f3-27fdd69a1ff9")
 	)
 	(wire
 		(pts
@@ -15530,7 +15540,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 78.74) (xy 335.28 76.2)
+			(xy 335.28 71.12) (xy 335.28 68.58)
 		)
 		(stroke
 			(width 0)
@@ -16078,6 +16088,16 @@
 		)
 		(uuid "6971bc1d-f75e-4b23-8d65-a3ac1e22896a")
 	)
+	(wire
+		(pts
+			(xy 393.7 58.42) (xy 401.32 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a443c7-74dc-4aec-bae6-9996018d54d1")
+	)
 	(polyline
 		(pts
 			(xy 408.0256 119.38) (xy 279.4 119.38)
@@ -16311,7 +16331,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 25.4) (xy 325.12 27.94)
+			(xy 323.85 20.32) (xy 323.85 22.86)
 		)
 		(stroke
 			(width 0)
@@ -16361,7 +16381,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 76.2) (xy 327.66 76.2)
+			(xy 320.04 68.58) (xy 327.66 68.58)
 		)
 		(stroke
 			(width 0)
@@ -16631,7 +16651,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 83.82) (xy 312.42 86.36)
+			(xy 312.42 76.2) (xy 312.42 78.74)
 		)
 		(stroke
 			(width 0)
@@ -17222,7 +17242,7 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 106.68) (xy 332.74 111.76)
+			(xy 318.77 110.49) (xy 313.69 110.49)
 		)
 		(stroke
 			(width 0)
@@ -17309,6 +17329,16 @@
 			(type default)
 		)
 		(uuid "93c06539-6464-4bfe-a4ac-d57972e39f65")
+	)
+	(wire
+		(pts
+			(xy 345.44 81.28) (xy 353.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94550298-0dc6-4025-89a5-38137b0ee196")
 	)
 	(wire
 		(pts
@@ -17399,16 +17429,6 @@
 			(type default)
 		)
 		(uuid "964c39e7-78ed-4d90-ad77-c1836307f7ab")
-	)
-	(wire
-		(pts
-			(xy 353.06 71.12) (xy 345.44 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96ab9b6d-3cfe-49ec-859e-45fd336e6ab0")
 	)
 	(wire
 		(pts
@@ -17572,7 +17592,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 40.64) (xy 345.44 40.64)
+			(xy 336.55 35.56) (xy 344.17 35.56)
 		)
 		(stroke
 			(width 0)
@@ -17599,16 +17619,6 @@
 			(type default)
 		)
 		(uuid "9c4396f9-5394-482a-b7dd-5126ac82de3c")
-	)
-	(wire
-		(pts
-			(xy 345.44 81.28) (xy 353.06 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d06d723-e96f-4b87-9603-981b7945a79f")
 	)
 	(wire
 		(pts
@@ -17713,7 +17723,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 38.1) (xy 345.44 38.1)
+			(xy 336.55 33.02) (xy 344.17 33.02)
 		)
 		(stroke
 			(width 0)
@@ -17954,7 +17964,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 68.58) (xy 334.01 68.58)
+			(xy 335.28 62.23) (xy 339.09 62.23)
 		)
 		(stroke
 			(width 0)
@@ -18225,7 +18235,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 66.04) (xy 320.04 66.04)
+			(xy 327.66 59.69) (xy 325.12 59.69)
 		)
 		(stroke
 			(width 0)
@@ -18252,16 +18262,6 @@
 			(type default)
 		)
 		(uuid "b50156c3-0c5e-4ac4-95cd-4641596acfe0")
-	)
-	(wire
-		(pts
-			(xy 345.44 78.74) (xy 353.06 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5a6f4ef-d63d-4906-9f8f-58653797af82")
 	)
 	(wire
 		(pts
@@ -18625,7 +18625,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 78.74) (xy 320.04 76.2)
+			(xy 320.04 71.12) (xy 320.04 68.58)
 		)
 		(stroke
 			(width 0)
@@ -18665,7 +18665,7 @@
 	)
 	(wire
 		(pts
-			(xy 322.58 68.58) (xy 320.04 68.58)
+			(xy 327.66 62.23) (xy 325.12 62.23)
 		)
 		(stroke
 			(width 0)
@@ -18845,6 +18845,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 76.2) (xy 345.44 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c56ac8ca-bc9b-4192-8575-53b4e6651ee7")
+	)
+	(wire
+		(pts
 			(xy 186.69 127) (xy 195.58 127)
 		)
 		(stroke
@@ -18996,16 +19006,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 76.2) (xy 353.06 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8ec6b77-d0a6-4206-b2f4-95ff75e465ed")
-	)
-	(wire
-		(pts
 			(xy 372.11 204.47) (xy 374.65 204.47)
 		)
 		(stroke
@@ -19026,6 +19026,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 78.74) (xy 345.44 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c967e78b-d3e2-48b6-9dac-619895088af2")
+	)
+	(wire
+		(pts
 			(xy 170.18 147.32) (xy 172.72 147.32)
 		)
 		(stroke
@@ -19043,6 +19053,16 @@
 			(type default)
 		)
 		(uuid "c9c7bf1d-2e65-4a4a-9c04-94153932cc34")
+	)
+	(wire
+		(pts
+			(xy 353.06 83.82) (xy 345.44 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9cb6bb1-c394-4849-be32-23ac845edc4f")
 	)
 	(wire
 		(pts
@@ -19177,7 +19197,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 101.6) (xy 316.23 101.6)
+			(xy 323.85 87.63) (xy 323.85 93.98)
 		)
 		(stroke
 			(width 0)
@@ -19214,16 +19234,6 @@
 			(type default)
 		)
 		(uuid "d0b2c8d3-bb55-4a99-9d8e-fc00cb590a24")
-	)
-	(wire
-		(pts
-			(xy 353.06 83.82) (xy 345.44 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0c8a798-50fd-417d-9127-63b4ba816e4a")
 	)
 	(wire
 		(pts
@@ -19377,7 +19387,7 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 101.6) (xy 316.23 104.14)
+			(xy 323.85 93.98) (xy 321.31 93.98)
 		)
 		(stroke
 			(width 0)
@@ -19697,7 +19707,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 43.18) (xy 345.44 43.18)
+			(xy 336.55 38.1) (xy 344.17 38.1)
 		)
 		(stroke
 			(width 0)
@@ -19768,7 +19778,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 27.94) (xy 325.12 30.48)
+			(xy 323.85 22.86) (xy 323.85 25.4)
 		)
 		(stroke
 			(width 0)
@@ -19848,7 +19858,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 31.75) (xy 312.42 27.94)
+			(xy 311.15 26.67) (xy 311.15 22.86)
 		)
 		(stroke
 			(width 0)
@@ -19908,7 +19918,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 76.2) (xy 312.42 76.2)
+			(xy 320.04 68.58) (xy 312.42 68.58)
 		)
 		(stroke
 			(width 0)
@@ -19988,7 +19998,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 45.72) (xy 345.44 45.72)
+			(xy 336.55 40.64) (xy 344.17 40.64)
 		)
 		(stroke
 			(width 0)
@@ -20098,7 +20108,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 101.6) (xy 323.85 104.14)
+			(xy 323.85 101.6) (xy 321.31 101.6)
 		)
 		(stroke
 			(width 0)
@@ -20169,7 +20179,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 86.36) (xy 327.66 86.36)
+			(xy 335.28 78.74) (xy 327.66 78.74)
 		)
 		(stroke
 			(width 0)
@@ -20299,16 +20309,6 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 73.66) (xy 353.06 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5ed3313-bf5f-4458-bc75-5330ef3d565a")
-	)
-	(wire
-		(pts
 			(xy 43.18 93.98) (xy 43.18 99.06)
 		)
 		(stroke
@@ -20350,7 +20350,7 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 83.82) (xy 327.66 86.36)
+			(xy 327.66 76.2) (xy 327.66 78.74)
 		)
 		(stroke
 			(width 0)
@@ -20560,7 +20560,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 86.36) (xy 320.04 86.36)
+			(xy 312.42 78.74) (xy 320.04 78.74)
 		)
 		(stroke
 			(width 0)
@@ -20628,7 +20628,7 @@
 	)
 	(rectangle
 		(start 12.065 119.38)
-		(end 27.178 121.92)
+		(end 27.94 121.92)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -20676,8 +20676,8 @@
 		(uuid 85f762bc-4a09-48fb-84e0-3ae6a813c3f2)
 	)
 	(rectangle
-		(start 265.5062 119.38)
-		(end 279.781 121.92)
+		(start 264.16 119.38)
+		(end 279.4 121.92)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -20716,7 +20716,7 @@
 	)
 	(rectangle
 		(start 12.065 12.065)
-		(end 28.575 14.605)
+		(end 30.48 15.24)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -21234,7 +21234,7 @@
 	)
 	(text "B2B CONNECTOR"
 		(exclude_from_sim no)
-		(at 28.194 14.224 0)
+		(at 30.48 15.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21245,16 +21245,6 @@
 			(justify right bottom)
 		)
 		(uuid "972cdb62-40af-4d3c-9f57-a93a3e5ce8bf")
-	)
-	(text "needs reveiw"
-		(exclude_from_sim no)
-		(at 347.98 41.91 90)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-		)
-		(uuid "9b10e27f-e44a-4b6c-8b01-9c841f44f48e")
 	)
 	(text "WIFI+BLUETOOTH ( OPTIONAL )"
 		(exclude_from_sim no)
@@ -21286,7 +21276,7 @@
 	)
 	(text "USER BUTTONS"
 		(exclude_from_sim no)
-		(at 26.924 121.666 0)
+		(at 27.94 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21346,7 +21336,7 @@
 	)
 	(text "ETHERNET PHY"
 		(exclude_from_sim no)
-		(at 279.527 121.539 0)
+		(at 279.4 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21392,7 +21382,7 @@
 		(uuid "02c53c15-e7ce-4652-87cd-7384af6e927e")
 	)
 	(label "SIO1"
-		(at 345.44 48.26 180)
+		(at 344.17 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21457,8 +21447,19 @@
 		)
 		(uuid "3253e7e8-3f01-4774-a1c2-01ecd4243d1c")
 	)
+	(label "SIO0"
+		(at 345.44 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "360bf111-a1c6-4e9d-8049-c120efa18cf0")
+	)
 	(label "RAM_CS"
-		(at 345.44 35.56 180)
+		(at 344.17 30.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21467,17 +21468,6 @@
 			(justify right bottom)
 		)
 		(uuid "36fe682f-551d-40e6-b37f-26f47a3ce474")
-	)
-	(label "SIO1"
-		(at 345.44 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "40f1d121-5678-40f1-beda-90c528cf2b44")
 	)
 	(label "25MHZ_P2I"
 		(at 173.99 134.62 0)
@@ -21490,19 +21480,8 @@
 		)
 		(uuid "49446896-8e66-4d10-9b95-9b3ca608563d")
 	)
-	(label "RAM_CS"
-		(at 345.44 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c14fa11-7a3f-4e77-8154-43ff9ba3c8e1")
-	)
 	(label "SIO2"
-		(at 345.44 43.18 180)
+		(at 344.17 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21546,7 +21525,7 @@
 		(uuid "5c887cd0-fa47-4ca9-a5cb-046f84edfeb0")
 	)
 	(label "SIO0"
-		(at 345.44 45.72 180)
+		(at 344.17 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21557,7 +21536,7 @@
 		(uuid "5cab548c-42f0-4196-bfa7-01d4eb17aef2")
 	)
 	(label "SCLK"
-		(at 345.44 38.1 180)
+		(at 344.17 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21566,17 +21545,6 @@
 			(justify right bottom)
 		)
 		(uuid "6fe78c1d-9767-43cb-b5e9-23d9ce7d63a9")
-	)
-	(label "SIO0"
-		(at 345.44 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "7351c4a1-3bac-4ce9-8270-1f0dd83fb91f")
 	)
 	(label "25MHZ_P2I"
 		(at 194.31 177.8 180)
@@ -21600,17 +21568,6 @@
 		)
 		(uuid "8326a3eb-c143-4416-87fe-e5c55d75a712")
 	)
-	(label "SIO3"
-		(at 345.44 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "899da636-e99c-427c-9351-48a31ecf934b")
-	)
 	(label "ENET_2.5V_A"
 		(at 294.64 129.54 0)
 		(fields_autoplaced yes)
@@ -21632,6 +21589,17 @@
 			(justify right bottom)
 		)
 		(uuid "97294e2f-aaf1-48d3-aa27-9a3953de30af")
+	)
+	(label "RAM_CS"
+		(at 401.32 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify right bottom)
+		)
+		(uuid "a90daa02-0c98-408c-9e4e-22509271fc52")
 	)
 	(label "LED0"
 		(at 287.02 208.28 0)
@@ -21666,17 +21634,6 @@
 		)
 		(uuid "b4e7fe16-d2cb-4b16-a99f-b953b2883bcb")
 	)
-	(label "SIO2"
-		(at 345.44 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9090df6-d433-43d9-ab98-5c9332659272")
-	)
 	(label "XTAL1"
 		(at 287.02 152.4 0)
 		(fields_autoplaced yes)
@@ -21698,6 +21655,17 @@
 			(justify left bottom)
 		)
 		(uuid "c2beedfd-8520-4c7d-b9b6-0d4516e3613a")
+	)
+	(label "SIO3"
+		(at 345.44 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "c582f26f-2dd5-43e8-a85e-0b33210a29e2")
 	)
 	(label "25MHZ_P2O"
 		(at 194.31 190.5 180)
@@ -21732,6 +21700,17 @@
 		)
 		(uuid "d54bfeb2-bae9-4c4f-abaa-059c9ed0c4de")
 	)
+	(label "SCLK"
+		(at 345.44 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "dcc2f867-7c76-4cfb-8ec8-2c62eae040fd")
+	)
 	(label "LED0"
 		(at 55.88 104.14 90)
 		(fields_autoplaced yes)
@@ -21743,19 +21722,8 @@
 		)
 		(uuid "de649eb0-62ff-4019-b0b0-1b6d793eae0a")
 	)
-	(label "SCLK"
-		(at 345.44 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "e00a2073-25bf-4369-971b-9d054657d479")
-	)
 	(label "SIO3"
-		(at 345.44 40.64 180)
+		(at 344.17 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21764,6 +21732,28 @@
 			(justify right bottom)
 		)
 		(uuid "e090dbe8-a649-4413-8b23-ef8908f75076")
+	)
+	(label "SIO1"
+		(at 345.44 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "e262fab8-de18-4283-99c7-1667bc8ba1d7")
+	)
+	(label "SIO2"
+		(at 345.44 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "e46c6544-8876-4452-87da-85c2c129be3d")
 	)
 	(label "LNA_IN"
 		(at 401.32 35.56 180)
@@ -21777,13 +21767,13 @@
 		(uuid "e77e4947-8390-42c3-98ae-5aadccab9aa4")
 	)
 	(label "LNA_IN"
-		(at 309.88 101.6 0)
+		(at 323.85 87.63 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.016 1.016)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "e7d9346d-3dab-4a18-8287-964a718744c8")
 	)
@@ -21838,7 +21828,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -21860,7 +21849,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -21882,7 +21870,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -21904,7 +21891,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -21926,7 +21912,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -21948,7 +21933,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -21970,7 +21954,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -21992,7 +21975,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22014,7 +21996,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22036,7 +22017,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22058,7 +22038,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22080,7 +22059,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22102,7 +22080,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22124,7 +22101,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22146,7 +22122,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22168,7 +22143,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22190,7 +22164,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22212,7 +22185,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22234,7 +22206,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22256,7 +22227,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22278,7 +22248,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22300,13 +22269,12 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
 	(global_label "UART1_TXD"
 		(shape bidirectional)
-		(at 320.04 68.58 180)
+		(at 325.12 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22316,13 +22284,12 @@
 		)
 		(uuid "2282d9fc-429d-429b-bdea-5e9cddfb5043")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 308.7195 68.58 0)
+			(at 313.7995 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22344,7 +22311,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22366,7 +22332,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22388,7 +22353,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22410,7 +22374,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22432,7 +22395,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22454,7 +22416,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22476,7 +22437,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22498,7 +22458,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22520,7 +22479,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22542,7 +22500,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22564,7 +22521,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22586,7 +22542,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22608,7 +22563,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22630,7 +22584,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22652,7 +22605,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22674,7 +22626,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22696,7 +22647,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22718,7 +22668,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22740,7 +22689,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22762,7 +22710,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22784,7 +22731,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22806,7 +22752,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22828,7 +22773,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22850,7 +22794,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22872,7 +22815,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22894,7 +22836,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22916,7 +22857,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22938,7 +22878,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -22960,7 +22899,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -22982,7 +22920,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23004,7 +22941,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23026,7 +22962,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23048,7 +22983,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23070,7 +23004,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23092,7 +23025,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23114,7 +23046,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23136,7 +23067,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23158,7 +23088,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23180,7 +23109,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23202,7 +23130,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23224,7 +23151,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23246,7 +23172,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23268,7 +23193,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23290,7 +23214,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23312,7 +23235,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23334,7 +23256,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23356,7 +23277,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23378,7 +23298,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23400,7 +23319,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23422,7 +23340,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23444,7 +23361,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23466,7 +23382,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23488,7 +23403,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23510,7 +23424,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23532,7 +23445,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23554,7 +23466,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23576,7 +23487,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23598,7 +23508,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23620,7 +23529,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23642,7 +23550,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23664,7 +23571,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23686,7 +23592,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23708,7 +23613,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23730,7 +23634,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23752,7 +23655,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23774,7 +23676,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23796,7 +23697,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23818,7 +23718,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23840,7 +23739,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23862,7 +23760,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23884,7 +23781,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23906,7 +23802,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23928,7 +23823,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23950,7 +23844,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -23972,7 +23865,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -23994,7 +23886,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24016,7 +23907,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24038,7 +23928,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24060,7 +23949,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24082,7 +23970,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24104,13 +23991,12 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
 	(global_label "ESP32_TX"
 		(shape input)
-		(at 334.01 66.04 0)
+		(at 339.09 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -24120,13 +24006,12 @@
 		)
 		(uuid "9fd7edd8-0b59-46d0-8e54-b5cfdeac6af2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 343.7517 66.04 0)
+			(at 348.8317 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24148,7 +24033,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24170,7 +24054,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24192,7 +24075,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24214,7 +24096,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24236,7 +24117,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24258,7 +24138,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24280,7 +24159,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24302,7 +24180,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24324,7 +24201,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24346,7 +24222,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24368,7 +24243,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24390,7 +24264,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24412,7 +24285,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24434,7 +24306,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24456,7 +24327,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24478,7 +24348,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24500,7 +24369,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24522,7 +24390,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24544,7 +24411,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24566,7 +24432,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24588,7 +24453,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24610,7 +24474,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24632,7 +24495,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24654,7 +24516,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24676,7 +24537,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24698,7 +24558,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24720,7 +24579,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24742,7 +24600,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24764,7 +24621,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24786,7 +24642,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24808,7 +24663,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24830,7 +24684,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24852,7 +24705,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24874,7 +24726,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24896,7 +24747,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -24918,7 +24768,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24940,7 +24789,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24962,7 +24810,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -24984,7 +24831,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25006,7 +24852,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25028,7 +24873,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25050,7 +24894,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25072,7 +24915,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25094,7 +24936,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25116,7 +24957,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25138,7 +24978,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25160,7 +24999,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25182,7 +25020,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25204,7 +25041,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25226,7 +25062,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25248,7 +25083,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25270,7 +25104,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25292,7 +25125,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25314,13 +25146,12 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
 	(global_label "UART1_RXD"
 		(shape bidirectional)
-		(at 320.04 66.04 180)
+		(at 325.12 59.69 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25330,13 +25161,12 @@
 		)
 		(uuid "f7b885f7-ec10-47e0-8883-ff8fbc0e375e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 308.4814 66.04 0)
+			(at 313.5614 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25358,7 +25188,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25380,7 +25209,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25402,13 +25230,12 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
 	(global_label "ESP32_RX"
 		(shape input)
-		(at 334.01 68.58 0)
+		(at 339.09 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -25418,13 +25245,12 @@
 		)
 		(uuid "fc729a62-d5c3-47bb-b8c9-d463949d0a31")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 343.9936 68.58 0)
+			(at 349.0736 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25446,7 +25272,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 	)
@@ -25468,7 +25293,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25490,7 +25314,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -25512,7 +25335,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 	)
@@ -26157,11 +25979,11 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
-			(at 309.88 132.08 90)
+		(property "Value" "240 Ohms @ 100MHz"
+			(at 301.625 130.175 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.508 0.508)
 				)
 				(justify left)
 			)
@@ -26175,7 +25997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 292.1 129.54 0)
 			(effects
 				(font
@@ -26202,7 +26024,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 292.1 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 292.1 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BMC1JY0240AN"
 			(at 292.1 129.54 0)
 			(effects
 				(font
@@ -26264,7 +26104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 375.92 172.72 0)
 			(effects
 				(font
@@ -26282,7 +26122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 377.825 174.625 0)
 			(effects
 				(font
@@ -26301,7 +26141,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 375.92 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 375.92 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 375.92 172.72 0)
 			(effects
 				(font
@@ -26363,7 +26221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 203.2 248.92 0)
 			(effects
 				(font
@@ -26390,7 +26248,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 203.2 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 203.2 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 203.2 248.92 0)
 			(effects
 				(font
@@ -26667,15 +26543,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 312.42 81.28 0)
+		(at 312.42 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "09262932-bf24-424b-81f8-525e7b7fe288")
 		(property "Reference" "C311"
-			(at 314.325 79.375 0)
+			(at 314.325 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26685,7 +26561,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 314.325 81.28 0)
+			(at 314.325 73.66 0)
 			(effects
 				(font
 					(size 1 1)
@@ -26695,7 +26571,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 312.42 81.28 0)
+			(at 312.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26703,8 +26579,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 312.42 81.28 0)
+		(property "Datasheet" ""
+			(at 312.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26713,7 +26589,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.42 81.28 0)
+			(at 312.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26721,8 +26597,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 314.325 83.185 0)
+		(property "Voltage" "10V"
+			(at 314.325 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26732,7 +26608,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 312.42 81.28 0)
+			(at 312.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 312.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26741,7 +26626,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 312.42 81.28 0)
+			(at 312.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
+			(at 312.42 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26803,7 +26697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 88.9 129.54 0)
 			(effects
 				(font
@@ -26840,7 +26734,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 88.9 129.54 0)
 			(effects
 				(font
@@ -26985,7 +26897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 99.06 217.17 0)
 			(effects
 				(font
@@ -27012,7 +26924,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 99.06 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 99.06 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 99.06 217.17 0)
 			(effects
 				(font
@@ -27057,7 +26987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "27pF"
 			(at 83.82 175.895 0)
 			(effects
 				(font
@@ -27076,7 +27006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 177.8 0)
 			(effects
 				(font
@@ -27094,7 +27024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 81.915 175.895 0)
 			(effects
 				(font
@@ -27113,7 +27043,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 83.82 177.8 0)
 			(effects
 				(font
@@ -27139,7 +27087,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 325.12 58.42 0)
+		(at 323.85 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27147,7 +27095,7 @@
 		(dnp no)
 		(uuid "11562c2c-368d-482c-becd-dbc7980773e5")
 		(property "Reference" "#PWR0280"
-			(at 325.12 64.77 0)
+			(at 323.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27156,7 +27104,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 325.12 62.23 0)
+			(at 323.85 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27165,7 +27113,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 325.12 58.42 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27174,7 +27122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 58.42 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27183,7 +27131,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 325.12 58.42 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27192,7 +27140,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 325.12 58.42 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27201,7 +27149,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 325.12 58.42 0)
+			(at 323.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27259,7 +27207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 370.84 234.95 0)
 			(effects
 				(font
@@ -27277,7 +27225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 372.745 236.855 0)
 			(effects
 				(font
@@ -27296,7 +27244,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 370.84 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 370.84 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 370.84 234.95 0)
 			(effects
 				(font
@@ -27357,7 +27323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 285.75 261.62 0)
 			(effects
 				(font
@@ -27384,7 +27350,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 285.75 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 285.75 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 285.75 261.62 0)
 			(effects
 				(font
@@ -27530,7 +27514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 52.578 261.874 0)
 			(effects
 				(font
@@ -27566,7 +27550,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 53.34 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 53.34 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCJ188R72A223KA01D"
 			(at 53.34 262.89 0)
 			(effects
 				(font
@@ -27712,7 +27714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 378.46 234.95 0)
 			(effects
 				(font
@@ -27730,7 +27732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 380.365 236.855 0)
 			(effects
 				(font
@@ -27749,7 +27751,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 378.46 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 378.46 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 378.46 234.95 0)
 			(effects
 				(font
@@ -27811,7 +27831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 215.9 185.42 0)
 			(effects
 				(font
@@ -27838,7 +27858,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 215.9 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 215.9 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 215.9 185.42 0)
 			(effects
 				(font
@@ -27900,7 +27938,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 52.578 239.014 0)
 			(effects
 				(font
@@ -27936,7 +27974,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 53.34 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 53.34 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCJ188R72A223KA01D"
 			(at 53.34 240.03 0)
 			(effects
 				(font
@@ -28228,7 +28284,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "240 Ohms @ 100MHz"
 			(at 405.13 226.06 90)
 			(effects
 				(font
@@ -28246,7 +28302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 393.7 229.87 0)
 			(effects
 				(font
@@ -28273,7 +28329,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 393.7 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 393.7 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BMC1JY0240AN"
 			(at 393.7 229.87 0)
 			(effects
 				(font
@@ -28336,7 +28410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 222.25 132.08 0)
 			(effects
 				(font
@@ -28373,7 +28447,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 222.25 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 222.25 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 222.25 132.08 0)
 			(effects
 				(font
@@ -28399,15 +28491,15 @@
 	)
 	(symbol
 		(lib_id "Memory_RAM:ESP-PSRAM32")
-		(at 327.66 43.18 0)
+		(at 326.39 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "21577023-11b5-4a4b-9757-ebd5bfe0fea0")
 		(property "Reference" "U18"
-			(at 331.47 31.75 0)
+			(at 330.2 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28415,7 +28507,7 @@
 			)
 		)
 		(property "Value" "ESP-PSRAM32"
-			(at 326.39 54.61 0)
+			(at 325.12 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28424,7 +28516,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 327.66 58.42 0)
+			(at 326.39 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28432,8 +28524,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp-psram32_datasheet_en.pdf"
-			(at 317.5 30.48 0)
+		(property "Datasheet" ""
+			(at 316.23 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28442,7 +28534,34 @@
 			)
 		)
 		(property "Description" "32 Mbit serial pseudo SRAM device organized as 4Mx8 bits, 1.8 VCC, SOIC8 (SOP8)"
-			(at 327.66 43.18 0)
+			(at 326.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 326.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 326.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESP-PSRAM32"
+			(at 326.39 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28603,7 +28722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 236.22 193.04 0)
 			(effects
 				(font
@@ -28613,6 +28732,33 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 236.22 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 236.22 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 236.22 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NX3020NAKS"
 			(at 236.22 193.04 0)
 			(effects
 				(font
@@ -28677,7 +28823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 398.78 254 0)
 			(effects
 				(font
@@ -28695,7 +28841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 400.685 255.905 0)
 			(effects
 				(font
@@ -28714,7 +28860,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 398.78 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 398.78 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 398.78 254 0)
 			(effects
 				(font
@@ -28860,7 +29024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 55.88 184.15 0)
 			(effects
 				(font
@@ -28887,7 +29051,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 55.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 55.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 55.88 184.15 0)
 			(effects
 				(font
@@ -28946,7 +29128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "NANOT160AS"
+		(property "Datasheet" ""
 			(at 25.4 129.54 0)
 			(effects
 				(font
@@ -28973,7 +29155,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 25.4 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 25.4 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NANOT160AS"
 			(at 25.4 134.62 0)
 			(effects
 				(font
@@ -29083,7 +29283,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 316.23 111.76 0)
+		(at 313.69 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29091,7 +29291,7 @@
 		(dnp no)
 		(uuid "2c041d43-417d-4aba-ae91-a596e3305949")
 		(property "Reference" "#PWR0275"
-			(at 316.23 118.11 0)
+			(at 307.34 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29100,7 +29300,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 316.23 115.57 0)
+			(at 309.88 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29109,7 +29309,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 316.23 111.76 0)
+			(at 313.69 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29118,7 +29318,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 316.23 111.76 0)
+			(at 313.69 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29127,7 +29327,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 111.76 0)
+			(at 313.69 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29136,7 +29336,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 316.23 111.76 0)
+			(at 313.69 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29145,7 +29345,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 316.23 111.76 0)
+			(at 313.69 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29204,7 +29404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 147.32 132.08 0)
 			(effects
 				(font
@@ -29241,7 +29441,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 147.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 147.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 147.32 132.08 0)
 			(effects
 				(font
@@ -29300,7 +29518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 153.67 127 0)
 			(effects
 				(font
@@ -29327,7 +29545,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 153.67 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 153.67 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BLM15PD121SN1D"
 			(at 153.67 127 0)
 			(effects
 				(font
@@ -29353,7 +29589,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 312.42 34.29 0)
+		(at 311.15 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29361,7 +29597,7 @@
 		(dnp no)
 		(uuid "2ddc71e4-6ec4-477b-a961-62e4a05afcc8")
 		(property "Reference" "C310"
-			(at 314.325 32.385 0)
+			(at 313.055 27.305 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29371,7 +29607,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 314.325 34.29 0)
+			(at 313.055 29.21 0)
 			(effects
 				(font
 					(size 1 1)
@@ -29381,7 +29617,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 312.42 34.29 0)
+			(at 311.15 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29389,8 +29625,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 312.42 34.29 0)
+		(property "Datasheet" ""
+			(at 311.15 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29399,7 +29635,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.42 34.29 0)
+			(at 311.15 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29407,8 +29643,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 314.325 36.195 0)
+		(property "Voltage" "16V"
+			(at 313.055 31.115 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29418,7 +29654,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 312.42 34.29 0)
+			(at 311.15 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 311.15 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29427,7 +29672,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 312.42 34.29 0)
+			(at 311.15 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
+			(at 311.15 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29452,15 +29706,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 323.85 106.68 0)
+		(at 318.77 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "34b96087-0dd2-46c8-90e3-d274a7438968")
 		(property "Reference" "C314"
-			(at 325.755 104.775 0)
+			(at 320.675 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29470,7 +29724,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 325.755 106.68 0)
+			(at 318.77 103.505 0)
 			(effects
 				(font
 					(size 1 1)
@@ -29480,7 +29734,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 323.85 106.68 0)
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29488,8 +29742,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 323.85 106.68 0)
+		(property "Datasheet" ""
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29498,7 +29752,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.85 106.68 0)
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29506,8 +29760,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 325.755 108.585 0)
+		(property "Voltage" "16V"
+			(at 316.865 103.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29517,7 +29771,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 323.85 106.68 0)
+			(at 318.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29526,7 +29789,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 323.85 106.68 0)
+			(at 318.77 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14D"
+			(at 318.77 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29587,7 +29859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 142.24 185.42 0)
 			(effects
 				(font
@@ -29614,7 +29886,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 142.24 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 142.24 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 142.24 185.42 0)
 			(effects
 				(font
@@ -29758,7 +30048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 234.95 267.97 0)
 			(effects
 				(font
@@ -29785,7 +30075,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 234.95 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 234.95 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 234.95 267.97 0)
 			(effects
 				(font
@@ -29847,7 +30155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 101.6 217.17 0)
 			(effects
 				(font
@@ -29874,7 +30182,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 101.6 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 101.6 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 101.6 217.17 0)
 			(effects
 				(font
@@ -29936,7 +30262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 101.6 250.19 0)
 			(effects
 				(font
@@ -29963,7 +30289,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 101.6 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 101.6 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402FC100KS1"
 			(at 101.6 250.19 0)
 			(effects
 				(font
@@ -30023,7 +30367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 27.94 200.66 0)
 			(effects
 				(font
@@ -30050,7 +30394,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 27.94 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 27.94 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2SK3018-TP "
 			(at 27.94 200.66 0)
 			(effects
 				(font
@@ -30199,7 +30561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 135.89 165.1 0)
 			(effects
 				(font
@@ -30236,7 +30598,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 135.89 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 135.89 165.1 0)
 			(effects
 				(font
@@ -30265,9 +30645,9 @@
 		(at 33.02 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "410c0fca-cc79-4e3e-99d2-3543c0194628")
 		(property "Reference" "H2"
@@ -30315,6 +30695,15 @@
 			)
 		)
 		(property "Quantity" ""
+			(at 33.02 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 33.02 256.54 0)
 			(effects
 				(font
@@ -30382,7 +30771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 383.54 172.72 0)
 			(effects
 				(font
@@ -30400,7 +30789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 385.445 174.625 0)
 			(effects
 				(font
@@ -30419,7 +30808,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 383.54 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 383.54 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 383.54 172.72 0)
 			(effects
 				(font
@@ -30947,15 +31354,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 320.04 81.28 0)
+		(at 320.04 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4757c1f0-2b76-4638-a811-d4e7f31ca55b")
 		(property "Reference" "C313"
-			(at 321.945 79.375 0)
+			(at 321.945 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30965,7 +31372,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 321.945 81.28 0)
+			(at 321.945 73.66 0)
 			(effects
 				(font
 					(size 1 1)
@@ -30975,7 +31382,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 320.04 81.28 0)
+			(at 320.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30983,8 +31390,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 320.04 81.28 0)
+		(property "Datasheet" ""
+			(at 320.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30993,7 +31400,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 81.28 0)
+			(at 320.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31001,8 +31408,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 321.945 83.185 0)
+		(property "Voltage" "16V"
+			(at 321.945 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31012,7 +31419,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 320.04 81.28 0)
+			(at 320.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 320.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31021,7 +31437,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 320.04 81.28 0)
+			(at 320.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
+			(at 320.04 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31330,7 +31755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 227.33 187.96 0)
 			(effects
 				(font
@@ -31357,7 +31782,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 227.33 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 227.33 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 227.33 187.96 0)
 			(effects
 				(font
@@ -31418,7 +31861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 234.95 270.51 0)
 			(effects
 				(font
@@ -31445,7 +31888,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 234.95 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 234.95 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 234.95 270.51 0)
 			(effects
 				(font
@@ -31506,7 +31967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 234.95 265.43 0)
 			(effects
 				(font
@@ -31533,7 +31994,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 234.95 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 234.95 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 234.95 265.43 0)
 			(effects
 				(font
@@ -31595,7 +32074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 391.16 129.54 0)
 			(effects
 				(font
@@ -31613,7 +32092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 393.065 131.445 0)
 			(effects
 				(font
@@ -31632,7 +32111,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 391.16 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 391.16 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 391.16 129.54 0)
 			(effects
 				(font
@@ -31694,7 +32191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 45.72 179.07 0)
 			(effects
 				(font
@@ -31721,7 +32218,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 45.72 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 45.72 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RK73G1ETTP2200F"
 			(at 45.72 179.07 0)
 			(effects
 				(font
@@ -31780,7 +32295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "B10B-PHDSS "
+		(property "Datasheet" ""
 			(at 220.98 262.89 0)
 			(effects
 				(font
@@ -31807,7 +32322,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 220.98 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B10B-PHDSS "
 			(at 220.98 262.89 0)
 			(effects
 				(font
@@ -31893,7 +32426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 383.54 147.32 0)
 			(effects
 				(font
@@ -31911,7 +32444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 385.445 149.225 0)
 			(effects
 				(font
@@ -31930,7 +32463,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 383.54 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 383.54 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 383.54 147.32 0)
 			(effects
 				(font
@@ -31956,15 +32507,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 316.23 106.68 0)
+		(at 318.77 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5691866a-b16a-48e7-b3f9-ee5a9c437cd8")
 		(property "Reference" "C312"
-			(at 318.135 104.775 0)
+			(at 320.675 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31974,7 +32525,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 318.135 106.68 0)
+			(at 318.77 95.885 0)
 			(effects
 				(font
 					(size 1 1)
@@ -31984,7 +32535,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 316.23 106.68 0)
+			(at 318.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31992,8 +32543,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 316.23 106.68 0)
+		(property "Datasheet" ""
+			(at 318.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32002,7 +32553,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 316.23 106.68 0)
+			(at 318.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32010,8 +32561,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 318.135 108.585 0)
+		(property "Voltage" "16V"
+			(at 316.865 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32021,7 +32572,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 316.23 106.68 0)
+			(at 318.77 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 318.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32030,7 +32590,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 316.23 106.68 0)
+			(at 318.77 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM033Z71C104KE14D"
+			(at 318.77 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32154,8 +32723,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 48.26 189.23 0)
+		(property "Value" "BQ-0603G027-H3YYD0N-E0"
+			(at 50.8 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32171,7 +32740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 45.72 189.23 0)
 			(effects
 				(font
@@ -32198,7 +32767,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 45.72 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 45.72 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BQ-0603G027-H3YYD0N-E0"
 			(at 45.72 189.23 0)
 			(effects
 				(font
@@ -32250,7 +32837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 161.036 90)
 			(effects
 				(font
@@ -32259,7 +32846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 160.02 0)
 			(effects
 				(font
@@ -32286,7 +32873,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 160.02 0)
 			(effects
 				(font
@@ -32372,7 +32977,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 20.32 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 20.32 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "3-1827253-6"
 			(at 20.32 91.44 0)
 			(effects
 				(font
@@ -33253,7 +33876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 243.84 127 0)
 			(effects
 				(font
@@ -33280,7 +33903,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 243.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 243.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BLM15PD121SN1D"
 			(at 243.84 127 0)
 			(effects
 				(font
@@ -33323,7 +33964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "27pF"
 			(at 177.8 192.405 0)
 			(effects
 				(font
@@ -33342,7 +33983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 177.8 190.5 0)
 			(effects
 				(font
@@ -33360,7 +34001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 175.895 192.405 0)
 			(effects
 				(font
@@ -33379,7 +34020,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 177.8 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 177.8 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 177.8 190.5 0)
 			(effects
 				(font
@@ -33739,15 +34398,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:3.3V_SW_DELAYED")
-		(at 325.12 25.4 0)
+		(at 323.85 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "67124bb2-1a22-4318-8628-d633cb634869")
 		(property "Reference" "#PWR0279"
-			(at 325.12 26.67 0)
+			(at 323.85 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33756,7 +34415,7 @@
 			)
 		)
 		(property "Value" "3.3V_SW_DELAYED"
-			(at 325.12 21.844 0)
+			(at 323.85 16.764 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33764,7 +34423,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 325.12 25.4 0)
+			(at 323.85 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33773,7 +34432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.12 25.4 0)
+			(at 323.85 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33782,7 +34441,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 325.12 25.4 0)
+			(at 323.85 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33791,7 +34450,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 325.12 25.4 0)
+			(at 323.85 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33800,7 +34459,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 325.12 25.4 0)
+			(at 323.85 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33858,7 +34517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 32.258 239.014 0)
 			(effects
 				(font
@@ -33894,7 +34553,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 33.02 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 33.02 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCJ188R72A223KA01D"
 			(at 33.02 240.03 0)
 			(effects
 				(font
@@ -33946,7 +34623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 168.656 90)
 			(effects
 				(font
@@ -33955,7 +34632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 167.64 0)
 			(effects
 				(font
@@ -33982,7 +34659,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 167.64 0)
 			(effects
 				(font
@@ -34050,6 +34745,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 187.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 187.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 187.96 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "9FGV0241AKLF"
 			(at 187.96 132.08 0)
 			(effects
 				(font
@@ -34160,7 +34882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "27pF"
 			(at 177.8 175.895 0)
 			(effects
 				(font
@@ -34179,7 +34901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 177.8 177.8 0)
 			(effects
 				(font
@@ -34197,7 +34919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 175.895 175.895 0)
 			(effects
 				(font
@@ -34216,7 +34938,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 177.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 177.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 177.8 177.8 0)
 			(effects
 				(font
@@ -34278,7 +35018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 128.27 165.1 0)
 			(effects
 				(font
@@ -34315,7 +35055,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 128.27 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 128.27 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 128.27 165.1 0)
 			(effects
 				(font
@@ -34346,7 +35104,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6e342258-bd7d-4b2e-99da-b2d4ce288a62")
 		(property "Reference" "#PWR0287"
 			(at 368.3 26.67 0)
@@ -34459,7 +35217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 285.75 248.92 0)
 			(effects
 				(font
@@ -34486,7 +35244,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 285.75 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 285.75 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2RKF2001X"
 			(at 285.75 248.92 0)
 			(effects
 				(font
@@ -34596,15 +35372,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 332.74 101.6 0)
+		(at 323.85 110.49 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "75a07a20-f3d2-4ff4-b220-fedd0901b446")
 		(property "Reference" "J4"
-			(at 332.994 98.552 0)
+			(at 326.898 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34612,7 +35388,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 335.661 101.6 90)
+			(at 323.85 113.411 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34620,7 +35396,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
-			(at 332.74 101.6 0)
+			(at 323.85 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34628,8 +35404,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
-			(at 332.74 101.6 0)
+		(property "Datasheet" ""
+			(at 323.85 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34638,7 +35414,25 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 332.74 101.6 0)
+			(at 323.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 323.85 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 323.85 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34699,7 +35493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 115.57 185.42 0)
 			(effects
 				(font
@@ -34726,7 +35520,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 115.57 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 115.57 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 115.57 185.42 0)
 			(effects
 				(font
@@ -34788,7 +35600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 176.53 147.32 0)
 			(effects
 				(font
@@ -34815,7 +35627,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 176.53 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 176.53 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 176.53 147.32 0)
 			(effects
 				(font
@@ -34867,7 +35697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 155.956 90)
 			(effects
 				(font
@@ -34876,7 +35706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 154.94 0)
 			(effects
 				(font
@@ -34903,7 +35733,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 154.94 0)
 			(effects
 				(font
@@ -35048,7 +35896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 375.92 147.32 0)
 			(effects
 				(font
@@ -35066,7 +35914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 377.825 149.225 0)
 			(effects
 				(font
@@ -35085,7 +35933,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 375.92 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 375.92 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 375.92 147.32 0)
 			(effects
 				(font
@@ -35147,7 +36013,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 391.16 147.32 0)
 			(effects
 				(font
@@ -35165,7 +36031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 393.065 149.225 0)
 			(effects
 				(font
@@ -35184,7 +36050,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 391.16 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 391.16 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 391.16 147.32 0)
 			(effects
 				(font
@@ -35246,7 +36130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 218.44 165.1 0)
 			(effects
 				(font
@@ -35283,7 +36167,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 218.44 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 218.44 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 218.44 165.1 0)
 			(effects
 				(font
@@ -35335,7 +36237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 163.576 90)
 			(effects
 				(font
@@ -35344,7 +36246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 162.56 0)
 			(effects
 				(font
@@ -35371,7 +36273,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 162.56 0)
 			(effects
 				(font
@@ -35508,7 +36428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 383.794 198.374 90)
 			(effects
 				(font
@@ -35517,7 +36437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 384.81 198.12 0)
 			(effects
 				(font
@@ -35544,7 +36464,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 384.81 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 384.81 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 384.81 198.12 0)
 			(effects
 				(font
@@ -35570,15 +36508,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 335.28 81.28 0)
+		(at 335.28 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8059e659-6c62-4cc1-994c-fbf56918daee")
 		(property "Reference" "C316"
-			(at 337.185 79.375 0)
+			(at 337.185 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35588,7 +36526,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 337.185 81.28 0)
+			(at 337.185 73.66 0)
 			(effects
 				(font
 					(size 1 1)
@@ -35598,7 +36536,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 335.28 81.28 0)
+			(at 335.28 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35606,8 +36544,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 335.28 81.28 0)
+		(property "Datasheet" ""
+			(at 335.28 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35616,7 +36554,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 335.28 81.28 0)
+			(at 335.28 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35624,8 +36562,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 337.185 83.185 0)
+		(property "Voltage" "16V"
+			(at 337.185 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35635,7 +36573,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 335.28 81.28 0)
+			(at 335.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 335.28 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35644,7 +36591,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 335.28 81.28 0)
+			(at 335.28 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
+			(at 335.28 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35701,7 +36657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 127 182.88 0)
 			(effects
 				(font
@@ -35728,7 +36684,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 127 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 127 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 127 182.88 0)
 			(effects
 				(font
@@ -35856,7 +36830,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "26pF"
 			(at 370.205 209.55 0)
 			(effects
 				(font
@@ -35875,7 +36849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 372.11 209.55 0)
 			(effects
 				(font
@@ -35893,7 +36867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 370.205 211.455 0)
 			(effects
 				(font
@@ -35912,7 +36886,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 372.11 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 372.11 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 372.11 209.55 0)
 			(effects
 				(font
@@ -35938,7 +36930,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:3.3V_SW_DELAYED")
-		(at 320.04 76.2 0)
+		(at 320.04 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35946,7 +36938,7 @@
 		(dnp no)
 		(uuid "858ae71d-5c19-462f-aa26-e551c1f29d0a")
 		(property "Reference" "#PWR0277"
-			(at 320.04 77.47 0)
+			(at 320.04 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35955,7 +36947,7 @@
 			)
 		)
 		(property "Value" "3.3V_SW_DELAYED"
-			(at 320.04 72.644 0)
+			(at 320.04 65.024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35963,7 +36955,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 320.04 76.2 0)
+			(at 320.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35972,7 +36964,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 76.2 0)
+			(at 320.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35981,7 +36973,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 76.2 0)
+			(at 320.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35990,7 +36982,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 320.04 76.2 0)
+			(at 320.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35999,7 +36991,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 320.04 76.2 0)
+			(at 320.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36038,7 +37030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "27pF"
 			(at 83.82 192.405 0)
 			(effects
 				(font
@@ -36057,7 +37049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 190.5 0)
 			(effects
 				(font
@@ -36075,7 +37067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 81.915 192.405 0)
 			(effects
 				(font
@@ -36094,7 +37086,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 83.82 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 83.82 190.5 0)
 			(effects
 				(font
@@ -36120,7 +37130,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 312.42 88.9 0)
+		(at 312.42 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36128,7 +37138,7 @@
 		(dnp no)
 		(uuid "8a8920d2-d586-4d57-92d3-b099db2b3b52")
 		(property "Reference" "#PWR0273"
-			(at 312.42 95.25 0)
+			(at 312.42 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36137,7 +37147,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 312.42 92.71 0)
+			(at 312.42 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36146,7 +37156,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.42 88.9 0)
+			(at 312.42 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36155,7 +37165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.42 88.9 0)
+			(at 312.42 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36164,7 +37174,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.42 88.9 0)
+			(at 312.42 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36173,7 +37183,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 312.42 88.9 0)
+			(at 312.42 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36182,7 +37192,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 312.42 88.9 0)
+			(at 312.42 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36324,7 +37334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -36361,7 +37371,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 226.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 226.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 226.06 165.1 0)
 			(effects
 				(font
@@ -36423,7 +37451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 391.16 172.72 0)
 			(effects
 				(font
@@ -36441,7 +37469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 393.065 174.625 0)
 			(effects
 				(font
@@ -36460,7 +37488,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 391.16 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 391.16 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 391.16 172.72 0)
 			(effects
 				(font
@@ -36501,7 +37547,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_DIP_x02"
+		(property "Value" "74404024010"
 			(at 105.41 231.14 0)
 			(effects
 				(font
@@ -36518,7 +37564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 101.6 231.14 0)
 			(effects
 				(font
@@ -36545,7 +37591,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 101.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 101.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74404024010"
 			(at 101.6 231.14 0)
 			(effects
 				(font
@@ -36577,7 +37641,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 323.85 111.76 0)
+		(at 313.69 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36585,7 +37649,7 @@
 		(dnp no)
 		(uuid "94520ada-fed5-4531-9984-fe6332264467")
 		(property "Reference" "#PWR0278"
-			(at 323.85 118.11 0)
+			(at 307.34 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36594,7 +37658,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 323.85 115.57 0)
+			(at 309.88 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36603,7 +37667,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 323.85 111.76 0)
+			(at 313.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36612,7 +37676,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 111.76 0)
+			(at 313.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36621,7 +37685,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.85 111.76 0)
+			(at 313.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36630,7 +37694,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 323.85 111.76 0)
+			(at 313.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36639,7 +37703,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 323.85 111.76 0)
+			(at 313.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36698,7 +37762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 229.87 132.08 0)
 			(effects
 				(font
@@ -36735,7 +37799,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 229.87 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 229.87 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 229.87 132.08 0)
 			(effects
 				(font
@@ -36798,7 +37880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 132.08 132.08 0)
 			(effects
 				(font
@@ -36835,7 +37917,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 132.08 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 132.08 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 132.08 132.08 0)
 			(effects
 				(font
@@ -36898,7 +37998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 237.49 132.08 0)
 			(effects
 				(font
@@ -36935,7 +38035,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 237.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 237.49 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 237.49 132.08 0)
 			(effects
 				(font
@@ -37080,7 +38198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 285.75 259.08 0)
 			(effects
 				(font
@@ -37107,7 +38225,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 285.75 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 285.75 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 285.75 259.08 0)
 			(effects
 				(font
@@ -37169,7 +38305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 176.53 139.7 0)
 			(effects
 				(font
@@ -37196,7 +38332,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 176.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 176.53 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 176.53 139.7 0)
 			(effects
 				(font
@@ -37256,7 +38410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 135.89 193.04 0)
 			(effects
 				(font
@@ -37266,6 +38420,33 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 135.89 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 135.89 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 135.89 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NX3020NAKS"
 			(at 135.89 193.04 0)
 			(effects
 				(font
@@ -37328,7 +38509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 88.9 184.15 0)
 			(effects
 				(font
@@ -37355,7 +38536,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 88.9 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 88.9 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ABM3B-25.000MHZ-D4Y-T"
 			(at 88.9 184.15 0)
 			(effects
 				(font
@@ -37423,7 +38622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 398.78 172.72 0)
 			(effects
 				(font
@@ -37441,7 +38640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 400.685 174.625 0)
 			(effects
 				(font
@@ -37460,7 +38659,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 398.78 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 398.78 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 398.78 172.72 0)
 			(effects
 				(font
@@ -37602,7 +38819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ethernet.microsemi.com/products/download.php?fid=7978&number=vsc8541"
+		(property "Datasheet" ""
 			(at 346.964 265.43 0)
 			(effects
 				(font
@@ -37629,7 +38846,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 314.96 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 314.96 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "VSC8541XMV-02"
 			(at 314.96 200.66 0)
 			(effects
 				(font
@@ -37891,7 +39126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 48.26 200.66 0)
 			(effects
 				(font
@@ -37918,7 +39153,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 48.26 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 48.26 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2SK3018-TP "
 			(at 48.26 200.66 0)
 			(effects
 				(font
@@ -38066,7 +39319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 99.06 250.19 0)
 			(effects
 				(font
@@ -38093,7 +39346,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 99.06 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 99.06 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402FC100KS1"
 			(at 99.06 250.19 0)
 			(effects
 				(font
@@ -38155,7 +39426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 391.16 193.04 0)
 			(effects
 				(font
@@ -38173,7 +39444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 393.065 194.945 0)
 			(effects
 				(font
@@ -38192,7 +39463,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 391.16 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 391.16 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 391.16 193.04 0)
 			(effects
 				(font
@@ -38336,7 +39625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -38363,7 +39652,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 171.45 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 171.45 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BLM15PD121SN1D"
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -38424,7 +39731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 344.17 231.14 0)
 			(effects
 				(font
@@ -38451,7 +39758,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 344.17 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 344.17 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 344.17 231.14 0)
 			(effects
 				(font
@@ -38513,7 +39838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 398.78 129.54 0)
 			(effects
 				(font
@@ -38531,7 +39856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 400.685 131.445 0)
 			(effects
 				(font
@@ -38550,7 +39875,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 398.78 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 398.78 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 398.78 129.54 0)
 			(effects
 				(font
@@ -38662,9 +40005,9 @@
 		(at 53.34 256.54 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ae2bb2e0-0b10-4009-a728-306c910e8822")
 		(property "Reference" "H4"
@@ -38720,6 +40063,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 53.34 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
 			(at 53.34 256.54 0)
 			(effects
@@ -38746,9 +40098,9 @@
 		(at 33.02 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "af091b86-c7de-4e2d-beeb-ab6f10561db0")
 		(property "Reference" "H1"
@@ -38796,6 +40148,15 @@
 			)
 		)
 		(property "Quantity" ""
+			(at 33.02 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 33.02 233.68 0)
 			(effects
 				(font
@@ -38863,7 +40224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 388.62 254 0)
 			(effects
 				(font
@@ -38881,7 +40242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 390.525 255.905 0)
 			(effects
 				(font
@@ -38900,7 +40261,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 388.62 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 388.62 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 388.62 254 0)
 			(effects
 				(font
@@ -39130,7 +40509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 32.258 261.874 0)
 			(effects
 				(font
@@ -39166,7 +40545,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 33.02 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 33.02 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCJ188R72A223KA01D"
 			(at 33.02 262.89 0)
 			(effects
 				(font
@@ -39209,7 +40606,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "26pF"
 			(at 386.715 209.55 0)
 			(effects
 				(font
@@ -39228,7 +40625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 384.81 209.55 0)
 			(effects
 				(font
@@ -39246,7 +40643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 386.715 211.455 0)
 			(effects
 				(font
@@ -39265,7 +40662,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 384.81 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 384.81 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM03ACG1E270KH"
 			(at 384.81 209.55 0)
 			(effects
 				(font
@@ -39402,7 +40817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 209.804 249.174 90)
 			(effects
 				(font
@@ -39411,7 +40826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 210.82 248.92 0)
 			(effects
 				(font
@@ -39438,7 +40853,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 210.82 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 210.82 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 210.82 248.92 0)
 			(effects
 				(font
@@ -39490,7 +40923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 166.116 90)
 			(effects
 				(font
@@ -39499,7 +40932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 165.1 0)
 			(effects
 				(font
@@ -39526,7 +40959,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 165.1 0)
 			(effects
 				(font
@@ -39588,7 +41039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 30.48 179.07 0)
 			(effects
 				(font
@@ -39615,7 +41066,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 30.48 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 30.48 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RK73G1ETTP2200F"
 			(at 30.48 179.07 0)
 			(effects
 				(font
@@ -39677,7 +41146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 398.78 193.04 0)
 			(effects
 				(font
@@ -39695,7 +41164,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 400.685 194.945 0)
 			(effects
 				(font
@@ -39714,7 +41183,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 398.78 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 398.78 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 398.78 193.04 0)
 			(effects
 				(font
@@ -39849,7 +41336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 342.646 153.416 90)
 			(effects
 				(font
@@ -39858,7 +41345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 152.4 0)
 			(effects
 				(font
@@ -39885,7 +41372,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
 			(at 342.9 152.4 0)
 			(effects
 				(font
@@ -39948,7 +41453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 186.69 129.54 0)
 			(effects
 				(font
@@ -39985,7 +41490,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 186.69 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 186.69 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 186.69 129.54 0)
 			(effects
 				(font
@@ -40131,7 +41654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 96.52 129.54 0)
 			(effects
 				(font
@@ -40168,7 +41691,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 96.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 96.52 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 96.52 129.54 0)
 			(effects
 				(font
@@ -40310,7 +41851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 227.33 182.88 0)
 			(effects
 				(font
@@ -40337,7 +41878,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 227.33 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 227.33 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 227.33 182.88 0)
 			(effects
 				(font
@@ -40371,18 +41930,18 @@
 		(dnp no)
 		(uuid "c03f03d4-5964-48dc-ac97-faf97fac062e")
 		(property "Reference" "Y5"
-			(at 378.46 200.66 0)
+			(at 378.46 204.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Crystal"
-			(at 378.46 208.28 0)
+		(property "Value" "ABM3B-25.000MHZ-D4Y-T"
+			(at 378.46 207.645 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.508 0.508)
 				)
 			)
 		)
@@ -40395,7 +41954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 378.46 204.47 0)
 			(effects
 				(font
@@ -40422,7 +41981,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 378.46 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 378.46 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ABM3B-25.000MHZ-D4Y-T"
 			(at 378.46 204.47 0)
 			(effects
 				(font
@@ -40630,7 +42207,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SD0603S040S0R2"
 			(at 204.47 273.05 0)
 			(effects
 				(font
@@ -40647,7 +42224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 204.47 267.97 0)
 			(effects
 				(font
@@ -40674,7 +42251,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 204.47 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 204.47 267.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 204.47 267.97 0)
 			(effects
 				(font
@@ -40701,15 +42296,15 @@
 	(symbol
 		(lib_name "awg1000:R_1")
 		(lib_id "awg1000:R")
-		(at 326.39 68.58 270)
+		(at 331.47 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c4a715ae-9194-44d6-9c11-33fb1b0b980d")
 		(property "Reference" "R99"
-			(at 324.104 67.818 90)
+			(at 329.184 61.468 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40718,7 +42313,7 @@
 			)
 		)
 		(property "Value" "39"
-			(at 328.422 67.818 90)
+			(at 333.502 61.468 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40726,8 +42321,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 326.136 69.596 90)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 331.216 63.246 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40735,8 +42330,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 326.39 68.58 0)
+		(property "Datasheet" ""
+			(at 331.47 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40745,7 +42340,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 326.39 68.58 0)
+			(at 331.47 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40754,7 +42349,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 326.39 68.58 0)
+			(at 331.47 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 331.47 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40763,7 +42367,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 326.39 68.58 0)
+			(at 331.47 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
+			(at 331.47 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40991,7 +42604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 287.02 243.84 0)
 			(effects
 				(font
@@ -41028,7 +42641,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 287.02 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 287.02 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR71C103KH"
 			(at 287.02 243.84 0)
 			(effects
 				(font
@@ -41174,7 +42805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 121.92 240.03 0)
 			(effects
 				(font
@@ -41201,7 +42832,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 121.92 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 121.92 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 121.92 240.03 0)
 			(effects
 				(font
@@ -41345,7 +42994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 182.88 184.15 0)
 			(effects
 				(font
@@ -41372,7 +43021,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 182.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 182.88 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ABM3B-25.000MHZ-D4Y-T"
 			(at 182.88 184.15 0)
 			(effects
 				(font
@@ -41419,7 +43086,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SD0603S040S0R2"
 			(at 213.36 238.76 0)
 			(effects
 				(font
@@ -41436,7 +43103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 210.82 238.76 0)
 			(effects
 				(font
@@ -41463,7 +43130,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 210.82 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 210.82 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 210.82 238.76 0)
 			(effects
 				(font
@@ -41525,7 +43210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 242.57 185.42 0)
 			(effects
 				(font
@@ -41552,7 +43237,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 242.57 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 242.57 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NRC04F1002TRF"
 			(at 242.57 185.42 0)
 			(effects
 				(font
@@ -41779,7 +43482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "NANOT160AS"
+		(property "Datasheet" ""
 			(at 25.4 137.16 0)
 			(effects
 				(font
@@ -41806,7 +43509,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 25.4 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 25.4 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NANOT160AS"
 			(at 25.4 142.24 0)
 			(effects
 				(font
@@ -41833,15 +43554,15 @@
 	(symbol
 		(lib_name "awg1000:R_1")
 		(lib_id "awg1000:R")
-		(at 326.39 66.04 270)
+		(at 331.47 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d63a1e06-3a13-4f7a-a7d1-0a7e20aa50f8")
 		(property "Reference" "R98"
-			(at 324.104 65.278 90)
+			(at 329.184 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41850,7 +43571,7 @@
 			)
 		)
 		(property "Value" "39"
-			(at 328.422 65.278 90)
+			(at 333.502 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41858,8 +43579,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
-			(at 326.136 67.056 90)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 331.216 60.706 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41867,8 +43588,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 326.39 66.04 0)
+		(property "Datasheet" ""
+			(at 331.47 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41877,7 +43598,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 326.39 66.04 0)
+			(at 331.47 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41886,7 +43607,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 326.39 66.04 0)
+			(at 331.47 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 331.47 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41895,7 +43625,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 326.39 66.04 0)
+			(at 331.47 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0201JM39RS01"
+			(at 331.47 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42004,7 +43743,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 332.74 111.76 0)
+		(at 313.69 110.49 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42012,7 +43751,7 @@
 		(dnp no)
 		(uuid "db19e46d-0150-4911-a451-9c9175dbcc07")
 		(property "Reference" "#PWR0282"
-			(at 332.74 118.11 0)
+			(at 307.34 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42021,7 +43760,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 332.74 115.57 0)
+			(at 309.88 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42030,7 +43769,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 332.74 111.76 0)
+			(at 313.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42039,7 +43778,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 111.76 0)
+			(at 313.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42048,7 +43787,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 332.74 111.76 0)
+			(at 313.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42057,7 +43796,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 332.74 111.76 0)
+			(at 313.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42066,7 +43805,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 332.74 111.76 0)
+			(at 313.69 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42124,7 +43863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 398.78 147.32 0)
 			(effects
 				(font
@@ -42142,7 +43881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 400.685 149.225 0)
 			(effects
 				(font
@@ -42161,7 +43900,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 398.78 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 398.78 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 398.78 147.32 0)
 			(effects
 				(font
@@ -42221,7 +43978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 81.28 127 0)
 			(effects
 				(font
@@ -42248,7 +44005,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 81.28 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 81.28 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BLM15PD121SN1D"
 			(at 81.28 127 0)
 			(effects
 				(font
@@ -42393,7 +44168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 228.6 248.92 0)
 			(effects
 				(font
@@ -42420,7 +44195,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 228.6 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 228.6 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100RL"
 			(at 228.6 248.92 0)
 			(effects
 				(font
@@ -42630,7 +44423,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 342.9 221.615 0)
 			(effects
 				(font
@@ -42649,7 +44442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 342.9 223.52 0)
 			(effects
 				(font
@@ -42667,7 +44460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 344.805 221.615 0)
 			(effects
 				(font
@@ -42686,7 +44479,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 342.9 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 342.9 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 342.9 223.52 0)
 			(effects
 				(font
@@ -42712,7 +44523,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 205.74 219.71 0)
+		(at 332.74 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42720,7 +44531,7 @@
 		(dnp no)
 		(uuid "e2e741b2-0698-4ef3-8df6-7742eff2474a")
 		(property "Reference" "#PWR0253"
-			(at 205.74 226.06 0)
+			(at 326.39 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42729,7 +44540,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 205.74 223.52 0)
+			(at 328.93 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42738,7 +44549,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 219.71 0)
+			(at 332.74 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42747,7 +44558,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 219.71 0)
+			(at 332.74 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42756,7 +44567,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 219.71 0)
+			(at 332.74 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42765,7 +44576,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 205.74 219.71 0)
+			(at 332.74 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42774,7 +44585,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 205.74 219.71 0)
+			(at 332.74 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42833,7 +44644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 139.7 132.08 0)
 			(effects
 				(font
@@ -42870,7 +44681,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 139.7 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 139.7 132.08 0)
 			(effects
 				(font
@@ -42932,7 +44761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 383.54 129.54 0)
 			(effects
 				(font
@@ -42950,7 +44779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "16V"
 			(at 385.445 131.445 0)
 			(effects
 				(font
@@ -42969,7 +44798,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 383.54 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 383.54 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
 			(at 383.54 129.54 0)
 			(effects
 				(font
@@ -43163,15 +45010,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 320.04 101.6 90)
+		(at 323.85 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "eacff54f-5497-442e-b8b9-3aceca01b5d7")
 		(property "Reference" "L10"
-			(at 318.135 99.695 90)
+			(at 325.755 95.885 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43179,7 +45026,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 325.628 100.584 90)
+			(at 324.866 103.378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43187,7 +45034,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
-			(at 320.04 101.6 0)
+			(at 323.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43196,7 +45043,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 320.04 101.6 0)
+			(at 323.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43205,7 +45052,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 101.6 0)
+			(at 323.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43214,7 +45061,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 320.675 102.235 90)
+			(at 323.215 98.425 90)
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -43222,7 +45069,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 320.04 101.6 0)
+			(at 323.85 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 323.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43231,7 +45087,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 320.04 101.6 0)
+			(at 323.85 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43261,7 +45117,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "eb4907e9-9d6b-421c-9af5-728ff55767dd")
 		(property "Reference" "U19"
 			(at 355.6 31.75 0)
@@ -43290,7 +45146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf"
+		(property "Datasheet" ""
 			(at 379.73 96.52 0)
 			(effects
 				(font
@@ -43300,6 +45156,33 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, external antenna, QFN-48"
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 373.38 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESP32-PICO-D4"
 			(at 373.38 71.12 0)
 			(effects
 				(font
@@ -43469,9 +45352,9 @@
 		(at 53.34 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ec23d5f0-bd4f-404a-8cc7-170e68edc6f2")
 		(property "Reference" "H3"
@@ -43519,6 +45402,15 @@
 			)
 		)
 		(property "Quantity" ""
+			(at 53.34 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 53.34 233.68 0)
 			(effects
 				(font
@@ -43634,7 +45526,7 @@
 	)
 	(symbol
 		(lib_id "DQSBC:GND")
-		(at 312.42 39.37 0)
+		(at 311.15 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43642,7 +45534,7 @@
 		(dnp no)
 		(uuid "f17a5d4b-ce22-4263-b71c-9148fb7785a8")
 		(property "Reference" "#PWR0272"
-			(at 312.42 45.72 0)
+			(at 311.15 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43651,7 +45543,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 312.42 43.18 0)
+			(at 311.15 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43660,7 +45552,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.42 39.37 0)
+			(at 311.15 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43669,7 +45561,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.42 39.37 0)
+			(at 311.15 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43678,7 +45570,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 312.42 39.37 0)
+			(at 311.15 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43687,7 +45579,7 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 312.42 39.37 0)
+			(at 311.15 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43696,7 +45588,7 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 312.42 39.37 0)
+			(at 311.15 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43885,15 +45777,15 @@
 	)
 	(symbol
 		(lib_id "Device:RFShield_OnePiece")
-		(at 205.74 209.55 0)
+		(at 342.9 101.6 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f38218fa-e87f-40c3-b315-4dc374d1014e")
 		(property "Reference" "J2"
-			(at 205.74 204.47 0)
+			(at 347.98 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43901,7 +45793,7 @@
 			)
 		)
 		(property "Value" "RFShield_OnePiece"
-			(at 205.74 207.01 0)
+			(at 345.44 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43909,7 +45801,7 @@
 			)
 		)
 		(property "Footprint" "SBC:Laird_Technologies_BMI-S-101_13.66x12.70mm"
-			(at 205.74 212.09 0)
+			(at 340.36 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43918,7 +45810,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 205.74 212.09 0)
+			(at 340.36 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43927,7 +45819,34 @@
 			)
 		)
 		(property "Description" "One-piece EMI RF shielding cabinet"
-			(at 205.74 209.55 0)
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 342.9 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BMI-S-101_13"
+			(at 342.9 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43985,7 +45904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 375.92 129.54 0)
 			(effects
 				(font
@@ -44003,7 +45922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 377.825 131.445 0)
 			(effects
 				(font
@@ -44022,7 +45941,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 375.92 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 375.92 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 375.92 129.54 0)
 			(effects
 				(font
@@ -44085,7 +46022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "JMK063ABJ105KP-F"
+		(property "Datasheet" ""
 			(at 179.07 129.54 0)
 			(effects
 				(font
@@ -44122,7 +46059,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 179.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 179.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "JMK063ABJ105KP-F"
 			(at 179.07 129.54 0)
 			(effects
 				(font
@@ -44267,7 +46222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 114.3 248.92 0)
 			(effects
 				(font
@@ -44294,7 +46249,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 114.3 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 114.3 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2SK3018-TP "
 			(at 114.3 248.92 0)
 			(effects
 				(font
@@ -44358,7 +46331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 378.46 189.23 0)
 			(effects
 				(font
@@ -44385,7 +46358,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 378.46 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 378.46 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402FC1MS001"
 			(at 378.46 189.23 0)
 			(effects
 				(font
@@ -44510,8 +46501,8 @@
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 33.02 189.23 0)
+		(property "Value" "BQ-0603G027-H3YYD0N-E0"
+			(at 34.29 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44527,7 +46518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 30.48 189.23 0)
 			(effects
 				(font
@@ -44554,7 +46545,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 30.48 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 30.48 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BQ-0603G027-H3YYD0N-E0"
 			(at 30.48 189.23 0)
 			(effects
 				(font
@@ -44783,7 +46792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 344.17 243.84 0)
 			(effects
 				(font
@@ -44810,7 +46819,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 344.17 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 344.17 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CR0402PC0RS001"
 			(at 344.17 243.84 0)
 			(effects
 				(font
@@ -44869,7 +46896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 127 187.96 0)
 			(effects
 				(font
@@ -44896,7 +46923,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 127 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 127 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SD0603S040S0R2"
 			(at 127 187.96 0)
 			(effects
 				(font
@@ -44958,7 +47003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 386.08 234.95 0)
 			(effects
 				(font
@@ -44976,7 +47021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
+		(property "Voltage" "10V"
 			(at 387.985 236.855 0)
 			(effects
 				(font
@@ -44995,7 +47040,25 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 386.08 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Field-1" ""
+			(at 386.08 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A106ME11D"
 			(at 386.08 234.95 0)
 			(effects
 				(font
@@ -45063,6 +47126,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 97.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 97.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 97.79 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "9FGV0241AKLF"
 			(at 97.79 132.08 0)
 			(effects
 				(font
@@ -45238,15 +47328,15 @@
 	)
 	(symbol
 		(lib_id "DQSBC:C")
-		(at 327.66 81.28 0)
+		(at 327.66 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ffb2efb7-3a67-4fb9-9998-690428a79580")
 		(property "Reference" "C315"
-			(at 329.565 79.375 0)
+			(at 329.565 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45256,7 +47346,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 329.565 81.28 0)
+			(at 329.565 73.66 0)
 			(effects
 				(font
 					(size 1 1)
@@ -45266,7 +47356,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 327.66 81.28 0)
+			(at 327.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45274,8 +47364,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 327.66 81.28 0)
+		(property "Datasheet" ""
+			(at 327.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45284,7 +47374,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 327.66 81.28 0)
+			(at 327.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45292,8 +47382,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage" "V"
-			(at 329.565 83.185 0)
+		(property "Voltage" "16V"
+			(at 329.565 75.565 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45303,7 +47393,16 @@
 			)
 		)
 		(property "Quantity" ""
-			(at 327.66 81.28 0)
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 327.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45312,7 +47411,16 @@
 			)
 		)
 		(property "Field-1" ""
-			(at 327.66 81.28 0)
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRX7R7BB472"
+			(at 327.66 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "DQSBC")
-		(date "2023-05-13")
+		(date "2023-12-28")
 		(rev "1.00")
 	)
 	(lib_symbols)
@@ -708,6 +708,18 @@
 		)
 		(uuid "f8c56c7a-ae08-4188-b4a6-8f78fbb14c64")
 	)
+	(text "INIT."
+		(exclude_from_sim no)
+		(at 323.85 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+				(color 132 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "0928ce84-e2a2-4b87-a404-8262cd600563")
+	)
 	(text "DSI"
 		(exclude_from_sim no)
 		(at 154.94 118.11 0)
@@ -846,10 +858,23 @@
 		(effects
 			(font
 				(size 2 2)
+				(color 132 0 0 1)
 			)
 			(justify right bottom)
 		)
 		(uuid "be590e97-7596-4779-92e8-5a0c6c5a8103")
+	)
+	(text "28.12.2023"
+		(exclude_from_sim no)
+		(at 284.48 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+				(color 132 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4b718b9-fa76-4c1f-87f7-55bdbc7532a0")
 	)
 	(text "GPIOS"
 		(exclude_from_sim no)
