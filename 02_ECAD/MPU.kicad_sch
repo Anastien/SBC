@@ -159925,7 +159925,7 @@
 	)
 	(text_box "A 100 Ω typical ESR and 8 pF CL crystal rated for\na maximum drive level of 200 μW is acceptable.\nConsult crystal vendor and do matching test for\ndesigning external compensation capacitors is\npreferred. Use short traces between the crystal\nand the processor, with a ground plane under the\ncrystal, load capacitors, and associated traces."
 		(exclude_from_sim no)
-		(at 386.08 157.734 0)
+		(at 393.446 158.242 0)
 		(size 21.844 17.526)
 		(stroke
 			(width 0)

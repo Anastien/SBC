@@ -20128,7 +20128,7 @@
 	)
 	(polyline
 		(pts
-			(xy 307.34 12.7) (xy 307.34 119.38)
+			(xy 307.34 12.065) (xy 307.34 119.38)
 		)
 		(stroke
 			(width 0)
@@ -20767,8 +20767,8 @@
 		(uuid ce4d7bfc-ebe6-4d4a-9841-cf330020b7e8)
 	)
 	(rectangle
-		(start 307.34 12.7)
-		(end 340.36 15.24)
+		(start 307.34 12.065)
+		(end 340.36 14.605)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -21248,7 +21248,7 @@
 	)
 	(text "WIFI+BLUETOOTH ( OPTIONAL )"
 		(exclude_from_sim no)
-		(at 337.82 15.24 0)
+		(at 340.36 14.224 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21311,7 +21311,7 @@
 	)
 	(text "JTAG DEBUG"
 		(exclude_from_sim no)
-		(at 199.517 200.152 0)
+		(at 200.152 200.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25005,7 +25005,6 @@
 	(global_label "GPIO4"
 		(shape bidirectional)
 		(at 233.68 30.48 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1 1)
@@ -25014,7 +25013,7 @@
 		)
 		(uuid "f489f1d8-139c-41f5-8307-85e4b085942a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 235.54 30.48 90)
+			(at 233.68 24.384 90)
 			(effects
 				(font
 					(size 1.27 1.27)

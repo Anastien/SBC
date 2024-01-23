@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -34,7 +34,7 @@
       "PCIE2_TXN",
       "PCIE2_TXP"
     ],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 0,
     "opacity": {
       "images": 0.6,
@@ -44,17 +44,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": true,
-      "otherItems": true,
-      "pads": true,
+      "otherItems": false,
+      "pads": false,
       "text": true,
-      "tracks": true,
-      "vias": true,
-      "zones": true
+      "tracks": false,
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -92,7 +92,7 @@
       36,
       40
     ],
-    "visible_layers": "0043000_00000001",
+    "visible_layers": "0041030_80000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -111,12 +111,12 @@
         "name": "SBC.kicad_sch",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": -2568,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1426
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1058
         }
       },
       {
@@ -125,10 +125,10 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": -4488,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1186
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1058
         }
       }
     ]
