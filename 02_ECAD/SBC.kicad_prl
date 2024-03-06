@@ -92,7 +92,7 @@
       36,
       40
     ],
-    "visible_layers": "0041030_80000001",
+    "visible_layers": "0041030_00000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -111,24 +111,24 @@
         "name": "SBC.kicad_sch",
         "open": false,
         "window": {
-          "display": 0,
+          "display": 2,
           "maximized": true,
           "pos_x": -9,
           "pos_y": -9,
           "size_x": 1938,
-          "size_y": 1058
+          "size_y": 1048
         }
       },
       {
         "name": "SBC.kicad_pcb",
         "open": false,
         "window": {
-          "display": 0,
+          "display": 2,
           "maximized": true,
-          "pos_x": -9,
-          "pos_y": -9,
-          "size_x": 1938,
-          "size_y": 1058
+          "pos_x": -1928,
+          "pos_y": -119,
+          "size_x": 1936,
+          "size_y": 1176
         }
       }
     ]

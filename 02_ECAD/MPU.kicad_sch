@@ -1,7 +1,7 @@
 (kicad_sch
 	(version 20231120)
 	(generator "eeschema")
-	(generator_version "7.99")
+	(generator_version "8.0")
 	(uuid "0c33433a-6a97-47b9-993a-ccfad1e20bba")
 	(paper "A3")
 	(title_block
@@ -166868,15 +166868,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 342.9 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 342.9 172.72 0)
 			(effects
@@ -167070,15 +167061,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 322.58 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 322.58 251.46 0)
 			(effects
@@ -167179,15 +167161,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 337.82 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 337.82 53.34 0)
 			(effects
 				(font
@@ -167304,15 +167277,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 398.78 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 398.78 134.62 0)
 			(effects
@@ -167421,15 +167385,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C472KE14D"
 			(at 383.54 73.66 0)
 			(effects
@@ -167530,15 +167485,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 360.68 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 360.68 83.82 0)
 			(effects
 				(font
@@ -167656,15 +167602,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 353.06 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 353.06 121.92 0)
 			(effects
@@ -167765,15 +167702,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 353.06 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 353.06 53.34 0)
 			(effects
 				(font
@@ -167890,15 +167818,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 320.04 99.06 0)
 			(effects
@@ -167999,15 +167918,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 137.16 0)
 			(effects
 				(font
@@ -168291,15 +168201,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 375.92 33.02 0)
 			(effects
@@ -168401,15 +168302,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 276.86 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 276.86 111.76 0)
 			(effects
 				(font
@@ -168610,15 +168502,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 350.52 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 350.52 22.86 0)
 			(effects
@@ -168719,15 +168602,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 345.44 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 345.44 114.3 0)
 			(effects
 				(font
@@ -168844,15 +168718,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 332.74 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 332.74 149.86 0)
 			(effects
@@ -168953,15 +168818,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 276.86 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 276.86 127 0)
 			(effects
 				(font
@@ -169148,15 +169004,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 372.11 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402FC100KS1"
 			(at 372.11 170.18 0)
 			(effects
@@ -169244,15 +169091,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 289.56 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 289.56 261.62 0)
 			(effects
 				(font
@@ -169440,15 +169278,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 289.56 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07604RL"
 			(at 289.56 259.08 0)
 			(effects
@@ -169549,15 +169378,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 86.36 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 86.36 264.16 0)
 			(effects
 				(font
@@ -169750,15 +169570,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 398.78 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 398.78 83.82 0)
 			(effects
 				(font
@@ -170127,15 +169938,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 265.43 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 265.43 210.82 0)
 			(effects
@@ -170403,15 +170205,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 353.06 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 353.06 114.3 0)
 			(effects
 				(font
@@ -170695,15 +170488,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 383.54 33.02 0)
 			(effects
@@ -170812,15 +170596,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 353.06 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 353.06 144.78 0)
 			(effects
@@ -170921,15 +170696,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 287.02 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 287.02 127 0)
 			(effects
 				(font
@@ -171108,15 +170874,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 127 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 127 168.91 0)
 			(effects
 				(font
@@ -171317,15 +171074,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 381 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 381 96.52 0)
 			(effects
@@ -171499,15 +171247,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 245.11 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 245.11 138.43 0)
 			(effects
 				(font
@@ -173465,15 +173204,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 85.09 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402FC240RS1"
 			(at 85.09 266.7 0)
 			(effects
@@ -173574,15 +173304,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 262.89 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 262.89 223.52 0)
 			(effects
 				(font
@@ -174118,15 +173839,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 360.68 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 360.68 144.78 0)
 			(effects
@@ -174235,15 +173947,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 330.2 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 330.2 83.82 0)
 			(effects
@@ -174344,15 +174047,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 312.42 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 312.42 43.18 0)
 			(effects
 				(font
@@ -174552,15 +174246,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 391.16 144.78 0)
 			(effects
@@ -174661,15 +174346,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 345.44 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 345.44 53.34 0)
 			(effects
 				(font
@@ -174786,15 +174462,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C472KE14D"
 			(at 391.16 73.66 0)
 			(effects
@@ -174895,15 +174562,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 335.28 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 335.28 22.86 0)
 			(effects
 				(font
@@ -175020,15 +174678,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 337.82 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C103KE14D"
 			(at 337.82 83.82 0)
 			(effects
@@ -175129,15 +174778,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 298.45 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 298.45 90.17 0)
 			(effects
 				(font
@@ -175254,15 +174894,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 332.74 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 332.74 134.62 0)
 			(effects
@@ -175352,15 +174983,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 99.06 238.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 99.06 238.76 0)
 			(effects
 				(font
@@ -177401,15 +177023,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 154.94 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RK73G1ETTP2000F"
 			(at 154.94 168.91 0)
 			(effects
@@ -177686,15 +177299,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 144.78 0)
 			(effects
@@ -177795,15 +177399,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 154.94 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 154.94 215.9 0)
 			(effects
 				(font
@@ -177920,15 +177515,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 383.54 104.14 0)
 			(effects
@@ -178029,15 +177615,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 312.42 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 312.42 33.02 0)
 			(effects
 				(font
@@ -178154,15 +177731,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 327.66 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 327.66 33.02 0)
 			(effects
@@ -178263,15 +177831,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 375.92 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 375.92 53.34 0)
 			(effects
 				(font
@@ -178388,15 +177947,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 330.2 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM03ACG1E270KH"
 			(at 330.2 180.34 0)
 			(effects
@@ -178497,15 +178047,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 383.54 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 383.54 144.78 0)
 			(effects
 				(font
@@ -178691,15 +178232,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 382.27 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402FC100KS1"
 			(at 382.27 251.46 0)
 			(effects
@@ -178787,15 +178319,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 182.88 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 182.88 139.7 0)
 			(effects
 				(font
@@ -180752,15 +180275,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 394.97 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CR0402FC100KS1"
 			(at 394.97 185.42 0)
 			(effects
@@ -180862,15 +180376,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 104.14 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 104.14 168.91 0)
 			(effects
 				(font
@@ -180988,15 +180493,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 276.86 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 276.86 119.38 0)
 			(effects
@@ -181097,15 +180593,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 353.06 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 353.06 96.52 0)
 			(effects
 				(font
@@ -181222,15 +180709,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 347.98 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 347.98 33.02 0)
 			(effects
@@ -181339,15 +180817,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 360.68 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 360.68 33.02 0)
 			(effects
@@ -181448,15 +180917,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 76.2 0)
 			(effects
 				(font
@@ -181657,15 +181117,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 375.92 134.62 0)
 			(effects
@@ -181774,15 +181225,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 368.3 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 368.3 114.3 0)
 			(effects
@@ -181883,15 +181325,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 391.16 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 391.16 114.3 0)
 			(effects
 				(font
@@ -182079,15 +181512,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 275.59 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07604RL"
 			(at 275.59 269.24 0)
 			(effects
@@ -182188,15 +181612,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 398.78 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 398.78 33.02 0)
 			(effects
 				(font
@@ -182466,15 +181881,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 372.11 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RN73R1ETTP4701F50"
 			(at 372.11 167.64 0)
 			(effects
@@ -182654,15 +182060,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 289.56 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07604RL"
 			(at 289.56 274.32 0)
 			(effects
@@ -182771,15 +182168,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 383.54 53.34 0)
 			(effects
@@ -182867,15 +182255,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 340.36 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 340.36 129.54 0)
 			(effects
 				(font
@@ -183055,15 +182434,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 275.59 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 275.59 274.32 0)
 			(effects
 				(font
@@ -183255,15 +182625,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 368.3 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 368.3 134.62 0)
 			(effects
 				(font
@@ -183632,15 +182993,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 297.18 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 297.18 111.76 0)
 			(effects
@@ -183749,15 +183101,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 345.44 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 345.44 73.66 0)
 			(effects
@@ -183845,15 +183188,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 275.59 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 275.59 271.78 0)
 			(effects
 				(font
@@ -184222,15 +183556,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 375.92 104.14 0)
 			(effects
@@ -184331,15 +183656,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 375.92 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 375.92 73.66 0)
 			(effects
 				(font
@@ -184456,15 +183772,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 306.07 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 306.07 90.17 0)
 			(effects
@@ -184573,15 +183880,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 330.2 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 330.2 114.3 0)
 			(effects
@@ -184668,15 +183966,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 354.33 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 354.33 160.02 0)
 			(effects
 				(font
@@ -184772,15 +184061,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 265.43 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 265.43 82.55 0)
 			(effects
 				(font
@@ -186751,15 +186031,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 345.44 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 345.44 134.62 0)
 			(effects
@@ -186860,15 +186131,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 262.89 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 262.89 193.04 0)
 			(effects
 				(font
@@ -186986,15 +186248,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 287.02 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 287.02 85.09 0)
 			(effects
@@ -187095,15 +186348,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 330.2 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 330.2 104.14 0)
 			(effects
 				(font
@@ -187297,15 +186541,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 330.2 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 330.2 73.66 0)
 			(effects
 				(font
@@ -187569,15 +186804,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 358.14 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 358.14 175.26 0)
 			(effects
 				(font
@@ -189548,15 +188774,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 368.3 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 368.3 73.66 0)
 			(effects
@@ -189657,15 +188874,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 22.86 0)
 			(effects
 				(font
@@ -189782,15 +188990,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 325.12 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 325.12 149.86 0)
 			(effects
@@ -189891,15 +189090,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 337.82 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 337.82 73.66 0)
 			(effects
 				(font
@@ -190099,15 +189289,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 262.89 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 262.89 208.28 0)
 			(effects
@@ -190216,15 +189397,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 60.96 0)
 			(effects
@@ -190325,15 +189497,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 368.3 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 368.3 144.78 0)
 			(effects
 				(font
@@ -190702,15 +189865,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 111.76 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 111.76 213.36 0)
 			(effects
@@ -190811,15 +189965,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 353.06 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 353.06 104.14 0)
 			(effects
 				(font
@@ -190936,15 +190081,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 368.3 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 368.3 33.02 0)
 			(effects
@@ -191031,15 +190167,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 219.71 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 219.71 196.85 0)
 			(effects
 				(font
@@ -191388,15 +190515,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 289.56 271.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07604RL"
 			(at 289.56 271.78 0)
 			(effects
@@ -191505,15 +190623,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 327.66 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 327.66 22.86 0)
 			(effects
@@ -191614,15 +190723,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 342.9 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 342.9 22.86 0)
 			(effects
 				(font
@@ -191824,15 +190924,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 276.86 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 276.86 85.09 0)
 			(effects
@@ -192026,15 +191117,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 265.43 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 265.43 218.44 0)
 			(effects
@@ -192143,15 +191225,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 360.68 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 360.68 134.62 0)
 			(effects
@@ -192238,15 +191311,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 394.97 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 394.97 203.2 0)
 			(effects
 				(font
@@ -192355,15 +191419,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 360.68 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 360.68 22.86 0)
 			(effects
 				(font
@@ -192551,15 +191606,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 326.39 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "ABM3B-27.000MHZ-D3Y-T"
 			(at 326.39 208.28 0)
 			(effects
@@ -192667,15 +191713,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 370.84 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 370.84 261.62 0)
 			(effects
 				(font
@@ -192876,15 +191913,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 368.3 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C472KE14D"
 			(at 368.3 83.82 0)
 			(effects
@@ -193068,15 +192096,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 297.18 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 297.18 127 0)
 			(effects
 				(font
@@ -193276,15 +192295,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 134.62 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 134.62 166.37 0)
 			(effects
@@ -193393,15 +192403,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 383.54 22.86 0)
 			(effects
@@ -193502,15 +192503,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 262.89 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 262.89 200.66 0)
 			(effects
 				(font
@@ -193628,15 +192620,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 317.5 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM03ACG1E270KH"
 			(at 317.5 180.34 0)
 			(effects
@@ -193737,15 +192720,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 262.89 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 262.89 231.14 0)
 			(effects
 				(font
@@ -193863,15 +192837,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 287.02 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 287.02 92.71 0)
 			(effects
@@ -193980,15 +192945,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C472KE14D"
 			(at 375.92 83.82 0)
 			(effects
@@ -194075,15 +193031,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 330.2 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 330.2 261.62 0)
 			(effects
 				(font
@@ -194292,15 +193239,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 368.3 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 368.3 53.34 0)
 			(effects
@@ -194401,15 +193339,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 398.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 398.78 53.34 0)
 			(effects
 				(font
@@ -194526,15 +193455,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 68.58 0)
 			(effects
@@ -194635,15 +193555,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 383.54 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 383.54 114.3 0)
 			(effects
 				(font
@@ -194760,15 +193671,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 147.32 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 147.32 215.9 0)
 			(effects
@@ -194856,15 +193758,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 289.56 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 289.56 264.16 0)
 			(effects
 				(font
@@ -195149,15 +194042,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 391.16 104.14 0)
 			(effects
@@ -195258,15 +194142,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 375.92 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 375.92 114.3 0)
 			(effects
 				(font
@@ -195384,15 +194259,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 119.38 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 119.38 213.36 0)
 			(effects
@@ -195493,15 +194359,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 383.54 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 383.54 83.82 0)
 			(effects
 				(font
@@ -195702,15 +194559,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 353.06 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 353.06 134.62 0)
 			(effects
@@ -195811,15 +194659,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 43.18 0)
 			(effects
 				(font
@@ -195936,15 +194775,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 375.92 22.86 0)
 			(effects
@@ -196053,15 +194883,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 335.28 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 335.28 33.02 0)
 			(effects
@@ -196162,15 +194983,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 340.36 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 340.36 149.86 0)
 			(effects
 				(font
@@ -196455,15 +195267,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 337.82 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 337.82 104.14 0)
 			(effects
@@ -196565,15 +195368,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 287.02 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 287.02 119.38 0)
 			(effects
 				(font
@@ -196690,15 +195484,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 129.54 0)
 			(effects
@@ -196799,15 +195584,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 360.68 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 360.68 73.66 0)
 			(effects
 				(font
@@ -196924,15 +195700,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 360.68 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 360.68 53.34 0)
 			(effects
@@ -197019,15 +195786,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 382.27 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 382.27 246.38 0)
 			(effects
 				(font
@@ -197137,15 +195895,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 265.43 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 265.43 226.06 0)
 			(effects
 				(font
@@ -197325,15 +196074,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 160.02 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 160.02 214.63 0)
 			(effects
 				(font
@@ -197785,15 +196525,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 265.43 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 265.43 195.58 0)
 			(effects
@@ -197902,15 +196633,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 121.92 0)
 			(effects
@@ -197997,15 +196719,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 127 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 127 214.63 0)
 			(effects
 				(font
@@ -198206,15 +196919,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 375.92 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 375.92 144.78 0)
 			(effects
@@ -198315,15 +197019,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 360.68 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 360.68 114.3 0)
 			(effects
 				(font
@@ -198515,15 +197210,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 106.68 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 106.68 166.37 0)
 			(effects
 				(font
@@ -198807,15 +197493,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 332.74 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM03ACG1E270KH"
 			(at 332.74 213.36 0)
 			(effects
@@ -198903,15 +197580,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 85.09 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 85.09 254 0)
 			(effects
 				(font
@@ -199028,15 +197696,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 398.78 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 398.78 104.14 0)
 			(effects
@@ -199125,15 +197784,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 323.85 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 323.85 175.26 0)
 			(effects
 				(font
@@ -199235,15 +197885,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 182.88 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 182.88 203.2 0)
 			(effects
 				(font
@@ -201214,15 +199855,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 381 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 381 66.04 0)
 			(effects
@@ -201311,15 +199943,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 17.78 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 17.78 121.92 0)
 			(effects
 				(font
@@ -203374,15 +201997,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 114.3 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 114.3 215.9 0)
 			(effects
@@ -203483,15 +202097,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 287.02 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 287.02 100.33 0)
 			(effects
 				(font
@@ -203777,15 +202382,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 383.54 45.72 0)
 			(effects
@@ -203881,15 +202477,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 299.72 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "BLM15PD121SN1D"
 			(at 299.72 20.32 0)
 			(effects
@@ -203976,15 +202563,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 224.79 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 224.79 114.3 0)
 			(effects
 				(font
@@ -204101,15 +202679,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 330.2 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 330.2 53.34 0)
 			(effects
@@ -204212,15 +202781,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 213.36 0)
 			(effects
 				(font
@@ -204422,15 +202982,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 132.08 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 132.08 168.91 0)
 			(effects
@@ -204518,15 +203069,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 289.56 269.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 289.56 269.24 0)
 			(effects
 				(font
@@ -204644,15 +203186,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 265.43 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 265.43 233.68 0)
 			(effects
@@ -204740,15 +203273,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 275.59 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 275.59 266.7 0)
 			(effects
 				(font
@@ -204866,15 +203390,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 287.02 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 287.02 111.76 0)
 			(effects
@@ -204975,15 +203490,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 391.16 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 391.16 33.02 0)
 			(effects
 				(font
@@ -205161,15 +203667,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 378.46 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 378.46 254 0)
 			(effects
 				(font
@@ -205436,15 +203933,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 73.66 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 73.66 134.62 0)
 			(effects
 				(font
@@ -207415,15 +205903,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 391.16 53.34 0)
 			(effects
@@ -207512,15 +205991,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 96.52 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 96.52 187.96 0)
 			(effects
 				(font
@@ -209575,15 +208045,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 345.44 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C103KE14D"
 			(at 345.44 83.82 0)
 			(effects
@@ -209684,15 +208145,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 398.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 398.78 73.66 0)
 			(effects
 				(font
@@ -209810,15 +208262,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 265.43 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 265.43 203.2 0)
 			(effects
@@ -209899,15 +208342,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 297.18 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 297.18 241.3 0)
 			(effects
 				(font
@@ -210027,15 +208461,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 345.44 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 345.44 104.14 0)
 			(effects
@@ -210136,15 +208561,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 360.68 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 360.68 104.14 0)
 			(effects
 				(font
@@ -210262,15 +208678,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 152.4 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 152.4 213.36 0)
 			(effects
@@ -210371,15 +208778,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 355.6 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 355.6 45.72 0)
 			(effects
 				(font
@@ -210580,15 +208978,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 345.44 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 345.44 144.78 0)
 			(effects
@@ -210689,15 +209078,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 398.78 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 398.78 114.3 0)
 			(effects
 				(font
@@ -210983,15 +209363,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 114.3 0)
 			(effects
@@ -211092,15 +209463,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 368.3 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 368.3 104.14 0)
 			(effects
 				(font
@@ -211217,15 +209579,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 398.78 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 398.78 144.78 0)
 			(effects
@@ -211321,15 +209674,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 264.16 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "ERJ-2RKF4990X"
 			(at 264.16 187.96 0)
 			(effects
@@ -211417,15 +209761,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 289.56 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 289.56 256.54 0)
 			(effects
 				(font
@@ -211627,15 +209962,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 144.78 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 144.78 213.36 0)
 			(effects
@@ -211722,15 +210048,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 326.39 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 326.39 198.12 0)
 			(effects
 				(font
@@ -211847,15 +210164,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 353.06 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 353.06 73.66 0)
 			(effects
@@ -211945,15 +210253,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 101.6 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 101.6 134.62 0)
 			(effects
 				(font
@@ -213911,15 +212210,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 289.56 266.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07604RL"
 			(at 289.56 266.7 0)
 			(effects
@@ -214020,15 +212310,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 353.06 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 353.06 83.82 0)
 			(effects
 				(font
@@ -214229,15 +212510,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033R71C472KE14D"
 			(at 391.16 83.82 0)
 			(effects
@@ -214338,15 +212610,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 368.3 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 368.3 22.86 0)
 			(effects
 				(font
@@ -214463,15 +212726,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 391.16 134.62 0)
 			(effects
@@ -214580,15 +212834,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 276.86 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 276.86 100.33 0)
 			(effects
@@ -214676,15 +212921,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 22.86 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 22.86 63.5 0)
 			(effects
 				(font
@@ -216907,15 +215143,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 391.16 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 391.16 22.86 0)
 			(effects
@@ -217016,15 +215243,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 262.89 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 262.89 215.9 0)
 			(effects
 				(font
@@ -217141,15 +215359,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 320.04 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 320.04 106.68 0)
 			(effects
@@ -217258,15 +215467,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 398.78 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 398.78 22.86 0)
 			(effects
@@ -217355,15 +215555,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 237.49 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 237.49 254 0)
 			(effects
 				(font
@@ -219419,15 +217610,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 312.42 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM158R61A226ME15D"
 			(at 312.42 22.86 0)
 			(effects
@@ -219528,15 +217710,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 83.82 0)
 			(effects
 				(font
@@ -219653,15 +217826,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 347.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 347.98 66.04 0)
 			(effects
@@ -219770,15 +217934,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 121.92 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 121.92 215.9 0)
 			(effects
@@ -219879,15 +218034,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 91.44 0)
 			(effects
 				(font
@@ -220173,15 +218319,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 297.18 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 297.18 119.38 0)
 			(effects
@@ -220268,15 +218405,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 323.85 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 323.85 165.1 0)
 			(effects
 				(font
@@ -220393,15 +218521,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 383.54 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 383.54 134.62 0)
 			(effects
@@ -220502,15 +218621,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 337.82 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 337.82 114.3 0)
 			(effects
 				(font
@@ -220628,15 +218738,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 276.86 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "JMK063ABJ105KP-F"
 			(at 276.86 92.71 0)
 			(effects
@@ -220737,15 +218838,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 320.04 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 320.04 33.02 0)
 			(effects
 				(font
@@ -220947,15 +219039,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 327.66 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM033Z71C104KE14D"
 			(at 327.66 43.18 0)
 			(effects
@@ -221134,15 +219217,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field-1" ""
-			(at 354.33 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0201FR-07100RL"
 			(at 354.33 162.56 0)
 			(effects
@@ -221244,15 +219318,6 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 383.54 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field-1" ""
 			(at 383.54 121.92 0)
 			(effects
 				(font
