@@ -6,14 +6,14 @@
         "apply_defaults_to_fp_fields": false,
         "apply_defaults_to_fp_shapes": false,
         "apply_defaults_to_fp_text": false,
-        "board_outline_line_width": 0.09999999999999999,
-        "copper_line_width": 0.09999999999999999,
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.1,
         "copper_text_italic": false,
         "copper_text_size_h": 0.5,
         "copper_text_size_v": 0.5,
-        "copper_text_thickness": 0.09999999999999999,
+        "copper_text_thickness": 0.1,
         "copper_text_upright": false,
-        "courtyard_line_width": 0.09999999999999999,
+        "courtyard_line_width": 0.1,
         "dimension_precision": 4,
         "dimension_units": 3,
         "dimensions": {
@@ -24,28 +24,28 @@
           "text_position": 0,
           "units_format": 1
         },
-        "fab_line_width": 0.09999999999999999,
+        "fab_line_width": 0.1,
         "fab_text_italic": false,
         "fab_text_size_h": 0.5,
         "fab_text_size_v": 0.5,
-        "fab_text_thickness": 0.09999999999999999,
+        "fab_text_thickness": 0.1,
         "fab_text_upright": false,
-        "other_line_width": 0.09999999999999999,
+        "other_line_width": 0.1,
         "other_text_italic": false,
         "other_text_size_h": 0.5,
         "other_text_size_v": 0.5,
-        "other_text_thickness": 0.09999999999999999,
+        "other_text_thickness": 0.1,
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
           "height": 0.39,
           "width": 0.39
         },
-        "silk_line_width": 0.09999999999999999,
+        "silk_line_width": 0.1,
         "silk_text_italic": false,
         "silk_text_size_h": 0.5,
         "silk_text_size_v": 0.5,
-        "silk_text_thickness": 0.09999999999999999,
+        "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
           "min_clearance": 0.0
@@ -88,7 +88,172 @@
           "width": 0.14
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|132737125|127756862|0a5ecc2c-5294-4c6b-813c-e92f2c5cbf2f|ed028848-a8e9-4ae4-ac1b-8a18f93906f2",
+          ""
+        ],
+        [
+          "clearance|132739499|125324531|f9d02922-40e7-4c9b-81f8-a1912247adbc|e6191ec3-ce07-4a94-a782-26d6a28d3083",
+          ""
+        ],
+        [
+          "clearance|132748735|125320014|e23e281c-9862-494b-b9aa-4b402a91347d|e6191ec3-ce07-4a94-a782-26d6a28d3083",
+          ""
+        ],
+        [
+          "clearance|132756592|127349847|0a5ecc2c-5294-4c6b-813c-e92f2c5cbf2f|73f53477-0059-4f0f-bf65-dc79969384cd",
+          ""
+        ],
+        [
+          "clearance|132760289|127345326|ef858e59-9754-45d6-8497-9faaa2d947ba|73f53477-0059-4f0f-bf65-dc79969384cd",
+          ""
+        ],
+        [
+          "clearance|132786500|127369507|ef858e59-9754-45d6-8497-9faaa2d947ba|ed028848-a8e9-4ae4-ac1b-8a18f93906f2",
+          ""
+        ],
+        [
+          "clearance|132799677|125318478|e23e281c-9862-494b-b9aa-4b402a91347d|08b4c202-84f3-48dc-91ec-4c5fe33991fb",
+          ""
+        ],
+        [
+          "clearance|132799677|125318478|f9d02922-40e7-4c9b-81f8-a1912247adbc|08b4c202-84f3-48dc-91ec-4c5fe33991fb",
+          ""
+        ],
+        [
+          "clearance|132873253|127226060|2da6025c-c7c3-4674-a250-74da2c97d37a|73f53477-0059-4f0f-bf65-dc79969384cd",
+          ""
+        ],
+        [
+          "clearance|132915481|125745014|da7d88b2-1108-43d6-8035-df6fcfd30467|f9d02922-40e7-4c9b-81f8-a1912247adbc",
+          ""
+        ],
+        [
+          "clearance|132915481|128195014|da7d88b2-1108-43d6-8035-df6fcfd30467|0a5ecc2c-5294-4c6b-813c-e92f2c5cbf2f",
+          ""
+        ],
+        [
+          "clearance|132916132|125320472|da7d88b2-1108-43d6-8035-df6fcfd30467|08b4c202-84f3-48dc-91ec-4c5fe33991fb",
+          ""
+        ],
+        [
+          "clearance|132918182|126336432|da7d88b2-1108-43d6-8035-df6fcfd30467|ed028848-a8e9-4ae4-ac1b-8a18f93906f2",
+          ""
+        ],
+        [
+          "clearance|132939057|127291814|da7d88b2-1108-43d6-8035-df6fcfd30467|73f53477-0059-4f0f-bf65-dc79969384cd",
+          ""
+        ],
+        [
+          "clearance|132939508|125797736|83f2f2a6-4062-4231-92c3-74f3ac0df3b9|08b4c202-84f3-48dc-91ec-4c5fe33991fb",
+          ""
+        ],
+        [
+          "clearance|133355597|124940836|da7d88b2-1108-43d6-8035-df6fcfd30467|e6191ec3-ce07-4a94-a782-26d6a28d3083",
+          ""
+        ],
+        [
+          "clearance|133612729|126546758|2da6025c-c7c3-4674-a250-74da2c97d37a|ed028848-a8e9-4ae4-ac1b-8a18f93906f2",
+          ""
+        ],
+        [
+          "clearance|133612729|126546758|83f2f2a6-4062-4231-92c3-74f3ac0df3b9|ed028848-a8e9-4ae4-ac1b-8a18f93906f2",
+          ""
+        ],
+        [
+          "clearance|133613971|126536023|2da6025c-c7c3-4674-a250-74da2c97d37a|e6191ec3-ce07-4a94-a782-26d6a28d3083",
+          ""
+        ],
+        [
+          "clearance|133613971|126536023|83f2f2a6-4062-4231-92c3-74f3ac0df3b9|e6191ec3-ce07-4a94-a782-26d6a28d3083",
+          ""
+        ],
+        [
+          "clearance|72218232|126543269|1de920d2-d422-49ed-befd-24a4695e0270|c3ffeafd-8e1c-42a2-b3f8-95dacbfd3c3b",
+          ""
+        ],
+        [
+          "clearance|72224174|126542075|1de920d2-d422-49ed-befd-24a4695e0270|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|72224174|126542075|8ca04cd1-5aa8-417e-b048-0722da886fd2|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|72224174|126542075|b2d9d358-5628-42d7-a878-c964d1c8206c|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|72314645|127204178|5efcf431-671b-4f34-aad5-479259490ae7|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|72461440|124940811|8ca04cd1-5aa8-417e-b048-0722da886fd2|c3ffeafd-8e1c-42a2-b3f8-95dacbfd3c3b",
+          ""
+        ],
+        [
+          "clearance|72888494|125789303|8ca04cd1-5aa8-417e-b048-0722da886fd2|8d7cd4f8-f916-42e0-99d1-faa6969eb1cc",
+          ""
+        ],
+        [
+          "clearance|72905988|127614612|8ca04cd1-5aa8-417e-b048-0722da886fd2|0ed4d0e1-c9e9-4c7c-8eb3-90eae32545d6",
+          ""
+        ],
+        [
+          "clearance|72913380|127771922|5efcf431-671b-4f34-aad5-479259490ae7|0ed4d0e1-c9e9-4c7c-8eb3-90eae32545d6",
+          ""
+        ],
+        [
+          "clearance|72915481|124895014|8ca04cd1-5aa8-417e-b048-0722da886fd2|3f8d9043-ede3-4a33-8aaa-dc4c2b1a7bed",
+          ""
+        ],
+        [
+          "clearance|72915481|128195014|8ca04cd1-5aa8-417e-b048-0722da886fd2|e73ff672-7204-4a66-aa6d-77322bff7415",
+          ""
+        ],
+        [
+          "clearance|72918692|125312724|3f8d9043-ede3-4a33-8aaa-dc4c2b1a7bed|8d7cd4f8-f916-42e0-99d1-faa6969eb1cc",
+          ""
+        ],
+        [
+          "clearance|72922528|127614194|e73ff672-7204-4a66-aa6d-77322bff7415|0ed4d0e1-c9e9-4c7c-8eb3-90eae32545d6",
+          ""
+        ],
+        [
+          "clearance|73034085|127761336|6212d28d-79e4-489c-a4d3-32d33f553ec1|0ed4d0e1-c9e9-4c7c-8eb3-90eae32545d6",
+          ""
+        ],
+        [
+          "clearance|73039239|125322582|cdcf5d10-63a5-413e-8db0-51cdc4111a94|8d7cd4f8-f916-42e0-99d1-faa6969eb1cc",
+          ""
+        ],
+        [
+          "clearance|73040433|127714483|e73ff672-7204-4a66-aa6d-77322bff7415|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|73040481|125320014|3f8d9043-ede3-4a33-8aaa-dc4c2b1a7bed|c3ffeafd-8e1c-42a2-b3f8-95dacbfd3c3b",
+          ""
+        ],
+        [
+          "clearance|73040481|125320014|cdcf5d10-63a5-413e-8db0-51cdc4111a94|c3ffeafd-8e1c-42a2-b3f8-95dacbfd3c3b",
+          ""
+        ],
+        [
+          "clearance|73040481|127715537|6212d28d-79e4-489c-a4d3-32d33f553ec1|8a89a7c8-ed09-4f5a-bacc-30e74b2476bb",
+          ""
+        ],
+        [
+          "clearance|73044462|125720521|b2d9d358-5628-42d7-a878-c964d1c8206c|c3ffeafd-8e1c-42a2-b3f8-95dacbfd3c3b",
+          ""
+        ],
+        [
+          "clearance|73070671|125744701|b2d9d358-5628-42d7-a878-c964d1c8206c|8d7cd4f8-f916-42e0-99d1-faa6969eb1cc",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -99,16 +264,20 @@
         "copper_edge_clearance": "error",
         "copper_sliver": "error",
         "courtyards_overlap": "ignore",
+        "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "error",
         "extra_footprint": "error",
         "footprint": "error",
+        "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "hole_to_hole": "warning",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "error",
         "item_on_disabled_layer": "error",
@@ -135,7 +304,9 @@
         "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
+        "track_angle": "error",
         "track_dangling": "ignore",
+        "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
         "unconnected_items": "error",
@@ -147,14 +318,14 @@
         "max_error": 0.005,
         "min_clearance": 0.0765,
         "min_connection": 0.0765,
-        "min_copper_edge_clearance": 0.39999999999999997,
+        "min_copper_edge_clearance": 0.4,
         "min_hole_clearance": 0.0765,
         "min_hole_to_hole": 0.0765,
-        "min_microvia_diameter": 0.19999999999999998,
-        "min_microvia_drill": 0.09999999999999999,
+        "min_microvia_diameter": 0.2,
+        "min_microvia_drill": 0.1,
         "min_resolved_spokes": 1,
-        "min_silk_clearance": 0.09999999999999999,
-        "min_text_height": 0.7999999999999999,
+        "min_silk_clearance": 0.1,
+        "min_text_height": 0.8,
         "min_text_thickness": 0.12,
         "min_through_hole_diameter": 0.0765,
         "min_track_width": 0.0765,
@@ -167,10 +338,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpadsmd": true,
+          "td_onpthpad": true,
           "td_onroundshapesonly": true,
+          "td_onsmdpad": true,
           "td_ontrackend": true,
-          "td_onviapad": true
+          "td_onvia": true
         }
       ],
       "teardrop_parameters": [
@@ -263,6 +435,7 @@
       "mfg": "",
       "mpn": ""
     },
+    "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
@@ -454,14 +627,20 @@
       "conflicting_netclasses": "ignore",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
+      "duplicate_pins": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "ignore",
       "endpoint_off_grid": "error",
       "extra_units": "ignore",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "error",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
+      "label_multiple_wires": "warning",
       "lib_symbol_issues": "ignore",
+      "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "ignore",
       "missing_input_pin": "ignore",
       "missing_power_pin": "ignore",
@@ -470,13 +649,19 @@
       "net_not_bus_member": "ignore",
       "no_connect_connected": "error",
       "no_connect_dangling": "error",
+      "overlapping_rule_areas": "error",
       "pin_not_connected": "error",
       "pin_not_driven": "ignore",
       "pin_to_pin": "ignore",
       "power_pin_not_driven": "ignore",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
       "similar_labels": "ignore",
+      "similar_power": "warning",
       "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
       "unannotated": "ignore",
+      "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
       "unresolved_variable": "ignore",
       "wire_dangling": "error"
@@ -508,6 +693,7 @@
         "microvia_drill": 0.2,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.3,
@@ -518,13 +704,13 @@
         "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.2,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1,
         "line_style": 0,
         "microvia_diameter": 0.4,
         "microvia_drill": 0.2,
         "name": "DRamSE",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.3,
@@ -535,13 +721,13 @@
         "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.14,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.11,
         "line_style": 0,
         "microvia_diameter": 0.4,
         "microvia_drill": 0.2,
         "name": "D_85",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.811,
         "via_diameter": 0.3,
@@ -552,13 +738,13 @@
         "bus_width": 12,
         "clearance": 0.09,
         "diff_pair_gap": 0.2,
-        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1,
         "line_style": 0,
         "microvia_diameter": 0.4,
         "microvia_drill": 0.2,
         "name": "L5V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
         "schematic_color": "rgb(0, 72, 0)",
         "track_width": 0.25,
         "via_diameter": 0.3,
@@ -567,10 +753,2207 @@
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/IO/25MHZ_P1I": [
+        ""
+      ],
+      "/IO/25MHZ_P1O": [
+        ""
+      ],
+      "/IO/25MHZ_P2I": [
+        ""
+      ],
+      "/IO/25MHZ_P2O": [
+        ""
+      ],
+      "/IO/ENET_2.5V_A": [
+        ""
+      ],
+      "/IO/LED0": [
+        ""
+      ],
+      "/IO/LED1": [
+        ""
+      ],
+      "/IO/LNA_IN": [
+        ""
+      ],
+      "/IO/PCIE1_REQ": [
+        ""
+      ],
+      "/IO/PCIE2_REQ": [
+        ""
+      ],
+      "/IO/RAM_CS": [
+        ""
+      ],
+      "/IO/SCLK": [
+        ""
+      ],
+      "/IO/SIO0": [
+        ""
+      ],
+      "/IO/SIO1": [
+        ""
+      ],
+      "/IO/SIO2": [
+        ""
+      ],
+      "/IO/SIO3": [
+        ""
+      ],
+      "/IO/VDD1A": [
+        ""
+      ],
+      "/IO/VDDMDIO": [
+        ""
+      ],
+      "/IO/XTAL1": [
+        ""
+      ],
+      "/IO/XTAL2": [
+        ""
+      ],
+      "/MPU/25MHZ_I": [
+        ""
+      ],
+      "/MPU/25MHZ_O": [
+        ""
+      ],
+      "/MPU/27MHZ_I": [
+        ""
+      ],
+      "/MPU/27MHZ_O": [
+        ""
+      ],
+      "/MPU/H0_N": [
+        "D_100"
+      ],
+      "/MPU/H0_P": [
+        "D_100"
+      ],
+      "/MPU/H1_N": [
+        "D_100"
+      ],
+      "/MPU/H1_P": [
+        "D_100"
+      ],
+      "/MPU/H2_N": [
+        "D_100"
+      ],
+      "/MPU/H2_P": [
+        "D_100"
+      ],
+      "/MPU/H3_N": [
+        "D_100"
+      ],
+      "/MPU/H3_P": [
+        "D_100"
+      ],
+      "/MPU/H4_N": [
+        "D_100"
+      ],
+      "/MPU/H4_P": [
+        "D_100"
+      ],
+      "/MPU/H5_N": [
+        "D_100"
+      ],
+      "/MPU/H5_P": [
+        "D_100"
+      ],
+      "/MPU/RTC_CLK": [
+        ""
+      ],
+      "/MPU/RTC_nRST": [
+        ""
+      ],
+      "/MPU/R_GND": [
+        ""
+      ],
+      "/MPU/U1_RX_N": [
+        "D_90"
+      ],
+      "/MPU/U1_RX_P": [
+        "D_90"
+      ],
+      "/MPU/U1_TX_N": [
+        "D_90"
+      ],
+      "/MPU/U1_TX_P": [
+        "D_90"
+      ],
+      "/MPU/U2_RX_N": [
+        "D_90"
+      ],
+      "/MPU/U2_RX_P": [
+        "D_90"
+      ],
+      "/MPU/U2_TX_N": [
+        "D_90"
+      ],
+      "/MPU/U2_TX_P": [
+        "D_90"
+      ],
+      "/MPU/VDDA_0P9": [
+        ""
+      ],
+      "/MPU/pi2_N": [
+        "D_85"
+      ],
+      "/MPU/pi2_P": [
+        "D_85"
+      ],
+      "/MPU/pi_N": [
+        "D_85"
+      ],
+      "/MPU/pi_P": [
+        "D_85"
+      ],
+      "/POWER/MNRST": [
+        ""
+      ],
+      "/POWER/PMIC_ON": [
+        ""
+      ],
+      "/POWER/P_MODE": [
+        ""
+      ],
+      "/POWER/SIC4020A_VDD": [
+        ""
+      ],
+      "/POWER/SOC_EN": [
+        ""
+      ],
+      "3.3V_SW": [
+        ""
+      ],
+      "3.3V_SW_DELAYED": [
+        ""
+      ],
+      "BOOT_MODE0": [
+        ""
+      ],
+      "BOOT_MODE1": [
+        ""
+      ],
+      "BOOT_SEL": [
+        ""
+      ],
+      "CLK1_N": [
+        ""
+      ],
+      "CLK1_P": [
+        ""
+      ],
+      "CLK2_N": [
+        ""
+      ],
+      "CLK2_P": [
+        ""
+      ],
+      "DRAMREF": [
+        ""
+      ],
+      "DRAM_CA0_A": [
+        ""
+      ],
+      "DRAM_CA0_B": [
+        ""
+      ],
+      "DRAM_CA1_A": [
+        ""
+      ],
+      "DRAM_CA1_B": [
+        ""
+      ],
+      "DRAM_CA2_A": [
+        ""
+      ],
+      "DRAM_CA2_B": [
+        ""
+      ],
+      "DRAM_CA3_A": [
+        ""
+      ],
+      "DRAM_CA3_B": [
+        ""
+      ],
+      "DRAM_CA4_A": [
+        ""
+      ],
+      "DRAM_CA4_B": [
+        ""
+      ],
+      "DRAM_CA5_A": [
+        ""
+      ],
+      "DRAM_CA5_B": [
+        ""
+      ],
+      "DRAM_CKA_N": [
+        "D_85"
+      ],
+      "DRAM_CKA_P": [
+        "D_85"
+      ],
+      "DRAM_CKB_N": [
+        "D_85"
+      ],
+      "DRAM_CKB_P": [
+        "D_85"
+      ],
+      "DRAM_CKE0_A": [
+        ""
+      ],
+      "DRAM_CKE0_B": [
+        ""
+      ],
+      "DRAM_CKE1_A": [
+        ""
+      ],
+      "DRAM_CKE1_B": [
+        ""
+      ],
+      "DRAM_DM0": [
+        "S_42"
+      ],
+      "DRAM_DM1": [
+        "S_42"
+      ],
+      "DRAM_DM2": [
+        "S_42"
+      ],
+      "DRAM_DM3": [
+        "S_42"
+      ],
+      "DRAM_DQ0": [
+        "S_42"
+      ],
+      "DRAM_DQ1": [
+        "S_42"
+      ],
+      "DRAM_DQ10": [
+        "S_42"
+      ],
+      "DRAM_DQ11": [
+        "S_42"
+      ],
+      "DRAM_DQ12": [
+        "S_42"
+      ],
+      "DRAM_DQ13": [
+        "S_42"
+      ],
+      "DRAM_DQ14": [
+        "S_42"
+      ],
+      "DRAM_DQ15": [
+        "S_42"
+      ],
+      "DRAM_DQ16": [
+        "S_42"
+      ],
+      "DRAM_DQ17": [
+        "S_42"
+      ],
+      "DRAM_DQ18": [
+        "S_42"
+      ],
+      "DRAM_DQ19": [
+        "S_42"
+      ],
+      "DRAM_DQ2": [
+        "S_42"
+      ],
+      "DRAM_DQ20": [
+        "S_42"
+      ],
+      "DRAM_DQ21": [
+        "S_42"
+      ],
+      "DRAM_DQ22": [
+        "S_42"
+      ],
+      "DRAM_DQ23": [
+        "S_42"
+      ],
+      "DRAM_DQ24": [
+        "S_42"
+      ],
+      "DRAM_DQ25": [
+        "S_42"
+      ],
+      "DRAM_DQ26": [
+        "S_42"
+      ],
+      "DRAM_DQ27": [
+        "S_42"
+      ],
+      "DRAM_DQ28": [
+        "S_42"
+      ],
+      "DRAM_DQ29": [
+        "S_42"
+      ],
+      "DRAM_DQ3": [
+        "S_42"
+      ],
+      "DRAM_DQ30": [
+        "S_42"
+      ],
+      "DRAM_DQ31": [
+        "S_42"
+      ],
+      "DRAM_DQ4": [
+        "S_42"
+      ],
+      "DRAM_DQ5": [
+        "S_42"
+      ],
+      "DRAM_DQ6": [
+        "S_42"
+      ],
+      "DRAM_DQ7": [
+        "S_42"
+      ],
+      "DRAM_DQ8": [
+        "S_42"
+      ],
+      "DRAM_DQ9": [
+        "S_42"
+      ],
+      "DRAM_DQS0_N": [
+        "D_85"
+      ],
+      "DRAM_DQS0_P": [
+        "D_85"
+      ],
+      "DRAM_DQS1_N": [
+        "D_85"
+      ],
+      "DRAM_DQS1_P": [
+        "D_85"
+      ],
+      "DRAM_DQS2_N": [
+        "D_85"
+      ],
+      "DRAM_DQS2_P": [
+        "D_85"
+      ],
+      "DRAM_DQS3_N": [
+        "D_85"
+      ],
+      "DRAM_DQS3_P": [
+        "D_85"
+      ],
+      "DRAM_VREF": [
+        ""
+      ],
+      "DRAM_nCS0_A": [
+        ""
+      ],
+      "DRAM_nCS0_B": [
+        ""
+      ],
+      "DRAM_nCS1_A": [
+        ""
+      ],
+      "DRAM_nCS1_B": [
+        ""
+      ],
+      "DRAM_nRST": [
+        ""
+      ],
+      "DSI_CLK_N": [
+        "D_100"
+      ],
+      "DSI_CLK_P": [
+        "D_100"
+      ],
+      "DSI_D0_N": [
+        "D_100"
+      ],
+      "DSI_D0_P": [
+        "D_100"
+      ],
+      "DSI_D1_N": [
+        "D_100"
+      ],
+      "DSI_D1_P": [
+        "D_100"
+      ],
+      "DSI_D2_N": [
+        "D_100"
+      ],
+      "DSI_D2_P": [
+        "D_100"
+      ],
+      "DSI_D3_N": [
+        "D_100"
+      ],
+      "DSI_D3_P": [
+        "D_100"
+      ],
+      "ENET_INT": [
+        "S_50"
+      ],
+      "ENET_MDC": [
+        "S_50"
+      ],
+      "ENET_MDIO": [
+        "S_50"
+      ],
+      "ENET_NRST": [
+        "S_50"
+      ],
+      "ENET_RD0": [
+        "S_50"
+      ],
+      "ENET_RD1": [
+        "S_50"
+      ],
+      "ENET_RD2": [
+        "S_50"
+      ],
+      "ENET_RD3": [
+        "S_50"
+      ],
+      "ENET_RXC": [
+        "S_50"
+      ],
+      "ENET_RX_CTL": [
+        "S_50"
+      ],
+      "ENET_TD0": [
+        "S_50"
+      ],
+      "ENET_TD1": [
+        "S_50"
+      ],
+      "ENET_TD2": [
+        "S_50"
+      ],
+      "ENET_TD3": [
+        "S_50"
+      ],
+      "ENET_TXC": [
+        "S_50"
+      ],
+      "ENET_TX_CTL": [
+        "S_50"
+      ],
+      "ESP32_RX": [
+        ""
+      ],
+      "ESP32_TX": [
+        ""
+      ],
+      "GBE0_MDI0_N": [
+        ""
+      ],
+      "GBE0_MDI0_P": [
+        ""
+      ],
+      "GBE0_MDI1_N": [
+        ""
+      ],
+      "GBE0_MDI1_P": [
+        ""
+      ],
+      "GBE0_MDI2_N": [
+        ""
+      ],
+      "GBE0_MDI2_P": [
+        ""
+      ],
+      "GBE0_MDI3_N": [
+        ""
+      ],
+      "GBE0_MDI3_P": [
+        ""
+      ],
+      "GND": [
+        ""
+      ],
+      "GPIO0": [
+        ""
+      ],
+      "GPIO10": [
+        ""
+      ],
+      "GPIO3": [
+        ""
+      ],
+      "GPIO4": [
+        ""
+      ],
+      "GPIO5": [
+        ""
+      ],
+      "GPIO6": [
+        ""
+      ],
+      "GPIO8": [
+        ""
+      ],
+      "GPIO9": [
+        ""
+      ],
+      "HDMI_AUX_N": [
+        ""
+      ],
+      "HDMI_AUX_P": [
+        ""
+      ],
+      "HDMI_CEC": [
+        ""
+      ],
+      "HDMI_HDP": [
+        ""
+      ],
+      "HDMI_REFCLK_N": [
+        ""
+      ],
+      "HDMI_REFCLK_P": [
+        ""
+      ],
+      "HDMI_SCL": [
+        ""
+      ],
+      "HDMI_SDA": [
+        ""
+      ],
+      "HDMI_TX0_N": [
+        ""
+      ],
+      "HDMI_TX0_P": [
+        ""
+      ],
+      "HDMI_TX1_N": [
+        ""
+      ],
+      "HDMI_TX1_P": [
+        ""
+      ],
+      "HDMI_TX2_N": [
+        ""
+      ],
+      "HDMI_TX2_P": [
+        ""
+      ],
+      "HDMI_TX3_N": [
+        ""
+      ],
+      "HDMI_TX3_P": [
+        ""
+      ],
+      "HOST_PCIE1_CLK_N": [
+        ""
+      ],
+      "HOST_PCIE1_CLK_P": [
+        ""
+      ],
+      "HOST_PCIE2_CLK_N": [
+        "D_100"
+      ],
+      "HOST_PCIE2_CLK_P": [
+        "D_100"
+      ],
+      "I2C1_SCL": [
+        ""
+      ],
+      "I2C1_SDA": [
+        ""
+      ],
+      "I2C2_SCL": [
+        ""
+      ],
+      "I2C2_SDA": [
+        ""
+      ],
+      "I2C3_SCL": [
+        ""
+      ],
+      "I2C3_SDA": [
+        ""
+      ],
+      "IX8_PCIE1_CLK_N": [
+        "D_100"
+      ],
+      "IX8_PCIE1_CLK_P": [
+        "D_100"
+      ],
+      "IX8_PCIE2_CLK_N": [
+        "D_100"
+      ],
+      "IX8_PCIE2_CLK_P": [
+        "D_100"
+      ],
+      "JTAG_TCK": [
+        ""
+      ],
+      "JTAG_TDI": [
+        ""
+      ],
+      "JTAG_TDO": [
+        ""
+      ],
+      "JTAG_TMS": [
+        ""
+      ],
+      "JTAG_nTRS": [
+        ""
+      ],
+      "NAND_DATA0": [
+        ""
+      ],
+      "NAND_DATA1": [
+        ""
+      ],
+      "NAND_DATA2": [
+        ""
+      ],
+      "NAND_DATA3": [
+        ""
+      ],
+      "NVCC_DRAM_1V1": [
+        ""
+      ],
+      "NVCC_ENET_2V5": [
+        ""
+      ],
+      "NVCC_SD1_1V8": [
+        ""
+      ],
+      "NVCC_SD2": [
+        ""
+      ],
+      "NWDOG": [
+        ""
+      ],
+      "Net-(C17-Pad2)": [
+        ""
+      ],
+      "Net-(C287-Pad1)": [
+        ""
+      ],
+      "Net-(C288-Pad1)": [
+        ""
+      ],
+      "Net-(C289-Pad1)": [
+        ""
+      ],
+      "Net-(C290-Pad1)": [
+        ""
+      ],
+      "Net-(C291-Pad1)": [
+        ""
+      ],
+      "Net-(C327-Pad1)": [
+        ""
+      ],
+      "Net-(C328-Pad1)": [
+        ""
+      ],
+      "Net-(C56-Pad2)": [
+        ""
+      ],
+      "Net-(C57-Pad2)": [
+        ""
+      ],
+      "Net-(D10-K)": [
+        ""
+      ],
+      "Net-(D11-A)": [
+        ""
+      ],
+      "Net-(D2-K)": [
+        ""
+      ],
+      "Net-(D3-K)": [
+        ""
+      ],
+      "Net-(D4-K)": [
+        ""
+      ],
+      "Net-(D5-A)": [
+        ""
+      ],
+      "Net-(D5-K)": [
+        ""
+      ],
+      "Net-(D6-A)": [
+        ""
+      ],
+      "Net-(D6-K)": [
+        ""
+      ],
+      "Net-(D7-A)": [
+        ""
+      ],
+      "Net-(D9-K)": [
+        ""
+      ],
+      "Net-(J2-Pin_1)": [
+        ""
+      ],
+      "Net-(J2-Pin_7)": [
+        ""
+      ],
+      "Net-(J2-Pin_9)": [
+        ""
+      ],
+      "Net-(J3-In)": [
+        ""
+      ],
+      "Net-(J3-Pin_1)": [
+        ""
+      ],
+      "Net-(J3-Pin_7)": [
+        ""
+      ],
+      "Net-(J3-Pin_9)": [
+        ""
+      ],
+      "Net-(J4-In)": [
+        ""
+      ],
+      "Net-(L6-Pad1)": [
+        ""
+      ],
+      "Net-(L8-Pad1)": [
+        ""
+      ],
+      "Net-(L9-Pad1)": [
+        ""
+      ],
+      "Net-(Q1-D)": [
+        ""
+      ],
+      "Net-(Q1-G)": [
+        ""
+      ],
+      "Net-(R6-Pad1)": [
+        ""
+      ],
+      "Net-(R78-Pad2)": [
+        ""
+      ],
+      "Net-(R79-Pad2)": [
+        ""
+      ],
+      "Net-(R8-Pad2)": [
+        ""
+      ],
+      "Net-(R80-Pad2)": [
+        ""
+      ],
+      "Net-(R81-Pad2)": [
+        ""
+      ],
+      "Net-(U11-VDD)": [
+        ""
+      ],
+      "Net-(U12A-ODT_CA_A)": [
+        ""
+      ],
+      "Net-(U12A-ODT_CA_B)": [
+        ""
+      ],
+      "Net-(U12A-ZQ0)": [
+        ""
+      ],
+      "Net-(U12A-ZQ1)": [
+        ""
+      ],
+      "Net-(U13-VDDI)": [
+        ""
+      ],
+      "Net-(U15-VDD1.8_1)": [
+        ""
+      ],
+      "Net-(U15-VDDA1.8)": [
+        ""
+      ],
+      "Net-(U16-VDD1.8_1)": [
+        ""
+      ],
+      "Net-(U16-VDDA1.8)": [
+        ""
+      ],
+      "Net-(U17-REFCLK_SEL_0)": [
+        ""
+      ],
+      "Net-(U17-REFCLK_SEL_1)": [
+        ""
+      ],
+      "Net-(U17-REF_FILT)": [
+        ""
+      ],
+      "Net-(U17-REF_REXT)": [
+        ""
+      ],
+      "Net-(U17-RXD0)": [
+        "S_50"
+      ],
+      "Net-(U17-RXD1)": [
+        "S_50"
+      ],
+      "Net-(U17-RXD2)": [
+        "S_50"
+      ],
+      "Net-(U17-RXD3)": [
+        "S_50"
+      ],
+      "Net-(U17-RX_CLK)": [
+        "S_50"
+      ],
+      "Net-(U17-RX_DV{slash}RX_CTL)": [
+        "S_50"
+      ],
+      "Net-(U1A-SW1ALX)": [
+        ""
+      ],
+      "Net-(U1A-SW1CLX)": [
+        ""
+      ],
+      "Net-(U1A-SW2LX)": [
+        ""
+      ],
+      "Net-(U1A-SW3ALX)": [
+        ""
+      ],
+      "Net-(U1A-SW4LX)": [
+        ""
+      ],
+      "Net-(U1B-VHALF)": [
+        ""
+      ],
+      "Net-(U1B-VIN3)": [
+        ""
+      ],
+      "Net-(U1C-ICTEST)": [
+        ""
+      ],
+      "Net-(U1C-VCORE)": [
+        ""
+      ],
+      "Net-(U1C-VCOREDIG)": [
+        ""
+      ],
+      "Net-(U1C-VCOREREF)": [
+        ""
+      ],
+      "Net-(U1C-VDDOTP)": [
+        ""
+      ],
+      "Net-(U2-BST)": [
+        ""
+      ],
+      "Net-(U2-ENL)": [
+        ""
+      ],
+      "Net-(U2-EN{slash}PSV)": [
+        ""
+      ],
+      "Net-(U2-FB)": [
+        ""
+      ],
+      "Net-(U2-FBL)": [
+        ""
+      ],
+      "Net-(U2-ILIM)": [
+        ""
+      ],
+      "Net-(U2-SS)": [
+        ""
+      ],
+      "Net-(U2-TON)": [
+        ""
+      ],
+      "Net-(U2-VDD)": [
+        ""
+      ],
+      "Net-(U4-ADJ)": [
+        ""
+      ],
+      "Net-(U4-EN)": [
+        ""
+      ],
+      "Net-(U5-EN)": [
+        ""
+      ],
+      "Net-(U5-FB)": [
+        ""
+      ],
+      "Net-(U5-OUT)": [
+        ""
+      ],
+      "Net-(U6-SW)": [
+        ""
+      ],
+      "Net-(U6-VOS)": [
+        ""
+      ],
+      "Net-(U6-VSET)": [
+        ""
+      ],
+      "Net-(U7-FB)": [
+        ""
+      ],
+      "Net-(U7-OUT)": [
+        ""
+      ],
+      "Net-(U9A-MIPI_VDD1)": [
+        ""
+      ],
+      "Net-(U9B-ZQ_{slash}_ZQ_{slash}_ZQ)": [
+        ""
+      ],
+      "Net-(U9H-JTAG_MOD)": [
+        ""
+      ],
+      "Net-(U9H-TEST_MODE)": [
+        ""
+      ],
+      "Net-(U9J-HDMI_REXT)": [
+        ""
+      ],
+      "Net-(U9K-PCIE1_RESREF)": [
+        ""
+      ],
+      "Net-(U9K-PCIE2_RESREF)": [
+        ""
+      ],
+      "Net-(U9L-MIPI_DSI_REXT)": [
+        ""
+      ],
+      "Net-(U9M-USB1_RESREF)": [
+        ""
+      ],
+      "Net-(U9M-USB1_RX_N)": [
+        ""
+      ],
+      "Net-(U9M-USB1_RX_P)": [
+        ""
+      ],
+      "Net-(U9M-USB1_TX_N)": [
+        ""
+      ],
+      "Net-(U9M-USB1_TX_P)": [
+        ""
+      ],
+      "Net-(U9M-USB2_RESREF)": [
+        ""
+      ],
+      "Net-(U9M-USB2_RX_N)": [
+        ""
+      ],
+      "Net-(U9M-USB2_TX_N)": [
+        ""
+      ],
+      "Net-(U9M-USB2_TX_P7)": [
+        ""
+      ],
+      "ONOFF": [
+        ""
+      ],
+      "PCIE1_NCLKREQ": [
+        ""
+      ],
+      "PCIE1_RXN": [
+        "D_85"
+      ],
+      "PCIE1_RXP": [
+        "D_85"
+      ],
+      "PCIE1_TXN": [
+        ""
+      ],
+      "PCIE1_TXP": [
+        ""
+      ],
+      "PCIE1_nCLKREQ": [
+        ""
+      ],
+      "PCIE2_NCLKREQ": [
+        ""
+      ],
+      "PCIE2_RXN": [
+        "D_85"
+      ],
+      "PCIE2_RXP": [
+        "D_85"
+      ],
+      "PCIE2_TXN": [
+        ""
+      ],
+      "PCIE2_TXP": [
+        ""
+      ],
+      "PCIE2_nCLKREQ": [
+        ""
+      ],
+      "PG_VIN": [
+        ""
+      ],
+      "PMIC_ON_REQ": [
+        ""
+      ],
+      "PMIC_SCL": [
+        ""
+      ],
+      "PMIC_SDA": [
+        ""
+      ],
+      "PMIC_STBY_REQ": [
+        ""
+      ],
+      "PMIC_nINT": [
+        ""
+      ],
+      "POR_B": [
+        ""
+      ],
+      "QSPIA_SCLK": [
+        ""
+      ],
+      "QSPIA_nSS0 ": [
+        ""
+      ],
+      "SD1_CLK": [
+        ""
+      ],
+      "SD1_CMD": [
+        ""
+      ],
+      "SD1_D0": [
+        "NAND"
+      ],
+      "SD1_D1": [
+        "NAND"
+      ],
+      "SD1_D2": [
+        "NAND"
+      ],
+      "SD1_D3": [
+        "NAND"
+      ],
+      "SD1_D4": [
+        "NAND"
+      ],
+      "SD1_D5": [
+        "NAND"
+      ],
+      "SD1_D6": [
+        "NAND"
+      ],
+      "SD1_D7": [
+        "NAND"
+      ],
+      "SD1_STROBE": [
+        ""
+      ],
+      "SD1_nRST": [
+        ""
+      ],
+      "SD2_CLK": [
+        ""
+      ],
+      "SD2_CMD": [
+        ""
+      ],
+      "SD2_D0": [
+        ""
+      ],
+      "SD2_D1": [
+        ""
+      ],
+      "SD2_D2": [
+        ""
+      ],
+      "SD2_D3": [
+        ""
+      ],
+      "SD2_WP": [
+        ""
+      ],
+      "SD2_nCD": [
+        ""
+      ],
+      "SD2_nRST": [
+        ""
+      ],
+      "SPI1_MISO": [
+        ""
+      ],
+      "SPI1_MOSI": [
+        ""
+      ],
+      "SPI1_SCLK": [
+        ""
+      ],
+      "SPI1_SSO": [
+        ""
+      ],
+      "SPI2_MISO": [
+        ""
+      ],
+      "SPI2_MOSI": [
+        ""
+      ],
+      "SPI2_SCLK": [
+        ""
+      ],
+      "SPI2_SSO": [
+        ""
+      ],
+      "SYS_NRST": [
+        ""
+      ],
+      "SYS_NRST_OUT": [
+        ""
+      ],
+      "UART1_RXD": [
+        ""
+      ],
+      "UART1_TXD": [
+        ""
+      ],
+      "UART2_RXD": [
+        ""
+      ],
+      "UART2_TXD": [
+        ""
+      ],
+      "UART3_RXD": [
+        ""
+      ],
+      "UART3_TXD": [
+        ""
+      ],
+      "UART4_RXD": [
+        ""
+      ],
+      "UART4_TXD": [
+        ""
+      ],
+      "USB1_DN": [
+        "D_90"
+      ],
+      "USB1_DP": [
+        "D_90"
+      ],
+      "USB1_ID1": [
+        ""
+      ],
+      "USB1_OC": [
+        ""
+      ],
+      "USB1_PWR_EN": [
+        ""
+      ],
+      "USB1_RX_N": [
+        ""
+      ],
+      "USB1_RX_P": [
+        ""
+      ],
+      "USB1_TX_N": [
+        ""
+      ],
+      "USB1_TX_P": [
+        ""
+      ],
+      "USB1_VBUS": [
+        ""
+      ],
+      "USB2_DN": [
+        "D_90"
+      ],
+      "USB2_DP": [
+        "D_90"
+      ],
+      "USB2_ID1": [
+        ""
+      ],
+      "USB2_OC": [
+        ""
+      ],
+      "USB2_PWR_EN": [
+        ""
+      ],
+      "USB2_RX_N": [
+        ""
+      ],
+      "USB2_RX_P": [
+        ""
+      ],
+      "USB2_TX_N": [
+        ""
+      ],
+      "USB2_TX_P": [
+        ""
+      ],
+      "USB2_VBUS": [
+        ""
+      ],
+      "VBAT": [
+        ""
+      ],
+      "VDDA_1V8": [
+        ""
+      ],
+      "VDD_1V": [
+        ""
+      ],
+      "VDD_1V8": [
+        ""
+      ],
+      "VDD_ARM_0V9": [
+        ""
+      ],
+      "VDD_DRAM_0V9": [
+        ""
+      ],
+      "VDD_GPU_0V9": [
+        ""
+      ],
+      "VDD_PHY_0V9": [
+        ""
+      ],
+      "VDD_PHY_1V8": [
+        ""
+      ],
+      "VDD_PHY_3V3": [
+        ""
+      ],
+      "VDD_SNVS_0V9": [
+        ""
+      ],
+      "VDD_SOC_0V9": [
+        ""
+      ],
+      "VDD_VPU_0V9": [
+        ""
+      ],
+      "VIN": [
+        ""
+      ],
+      "unconnected-(C1-Pad1)": [
+        ""
+      ],
+      "unconnected-(C16-Pad2)": [
+        ""
+      ],
+      "unconnected-(C19-Pad1)": [
+        ""
+      ],
+      "unconnected-(C21-Pad1)": [
+        ""
+      ],
+      "unconnected-(C22-Pad1)": [
+        ""
+      ],
+      "unconnected-(C23-Pad1)": [
+        ""
+      ],
+      "unconnected-(C24-Pad2)": [
+        ""
+      ],
+      "unconnected-(C25-Pad2)": [
+        ""
+      ],
+      "unconnected-(C26-Pad2)": [
+        ""
+      ],
+      "unconnected-(C28-Pad1)": [
+        ""
+      ],
+      "unconnected-(C29-Pad1)": [
+        ""
+      ],
+      "unconnected-(C30-Pad1)": [
+        ""
+      ],
+      "unconnected-(C31-Pad1)": [
+        ""
+      ],
+      "unconnected-(C32-Pad1)": [
+        ""
+      ],
+      "unconnected-(C33-Pad1)": [
+        ""
+      ],
+      "unconnected-(C34-Pad1)": [
+        ""
+      ],
+      "unconnected-(C36-Pad1)": [
+        ""
+      ],
+      "unconnected-(C37-Pad1)": [
+        ""
+      ],
+      "unconnected-(C38-Pad1)": [
+        ""
+      ],
+      "unconnected-(C39-Pad1)": [
+        ""
+      ],
+      "unconnected-(C41-Pad1)": [
+        ""
+      ],
+      "unconnected-(C43-Pad1)": [
+        ""
+      ],
+      "unconnected-(C44-Pad1)": [
+        ""
+      ],
+      "unconnected-(C45-Pad1)": [
+        ""
+      ],
+      "unconnected-(C47-Pad1)": [
+        ""
+      ],
+      "unconnected-(C48-Pad1)": [
+        ""
+      ],
+      "unconnected-(C49-Pad1)": [
+        ""
+      ],
+      "unconnected-(C50-Pad1)": [
+        ""
+      ],
+      "unconnected-(C51-Pad1)": [
+        ""
+      ],
+      "unconnected-(C52-Pad1)": [
+        ""
+      ],
+      "unconnected-(C53-Pad1)": [
+        ""
+      ],
+      "unconnected-(C54-Pad1)": [
+        ""
+      ],
+      "unconnected-(C55-Pad1)": [
+        ""
+      ],
+      "unconnected-(C56-Pad2)": [
+        ""
+      ],
+      "unconnected-(C57-Pad1)": [
+        ""
+      ],
+      "unconnected-(C58-Pad1)": [
+        ""
+      ],
+      "unconnected-(C59-Pad1)": [
+        ""
+      ],
+      "unconnected-(C60-Pad1)": [
+        ""
+      ],
+      "unconnected-(C61-Pad1)": [
+        ""
+      ],
+      "unconnected-(C62-Pad1)": [
+        ""
+      ],
+      "unconnected-(C64-Pad1)": [
+        ""
+      ],
+      "unconnected-(C65-Pad1)": [
+        ""
+      ],
+      "unconnected-(C66-Pad1)": [
+        ""
+      ],
+      "unconnected-(C67-Pad2)": [
+        ""
+      ],
+      "unconnected-(C68-Pad1)": [
+        ""
+      ],
+      "unconnected-(C69-Pad1)": [
+        ""
+      ],
+      "unconnected-(C70-Pad1)": [
+        ""
+      ],
+      "unconnected-(C71-Pad2)": [
+        ""
+      ],
+      "unconnected-(C72-Pad1)": [
+        ""
+      ],
+      "unconnected-(C73-Pad1)": [
+        ""
+      ],
+      "unconnected-(C74-Pad1)": [
+        ""
+      ],
+      "unconnected-(C75-Pad1)": [
+        ""
+      ],
+      "unconnected-(C76-Pad2)": [
+        ""
+      ],
+      "unconnected-(C77-Pad1)": [
+        ""
+      ],
+      "unconnected-(C78-Pad2)": [
+        ""
+      ],
+      "unconnected-(C80-Pad2)": [
+        ""
+      ],
+      "unconnected-(C82-Pad1)": [
+        ""
+      ],
+      "unconnected-(C83-Pad1)": [
+        ""
+      ],
+      "unconnected-(C84-Pad2)": [
+        ""
+      ],
+      "unconnected-(C85-Pad1)": [
+        ""
+      ],
+      "unconnected-(C86-Pad2)": [
+        ""
+      ],
+      "unconnected-(D1-A1-Pad1)": [
+        ""
+      ],
+      "unconnected-(J1-BIOS_DIS1#-PadB88)": [
+        ""
+      ],
+      "unconnected-(J1-DD0_HPD-PadB89)": [
+        ""
+      ],
+      "unconnected-(J1-DDI0_PAIR5+_(*)-PadB91)": [
+        ""
+      ],
+      "unconnected-(J1-DDI0_PAIR5-_(*)-PadB92)": [
+        ""
+      ],
+      "unconnected-(J1-DDI0_PAIR6+_(*)-PadB93)": [
+        ""
+      ],
+      "unconnected-(J1-GND(FIXED)-PadA70)": [
+        ""
+      ],
+      "unconnected-(J1-GND(FIXED)-PadA80)": [
+        ""
+      ],
+      "unconnected-(J1-GPO2-PadB57)": [
+        ""
+      ],
+      "unconnected-(J1-LVDS_A3+-PadA78)": [
+        ""
+      ],
+      "unconnected-(J1-PCIE_RX3+-PadB58)": [
+        ""
+      ],
+      "unconnected-(J1-SPI_CS#_(**)-PadB97)": [
+        ""
+      ],
+      "unconnected-(J1-VCC_5V_SBY-PadB85)": [
+        ""
+      ],
+      "unconnected-(J1-VCC_5V_SBY-PadB86)": [
+        ""
+      ],
+      "unconnected-(J1-VCC_5V_SBY-PadB87)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_AUX+{slash}LVDS_I2C_CK-PadA83)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX0+{slash}LVDS_A2+-PadA75)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX1-{slash}LVDS_A1--PadA74)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX2+{slash}LVDS_A0+-PadA71)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX2-{slash}LVDS_A0--PadA72)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX3+{slash}LVDS_A_CK+-PadA81)": [
+        ""
+      ],
+      "unconnected-(J1-eDP_TX3-{slash}LVDS_A_CK--PadA82)": [
+        ""
+      ],
+      "unconnected-(J1-eDP{slash}LVDS_BKLT_EN-PadB79)": [
+        ""
+      ],
+      "unconnected-(J1-eDP{slash}LVDS_VDD_EN-PadA77)": [
+        ""
+      ],
+      "unconnected-(L6-Pad1)": [
+        ""
+      ],
+      "unconnected-(Q1-D-Pad1)": [
+        ""
+      ],
+      "unconnected-(Q1-G-Pad2)": [
+        ""
+      ],
+      "unconnected-(Q2-Pad4)": [
+        ""
+      ],
+      "unconnected-(Q2-Pad5)": [
+        ""
+      ],
+      "unconnected-(Q3-D-Pad1)": [
+        ""
+      ],
+      "unconnected-(Q3-G-Pad2)": [
+        ""
+      ],
+      "unconnected-(R10-Pad1)": [
+        ""
+      ],
+      "unconnected-(R11-Pad2)": [
+        ""
+      ],
+      "unconnected-(R15-Pad2)": [
+        ""
+      ],
+      "unconnected-(R2-Pad1)": [
+        ""
+      ],
+      "unconnected-(R2-Pad2)": [
+        ""
+      ],
+      "unconnected-(R20-Pad1)": [
+        ""
+      ],
+      "unconnected-(R23-Pad2)": [
+        ""
+      ],
+      "unconnected-(R24-Pad2)": [
+        ""
+      ],
+      "unconnected-(R26-Pad1)": [
+        ""
+      ],
+      "unconnected-(R3-Pad1)": [
+        ""
+      ],
+      "unconnected-(R30-Pad1)": [
+        ""
+      ],
+      "unconnected-(R32-Pad1)": [
+        ""
+      ],
+      "unconnected-(R4-Pad1)": [
+        ""
+      ],
+      "unconnected-(R9-Pad1)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_A1-PadA1)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_A11-PadA11)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_A12-PadA12)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_A2-PadA2)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_AA12-PadAA12)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_AB1-PadAB1)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_AB11-PadAB11)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_AB12-PadAB12)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_B1-PadB1)": [
+        ""
+      ],
+      "unconnected-(U12A-DNU_B12-PadB12)": [
+        ""
+      ],
+      "unconnected-(U12A-NC_G11-PadG11)": [
+        ""
+      ],
+      "unconnected-(U12A-NC_K5-PadK5)": [
+        ""
+      ],
+      "unconnected-(U12A-NC_K8-PadK8)": [
+        ""
+      ],
+      "unconnected-(U12A-NC_N5-PadN5)": [
+        ""
+      ],
+      "unconnected-(U12A-NC_N8-PadN8)": [
+        ""
+      ],
+      "unconnected-(U15-SADR-Pad4)": [
+        ""
+      ],
+      "unconnected-(U16-SADR-Pad4)": [
+        ""
+      ],
+      "unconnected-(U17-CLKOUT-Pad54)": [
+        ""
+      ],
+      "unconnected-(U17-CLK_SQUELCH_IN-Pad57)": [
+        ""
+      ],
+      "unconnected-(U17-COL-Pad18)": [
+        ""
+      ],
+      "unconnected-(U17-CRS-Pad19)": [
+        ""
+      ],
+      "unconnected-(U17-FASTLINK_FAIL-Pad52)": [
+        ""
+      ],
+      "unconnected-(U17-MII_TXCLK-Pad36)": [
+        ""
+      ],
+      "unconnected-(U17-RCVRD_CLK-Pad55)": [
+        ""
+      ],
+      "unconnected-(U17-RESERVED_0-Pad66)": [
+        ""
+      ],
+      "unconnected-(U17-RESERVED_1-Pad65)": [
+        ""
+      ],
+      "unconnected-(U17-RXD4-Pad24)": [
+        ""
+      ],
+      "unconnected-(U17-RXD5-Pad23)": [
+        ""
+      ],
+      "unconnected-(U17-RXD6-Pad21)": [
+        ""
+      ],
+      "unconnected-(U17-RXD7-Pad20)": [
+        ""
+      ],
+      "unconnected-(U17-RX_ER-Pad31)": [
+        ""
+      ],
+      "unconnected-(U17-THERMDA-Pad15)": [
+        ""
+      ],
+      "unconnected-(U17-THERMDC_VSS-Pad16)": [
+        ""
+      ],
+      "unconnected-(U17-TXD4-Pad43)": [
+        ""
+      ],
+      "unconnected-(U17-TXD5-Pad45)": [
+        ""
+      ],
+      "unconnected-(U17-TXD6-Pad46)": [
+        ""
+      ],
+      "unconnected-(U17-TXD7-Pad47)": [
+        ""
+      ],
+      "unconnected-(U17-TX_ER-Pad35)": [
+        ""
+      ],
+      "unconnected-(U19-CAP1_NC-Pad48)": [
+        ""
+      ],
+      "unconnected-(U19-CAP2_NC-Pad47)": [
+        ""
+      ],
+      "unconnected-(U19-EN-Pad9)": [
+        ""
+      ],
+      "unconnected-(U19-IO0-Pad23)": [
+        ""
+      ],
+      "unconnected-(U19-IO12-Pad18)": [
+        ""
+      ],
+      "unconnected-(U19-IO13-Pad20)": [
+        ""
+      ],
+      "unconnected-(U19-IO14-Pad17)": [
+        ""
+      ],
+      "unconnected-(U19-IO15-Pad21)": [
+        ""
+      ],
+      "unconnected-(U19-IO16-Pad25)": [
+        ""
+      ],
+      "unconnected-(U19-IO18-Pad35)": [
+        ""
+      ],
+      "unconnected-(U19-IO19-Pad38)": [
+        ""
+      ],
+      "unconnected-(U19-IO2-Pad22)": [
+        ""
+      ],
+      "unconnected-(U19-IO21-Pad42)": [
+        ""
+      ],
+      "unconnected-(U19-IO22-Pad39)": [
+        ""
+      ],
+      "unconnected-(U19-IO23-Pad36)": [
+        ""
+      ],
+      "unconnected-(U19-IO25-Pad14)": [
+        ""
+      ],
+      "unconnected-(U19-IO26-Pad15)": [
+        ""
+      ],
+      "unconnected-(U19-IO27-Pad16)": [
+        ""
+      ],
+      "unconnected-(U19-IO32-Pad12)": [
+        ""
+      ],
+      "unconnected-(U19-IO33-Pad13)": [
+        ""
+      ],
+      "unconnected-(U19-IO34-Pad10)": [
+        ""
+      ],
+      "unconnected-(U19-IO35-Pad11)": [
+        ""
+      ],
+      "unconnected-(U19-IO4-Pad24)": [
+        ""
+      ],
+      "unconnected-(U19-IO5-Pad34)": [
+        ""
+      ],
+      "unconnected-(U19-SD2{slash}IO9-Pad28)": [
+        ""
+      ],
+      "unconnected-(U19-SENSOR_CAPN-Pad7)": [
+        ""
+      ],
+      "unconnected-(U19-SENSOR_CAPP-Pad6)": [
+        ""
+      ],
+      "unconnected-(U19-SENSOR_VN-Pad8)": [
+        ""
+      ],
+      "unconnected-(U19-SENSOR_VP-Pad5)": [
+        ""
+      ],
+      "unconnected-(U19-VDD_SDIO-Pad26)": [
+        ""
+      ],
+      "unconnected-(U19-XTAL_N_NC-Pad44)": [
+        ""
+      ],
+      "unconnected-(U19-XTAL_P_NC-Pad45)": [
+        ""
+      ],
+      "unconnected-(U1A-SW1ALX-Pad8)": [
+        ""
+      ],
+      "unconnected-(U1A-SW1BLX-Pad9)": [
+        ""
+      ],
+      "unconnected-(U1A-SW1CFB-Pad13)": [
+        ""
+      ],
+      "unconnected-(U1A-SW1CLX-Pad11)": [
+        ""
+      ],
+      "unconnected-(U1A-SW1FB-Pad6)": [
+        ""
+      ],
+      "unconnected-(U1A-SW2FB-Pad25)": [
+        ""
+      ],
+      "unconnected-(U1A-SW2LX-Pad22)": [
+        ""
+      ],
+      "unconnected-(U1A-SW3AFB-Pad38)": [
+        ""
+      ],
+      "unconnected-(U1A-SW3ALX-Pad36)": [
+        ""
+      ],
+      "unconnected-(U1A-SW3BFB-Pad33)": [
+        ""
+      ],
+      "unconnected-(U1A-SW3BLX-Pad35)": [
+        ""
+      ],
+      "unconnected-(U1A-SW4FB-Pad19)": [
+        ""
+      ],
+      "unconnected-(U1A-SW4LX-Pad21)": [
+        ""
+      ],
+      "unconnected-(U1A-SWBSTFB-Pad44)": [
+        ""
+      ],
+      "unconnected-(U1A-SWBSTLX-Pad46)": [
+        ""
+      ],
+      "unconnected-(U1B-LICELL-Pad42)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN1-Pad16)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN2-Pad18)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN3-Pad26)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN4-Pad28)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN5-Pad39)": [
+        ""
+      ],
+      "unconnected-(U1B-VGEN6-Pad41)": [
+        ""
+      ],
+      "unconnected-(U1B-VHALF-Pad29)": [
+        ""
+      ],
+      "unconnected-(U1B-VINREFDDR-Pad30)": [
+        ""
+      ],
+      "unconnected-(U1B-VREFDDR-Pad31)": [
+        ""
+      ],
+      "unconnected-(U1B-VSNVS-Pad43)": [
+        ""
+      ],
+      "unconnected-(U1C-ICTEST-Pad5)": [
+        ""
+      ],
+      "unconnected-(U1C-INT#-Pad1)": [
+        ""
+      ],
+      "unconnected-(U1C-PWRON-Pad56)": [
+        ""
+      ],
+      "unconnected-(U1C-RESETMCU#-Pad3)": [
+        ""
+      ],
+      "unconnected-(U1C-SCL-Pad54)": [
+        ""
+      ],
+      "unconnected-(U1C-SDA-Pad53)": [
+        ""
+      ],
+      "unconnected-(U1C-SDWN#-Pad2)": [
+        ""
+      ],
+      "unconnected-(U1C-STANDBY-Pad4)": [
+        ""
+      ],
+      "unconnected-(U1C-VCORE-Pad49)": [
+        ""
+      ],
+      "unconnected-(U1C-VCOREDIG-Pad51)": [
+        ""
+      ],
+      "unconnected-(U1C-VCOREREF-Pad52)": [
+        ""
+      ],
+      "unconnected-(U1C-VDDIO-Pad55)": [
+        ""
+      ],
+      "unconnected-(U1C-VDDOTP-Pad47)": [
+        ""
+      ],
+      "unconnected-(U2-AGND-Pad30)": [
+        ""
+      ],
+      "unconnected-(U2-BST-Pad8)": [
+        ""
+      ],
+      "unconnected-(U2-ENL-Pad32)": [
+        ""
+      ],
+      "unconnected-(U2-EN{slash}PSV-Pad29)": [
+        ""
+      ],
+      "unconnected-(U2-FB-Pad1)": [
+        ""
+      ],
+      "unconnected-(U2-FBL-Pad5)": [
+        ""
+      ],
+      "unconnected-(U2-ILIM-Pad27)": [
+        ""
+      ],
+      "unconnected-(U2-LX-Pad13)": [
+        ""
+      ],
+      "unconnected-(U2-LX-Pad23)": [
+        ""
+      ],
+      "unconnected-(U2-LX-Pad24)": [
+        ""
+      ],
+      "unconnected-(U2-LX-Pad25)": [
+        ""
+      ],
+      "unconnected-(U2-LX-Pad28)": [
+        ""
+      ],
+      "unconnected-(U2-LX-PadP3)": [
+        ""
+      ],
+      "unconnected-(U2-NC-Pad12)": [
+        ""
+      ],
+      "unconnected-(U2-NC-Pad14)": [
+        ""
+      ],
+      "unconnected-(U2-PGOOD-Pad26)": [
+        ""
+      ],
+      "unconnected-(U2-SS-Pad7)": [
+        ""
+      ],
+      "unconnected-(U2-TON-Pad31)": [
+        ""
+      ],
+      "unconnected-(U2-VDD-Pad3)": [
+        ""
+      ],
+      "unconnected-(U2-VIN-Pad10)": [
+        ""
+      ],
+      "unconnected-(U2-VIN-Pad11)": [
+        ""
+      ],
+      "unconnected-(U2-VIN-Pad6)": [
+        ""
+      ],
+      "unconnected-(U2-VIN-Pad9)": [
+        ""
+      ],
+      "unconnected-(U2-VIN-PadP2)": [
+        ""
+      ],
+      "unconnected-(U3-EN-Pad3)": [
+        ""
+      ],
+      "unconnected-(U3-IN-Pad1)": [
+        ""
+      ],
+      "unconnected-(U3-NC-Pad4)": [
+        ""
+      ],
+      "unconnected-(U3-OUT-Pad5)": [
+        ""
+      ],
+      "unconnected-(U4-ADJ-Pad4)": [
+        ""
+      ],
+      "unconnected-(U4-EN-Pad3)": [
+        ""
+      ],
+      "unconnected-(U4-IN-Pad1)": [
+        ""
+      ],
+      "unconnected-(U4-OUT-Pad5)": [
+        ""
+      ],
+      "unconnected-(U5-EN-Pad5)": [
+        ""
+      ],
+      "unconnected-(U5-FB-Pad3)": [
+        ""
+      ],
+      "unconnected-(U5-MODE-Pad6)": [
+        ""
+      ],
+      "unconnected-(U5-OUT-Pad2)": [
+        ""
+      ],
+      "unconnected-(U5-PG-Pad7)": [
+        ""
+      ],
+      "unconnected-(U5-RAMP-Pad4)": [
+        ""
+      ],
+      "unconnected-(U5-SW-Pad1)": [
+        ""
+      ],
+      "unconnected-(U5-SW-Pad9)": [
+        ""
+      ],
+      "unconnected-(U5-VIN1-Pad8)": [
+        ""
+      ],
+      "unconnected-(U5-VIN2-Pad11)": [
+        ""
+      ],
+      "unconnected-(U6-EN-Pad5)": [
+        ""
+      ],
+      "unconnected-(U6-NC-Pad7)": [
+        ""
+      ],
+      "unconnected-(U6-SW-Pad2)": [
+        ""
+      ],
+      "unconnected-(U6-VIN-Pad6)": [
+        ""
+      ],
+      "unconnected-(U6-VOS-Pad1)": [
+        ""
+      ],
+      "unconnected-(U6-VSET-Pad4)": [
+        ""
+      ],
+      "unconnected-(U7-EN-Pad5)": [
+        ""
+      ],
+      "unconnected-(U7-FB-Pad3)": [
+        ""
+      ],
+      "unconnected-(U7-MODE-Pad6)": [
+        ""
+      ],
+      "unconnected-(U7-OUT-Pad2)": [
+        ""
+      ],
+      "unconnected-(U7-PG-Pad7)": [
+        ""
+      ],
+      "unconnected-(U7-RAMP-Pad4)": [
+        ""
+      ],
+      "unconnected-(U7-SW-Pad1)": [
+        ""
+      ],
+      "unconnected-(U7-SW-Pad9)": [
+        ""
+      ],
+      "unconnected-(U7-VIN1-Pad8)": [
+        ""
+      ],
+      "unconnected-(U7-VIN2-Pad11)": [
+        ""
+      ],
+      "unconnected-(U8-NMR-Pad3)": [
+        ""
+      ],
+      "unconnected-(U8-NRST-Pad2)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_A3_{slash}_A3-PadAC15)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_A4_{slash}_A4-PadAB16)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_A9_{slash}_A9-PadAB15)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_ACT_n_{slash}_A15-PadAE13)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_BA1_{slash}_BA1-PadAB12)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_CK_c_A_{slash}_CK#_A-PadAD15)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_CK_t_A_{slash}_CK_A-PadAE15)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_CS1_n_{slash}_CS1#-PadAC11)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_ODT0_{slash}_ODT0-PadAC12)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_ODT1_{slash}_ODT1-PadAE11)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_PARITY_{slash}_---PadAA12)": [
+        ""
+      ],
+      "unconnected-(U9B---_{slash}_RAS_n(A16)_{slash}_RAS#-PadAB10)": [
+        ""
+      ],
+      "unconnected-(U9B-MTEST1_{slash}_MTEST1(ALERT_n)_{slash}_MTEST1-PadAC13)": [
+        ""
+      ],
+      "unconnected-(U9B-MTEST_{slash}_MTEST_{slash}_MTEST-PadAB14)": [
+        ""
+      ],
+      "unconnected-(U9B-_--_{slash}_WE_n(A14)_{slash}_WE#-PadAC10)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_CE1_B-PadG21)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_CE2_B-PadF21)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_CE3_B-PadH20)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_CLE-PadH21)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_DATA04-PadL20)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_DATA05-PadJ22)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_DATA06-PadL19)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_DATA07-PadM19)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_DQS-PadM20)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_READY_B-PadK20)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_RE_B-PadK19)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_WE_B-PadK22)": [
+        ""
+      ],
+      "unconnected-(U9C-NAND_WP_B-PadK21)": [
+        ""
+      ]
+    },
     "netclass_patterns": [
       {
         "netclass": "DRamSE",
@@ -651,7 +3034,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../04_Production/01_SBC/",
+      "plot": "../04_Production/01_SBC/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "SBC.step",
@@ -662,6 +3045,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -763,6 +3147,7 @@
         ],
         "filter_string": "",
         "group_symbols": true,
+        "include_excluded_from_bom": false,
         "name": "Anas",
         "sort_asc": true,
         "sort_field": "Value"
@@ -876,6 +3261,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Value"
@@ -893,7 +3279,7 @@
           "visible": false
         }
       ],
-      "intersheets_ref_own_page": false,
+      "intersheets_ref_own_page": true,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": true,
@@ -914,8 +3300,9 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "E:\\Personal\\Projects\\ANAS_METWALLY_CSH.kicad_wks",
-    "plot_directory": "",
+    "page_layout_descr_file": "kicad-embed://ANAS_METWALLY_CSH.kicad_wks",
+    "plot_directory": "Prod/",
+    "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

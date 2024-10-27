@@ -1,15 +1,365 @@
 (kicad_sch
-	(version 20231120)
+	(version 20241004)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(uuid "8aaed6d1-6388-4dfb-8015-aa095e997bfa")
 	(paper "A3")
 	(title_block
 		(title "DQSBC")
-		(date "2023-12-28")
+		(date "2024-10-25")
 		(rev "1.00")
 	)
 	(lib_symbols)
+	(rectangle
+		(start 25.4 48.26)
+		(end 218.44 223.52)
+		(stroke
+			(width 1)
+			(type solid)
+			(color 0 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b25ec45a-f651-48b9-9555-5610321bee59)
+	)
+	(text "INIT."
+		(exclude_from_sim no)
+		(at 323.85 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+				(color 132 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "0928ce84-e2a2-4b87-a404-8262cd600563")
+	)
+	(text "DSI"
+		(exclude_from_sim no)
+		(at 154.94 118.11 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b24e50c-3caf-468f-85c4-efba114d42f0")
+	)
+	(text "POWER INPUT 5 ~ 25V DC"
+		(exclude_from_sim no)
+		(at 115.57 72.39 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "138d01c6-6afe-429b-98b6-a20373e25c65")
+	)
+	(text "HDMI"
+		(exclude_from_sim no)
+		(at 154.94 107.95 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "383dada8-1f1d-43cd-99c7-99049bb5a72c")
+	)
+	(text "x32bits"
+		(exclude_from_sim no)
+		(at 57.15 191.77 90)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "45685b89-632d-496e-90ea-365267c283b6")
+	)
+	(text "x8bits"
+		(exclude_from_sim no)
+		(at 77.47 191.77 90)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "4b7c33d9-2d94-477b-b3fa-37d3b96afd97")
+	)
+	(text "PCIE 0.2 X 2"
+		(exclude_from_sim no)
+		(at 154.94 163.83 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "8324e6f0-ae7d-40d0-b492-06d733f754ca")
+	)
+	(text "UARTS"
+		(exclude_from_sim no)
+		(at 154.94 148.59 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "8ead74b6-8937-461a-8b99-32abebe68619")
+	)
+	(text "I2CS"
+		(exclude_from_sim no)
+		(at 154.94 138.43 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "8fc7c0c3-6642-4402-8ec8-55681accdefa")
+	)
+	(text "USB"
+		(exclude_from_sim no)
+		(at 154.94 156.21 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "9ecfbf2f-9673-4c63-8ebc-f27fb9afcee3")
+	)
+	(text "RGMII"
+		(exclude_from_sim no)
+		(at 154.94 97.79 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "bccb5ce2-cd8c-410d-a0d5-1a5c67abf711")
+	)
+	(text "1.0"
+		(exclude_from_sim no)
+		(at 252.73 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+				(color 132 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "be590e97-7596-4779-92e8-5a0c6c5a8103")
+	)
+	(text "28.12.2023"
+		(exclude_from_sim no)
+		(at 284.48 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+				(color 132 0 0 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4b718b9-fa76-4c1f-87f7-55bdbc7532a0")
+	)
+	(text "GPIOS"
+		(exclude_from_sim no)
+		(at 154.94 128.27 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "f40a2435-0d4b-4afd-bb98-f1021a7961db")
+	)
+	(text_box "B2B CONNECTOR"
+		(exclude_from_sim no)
+		(at 195.58 71.12 90)
+		(size 5.08 137.16)
+		(margins 1.6 1.6 1.6 1.6)
+		(stroke
+			(width 0.2)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 0 0.39)
+		)
+		(effects
+			(font
+				(size 2 2)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "373bf4cc-b3b8-4302-9775-92a3c22026a6")
+	)
+	(text_box "EMMC 5.1\n16 GB"
+		(exclude_from_sim no)
+		(at 71.12 198.12 0)
+		(size 10.16 10.16)
+		(margins 1 1 1 1)
+		(stroke
+			(width 0.5)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "4840f16a-9a2d-4f27-9b10-75660d83c707")
+	)
+	(text_box "NOR FLASH\n256 Mbit"
+		(exclude_from_sim no)
+		(at 96.52 198.12 0)
+		(size 10.16 10.16)
+		(margins 1 1 1 1)
+		(stroke
+			(width 0.5)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "9e2fd04e-1e91-4e64-9a1c-2842c357f045")
+	)
+	(text_box "LPRRD4 RAM\n4 GB"
+		(exclude_from_sim no)
+		(at 50.8 198.12 0)
+		(size 10.16 10.16)
+		(margins 1 1 1 1)
+		(stroke
+			(width 0.5)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "b3a7469f-7327-45f2-9313-b0d6618f9b22")
+	)
+	(text_box "TABLE OF CONTENTS:"
+		(exclude_from_sim no)
+		(at 25.4 228.6 0)
+		(size 86.36 40.64)
+		(margins 2.75 2.75 2.75 2.75)
+		(stroke
+			(width 1)
+			(type default)
+			(color 0 0 194 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify left top)
+		)
+		(uuid "bd3f1ef7-422c-4a75-b31a-8cee9b7a4340")
+	)
+	(text_box "ENET\nPHY"
+		(exclude_from_sim no)
+		(at 182.88 93.98 0)
+		(size 7.62 10.16)
+		(margins 1 1 1 1)
+		(stroke
+			(width 0.5)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.4)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "efb4cdda-cd81-4f90-b2c9-4673c500738f")
+	)
+	(text_box "	1.	COVER\n	2.	POWER\n	3.	MPU\n	4.	MEMORIES\n	5.	IO\n"
+		(exclude_from_sim no)
+		(at 27.94 236.22 0)
+		(size 50.8 25.4)
+		(margins 2.0249 2.0249 2.0249 2.0249)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 2.7 2.7)
+			)
+			(justify left top)
+		)
+		(uuid "f8c56c7a-ae08-4188-b4a6-8f78fbb14c64")
+	)
 	(polyline
 		(pts
 			(xy 55.88 198.12) (xy 53.34 195.58)
@@ -419,7 +769,7 @@
 	)
 	(polyline
 		(pts
-			(xy 45.72 236.22) (xy 45.72 266.7)
+			(xy 41.91 236.22) (xy 41.91 266.7)
 		)
 		(stroke
 			(width 0)
@@ -547,352 +897,13 @@
 		)
 		(uuid "ff15de09-e180-4ff5-a7c7-ba45ad2b32da")
 	)
-	(rectangle
-		(start 25.4 48.26)
-		(end 218.44 223.52)
-		(stroke
-			(width 1)
-			(type solid)
-			(color 0 0 194 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid b25ec45a-f651-48b9-9555-5610321bee59)
-	)
-	(text_box "EDGE CONNECTOR"
-		(exclude_from_sim no)
-		(at 195.58 71.12 90)
-		(size 5.08 137.16)
-		(stroke
-			(width 0.2)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type color)
-			(color 72 72 0 1)
-		)
-		(effects
-			(font
-				(size 2 2)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "373bf4cc-b3b8-4302-9775-92a3c22026a6")
-	)
-	(text_box "EMMC 5.1\n16 GB"
-		(exclude_from_sim no)
-		(at 71.12 198.12 0)
-		(size 10.16 10.16)
-		(stroke
-			(width 0.5)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "4840f16a-9a2d-4f27-9b10-75660d83c707")
-	)
-	(text_box "NOR FLASH\n256 Mbit"
-		(exclude_from_sim no)
-		(at 96.52 198.12 0)
-		(size 10.16 10.16)
-		(stroke
-			(width 0.5)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "9e2fd04e-1e91-4e64-9a1c-2842c357f045")
-	)
-	(text_box "LPRRD4 RAM\n4 GB"
-		(exclude_from_sim no)
-		(at 50.8 198.12 0)
-		(size 10.16 10.16)
-		(stroke
-			(width 0.5)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "b3a7469f-7327-45f2-9313-b0d6618f9b22")
-	)
-	(text_box "TABLE OF CONTENTS:"
-		(exclude_from_sim no)
-		(at 25.4 228.6 0)
-		(size 86.36 40.64)
-		(stroke
-			(width 1)
-			(type default)
-			(color 0 0 194 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 3 3)
-			)
-			(justify left top)
-		)
-		(uuid "bd3f1ef7-422c-4a75-b31a-8cee9b7a4340")
-	)
-	(text_box "ENET\nPHY"
-		(exclude_from_sim no)
-		(at 182.88 93.98 0)
-		(size 7.62 10.16)
-		(stroke
-			(width 0.5)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "efb4cdda-cd81-4f90-b2c9-4673c500738f")
-	)
-	(text_box "	1.	COVER\n	2.	POWER\n	3.	MPU\n	4.	MEMORIES\n	5.	IO\n"
-		(exclude_from_sim no)
-		(at 27.94 236.22 0)
-		(size 50.8 25.4)
-		(stroke
-			(width -0.0001)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 2.7 2.7)
-			)
-			(justify left top)
-		)
-		(uuid "f8c56c7a-ae08-4188-b4a6-8f78fbb14c64")
-	)
-	(text "INIT."
-		(exclude_from_sim no)
-		(at 323.85 34.29 0)
-		(effects
-			(font
-				(size 2 2)
-				(color 132 0 0 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "0928ce84-e2a2-4b87-a404-8262cd600563")
-	)
-	(text "DSI"
-		(exclude_from_sim no)
-		(at 154.94 118.11 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b24e50c-3caf-468f-85c4-efba114d42f0")
-	)
-	(text "POWER INPUT 5 ~ 25V DC"
-		(exclude_from_sim no)
-		(at 115.57 72.39 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "138d01c6-6afe-429b-98b6-a20373e25c65")
-	)
-	(text "HDMI"
-		(exclude_from_sim no)
-		(at 154.94 107.95 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "383dada8-1f1d-43cd-99c7-99049bb5a72c")
-	)
-	(text "x32bits"
-		(exclude_from_sim no)
-		(at 57.15 191.77 90)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-		)
-		(uuid "45685b89-632d-496e-90ea-365267c283b6")
-	)
-	(text "x8bits"
-		(exclude_from_sim no)
-		(at 77.47 191.77 90)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-		)
-		(uuid "4b7c33d9-2d94-477b-b3fa-37d3b96afd97")
-	)
-	(text "PCIE 0.2 X 2"
-		(exclude_from_sim no)
-		(at 154.94 163.83 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8324e6f0-ae7d-40d0-b492-06d733f754ca")
-	)
-	(text "UARTS"
-		(exclude_from_sim no)
-		(at 154.94 148.59 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8ead74b6-8937-461a-8b99-32abebe68619")
-	)
-	(text "I2CS"
-		(exclude_from_sim no)
-		(at 154.94 138.43 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8fc7c0c3-6642-4402-8ec8-55681accdefa")
-	)
-	(text "USB"
-		(exclude_from_sim no)
-		(at 154.94 156.21 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ecfbf2f-9673-4c63-8ebc-f27fb9afcee3")
-	)
-	(text "RGMII"
-		(exclude_from_sim no)
-		(at 154.94 97.79 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "bccb5ce2-cd8c-410d-a0d5-1a5c67abf711")
-	)
-	(text "1.0"
-		(exclude_from_sim no)
-		(at 252.73 34.29 0)
-		(effects
-			(font
-				(size 2 2)
-				(color 132 0 0 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "be590e97-7596-4779-92e8-5a0c6c5a8103")
-	)
-	(text "28.12.2023"
-		(exclude_from_sim no)
-		(at 284.48 34.29 0)
-		(effects
-			(font
-				(size 2 2)
-				(color 132 0 0 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "e4b718b9-fa76-4c1f-87f7-55bdbc7532a0")
-	)
-	(text "GPIOS"
-		(exclude_from_sim no)
-		(at 154.94 128.27 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-				(color 0 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "f40a2435-0d4b-4afd-bb98-f1021a7961db")
-	)
 	(sheet
 		(at 35.56 93.98)
 		(size 104.14 91.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -931,6 +942,10 @@
 	(sheet
 		(at 35.56 66.04)
 		(size 55.88 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -969,6 +984,10 @@
 	(sheet
 		(at 35.56 195.58)
 		(size 104.14 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -1007,6 +1026,10 @@
 	(sheet
 		(at 180.34 66.04)
 		(size 22.86 147.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.5)
 			(type solid)
@@ -1045,6 +1068,30 @@
 	(sheet_instances
 		(path "/"
 			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "ANAS_METWALLY_CSH.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WDeC50ZADakcSHwth4U7ILG4+ermDl85qeSRg5tC5X9BUWJyBnEYbFx+AtlAGUAawB9/Pnz
+				Owd7Wb0lEDwOgbr6LmIe2r3vkNzd08m8siZ9nTscDGk6B4+Wpdd8T99kEtZ5rCx70cenXPYS7tWT
+				oo7L6h8QsPjueYM1I/l8d5BjjTvVW4g66+udS45H1ZcgkmYDihlUBW8zzddRuM+7mGdsCy5Sp6WX
+				9vaqWupaNobmXr6PQxE+gTvI4JybOO4ai2/i5F6KPrY+3UzV/gzDcFILq77rzaFv65ebFFDB9xLu
+				YbcTs/WnrW8qcVHn6q36HcSktdG4eotjzbcYVXGx6ldLQMLdc5y5aC9EkFOnvbTXsIxaujuZUBaW
+				xYVQPEoRCGsN16x1zqu+htCuTMPshQ0KqQHHYUjUPe5M7E627kq4xpgb38EQ35znmAQrB+9Wtsop
+				f/XSEJXDXG+EPcFrHAptsXrswgKAgGUN9u08GC7MpT9/fsXo8z1W0ziCpI4nX4J6M+5wJt67nYP7
+				LqNWjWYZj2L5uMdfR7c9Fjar2YFmn2l2snmOjWNEFhSJwmoaNVDTqDfFHZB8vXMnt80O1XCglGqI
+				imFXYuEsfx1b5RCAn6AhRQWNTDAikhYkmQ5wRITkivOozfneuudTmnDbzpuAr1wKYl2dRa2S9SWs
+				Bo7vm9mRm3BW4BTdFoAFLjjHmpzXheSMzcpo4Mnbh84qWQgDozDxoIR0lciDxkOA8C241rxNmse8
+				CE7NM9WXDuIFZ7hn64kysHMkYfaO7nH/iQJ8xMGHBU5+HYd+LsuTqhkGmpHpFeiY0Qhn2xYON5rI
+				f3j2geKLxB7GnGfZ44JnARgiJdqsK2j6VWkOhl9u+moVgEEsS0kHQQLh7y6fASeoxO7ZvXFAA3Af
+				RyOC0bQHZYXN6m4XGuatpZWlJ4J4PKDoCU3qWnMrwwSwy6UAMoTpIrLVaBva6omiSd2W8ToJ786C
+				veCP6igBmkn49KLSswznzwEP8ro+jMusHy1AcQINJz6fvbMci66SQUTO9MZRQSp0EbxAxREtEewQ
+				aa08dsW1pFBgBhUYuWxAzo2oB/GLew0stH2otuoa/g==|
+			)
+			(checksum "573387D24A9E7D96EA7E70B307ACFC3F")
 		)
 	)
 )
